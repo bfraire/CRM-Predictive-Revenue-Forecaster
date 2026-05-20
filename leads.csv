@@ -1,0 +1,1501 @@
+lead_id,lead_name,company,title,lead_source,status,team,assigned_agent,created_date,converted_date
+L00001,Ben Scott,Atlas Group,VP Sales,Cold Outreach,Dead,SMB,Fiona Kim,2024-09-21,
+L00002,James Chen,Midpoint Dynamics,CEO,Event,New,Partnerships,Sarah Phillips,2021-10-29,
+L00003,Carlos Baker,Titan LLC,CEO,Email Campaign,Converted,Mid-Market,Claire Clark,2024-03-24,
+L00004,Ivan Nelson,Ridge Group,Analyst,Referral,Converted,Mid-Market,Andre Anderson,2021-01-12,
+L00005,Miguel Walker,Highland LLC,CFO,Cold Outreach,New,Partnerships,Ben Baker,2024-11-26,
+L00006,Miguel Allen,Summit Solutions,CTO,Email Campaign,Disqualified,Outbound,Andre Thompson,2024-09-29,
+L00007,Raj Turner,Elms Inc,Manager,Email Campaign,Converted,SMB,Chris Clark,2024-01-28,
+L00008,Eric Nelson,Oaks Solutions,CEO,Cold Outreach,Nurturing,Partnerships,Carlos Garcia,2022-07-22,
+L00009,Thomas Taylor,Perseus Partners,CFO,Referral,Working,Mid-Market,Fiona Kim,2022-04-26,
+L00010,Chris Thompson,Lakeshore Group,CEO,LinkedIn,Nurturing,Inbound,George Green,2021-11-09,
+L00011,George Clark,Stratos Inc,Analyst,Event,Dead,Enterprise,Maria Hill,2022-02-28,
+L00012,Elena Nelson,Stratos Inc,Analyst,LinkedIn,Disqualified,Outbound,Maria Adams,2022-12-22,
+L00013,Zoe Garcia,Dynamo Group,CEO,Email Campaign,New,Partnerships,Yuki Roberts,2022-03-28,
+L00014,Dana Kim,Helix Dynamics,CEO,Trade Show,Disqualified,Inbound,David Lewis,2023-04-09,
+L00015,Andre Adams,Nexus Solutions,VP Sales,LinkedIn,Working,Partnerships,Andre Anderson,2024-04-27,2024-06-24
+L00016,Carlos Walker,Perseus Partners,CTO,LinkedIn,Nurturing,Partnerships,Marcus Anderson,2022-11-02,
+L00017,James Hill,Eastbrook Co,VP Sales,Partner,Working,Outbound,Carlos Garcia,2023-08-22,
+L00018,Maria Nelson,Nexus Solutions,Director IT,Cold Outreach,New,Inbound,Claire Clark,2024-08-27,2024-11-05
+L00019,Sarah Lewis,Meridian LLC,Director IT,Email Campaign,Dead,SMB,Thomas Carter,2024-10-03,2024-12-29
+L00020,Eric Mitchell,Elms Inc,CTO,Referral,Disqualified,Enterprise,Sarah Williams,2021-08-23,
+L00021,Omar Baker,Valley Global,VP Sales,Event,Dead,Outbound,Chris Clark,2023-02-08,2023-05-27
+L00022,Hannah Adams,Summit Solutions,Analyst,Referral,Disqualified,Enterprise,Yuki Scott,2022-09-10,
+L00023,Yuki Williams,Rigel Co,Manager,Partner,New,Partnerships,Hannah Robinson,2024-09-16,2024-11-11
+L00024,Ivan Mitchell,Solara Technologies,Manager,Trade Show,Converted,Mid-Market,Chris Williams,2024-07-25,
+L00025,Sofia Carter,Canyon Global,CFO,Email Campaign,Converted,Partnerships,Kevin Thompson,2022-07-08,
+L00026,George Phillips,Vortex Technologies,CTO,Email Campaign,Working,Partnerships,Maria Hill,2022-05-18,
+L00027,Hannah Taylor,Redpoint Inc,CEO,Cold Outreach,Nurturing,SMB,Yuki Roberts,2023-10-10,2024-01-04
+L00028,Ivan Anderson,Orion Co,VP Sales,Inbound Call,Working,Enterprise,Chris Clark,2024-12-07,
+L00029,Claire Nelson,Midpoint Dynamics,Manager,Email Campaign,Dead,Outbound,Hannah Robinson,2023-09-28,
+L00030,David Lee,Zenith Global,CEO,Cold Outreach,Nurturing,Outbound,Thomas Carter,2021-02-05,
+L00031,Yuki Clark,Riverside Corp,CFO,Partner,Nurturing,Outbound,George Green,2023-12-24,2024-02-04
+L00032,Sarah Hill,Valley Global,CTO,Referral,Dead,Inbound,Andre Anderson,2022-04-18,2022-07-31
+L00033,Thomas Hill,Apex Group,Analyst,Inbound Call,Disqualified,SMB,James Allen,2023-09-19,
+L00034,Aisha Robinson,Redpoint Inc,CTO,Website,Dead,Inbound,Ben Baker,2022-08-30,2022-09-15
+L00035,Elena Baker,Meridian LLC,Director IT,Email Campaign,New,Enterprise,Eric Taylor,2024-02-08,
+L00036,Marcus Kim,Bayview Corp,VP Sales,Webinar,Converted,Enterprise,Carlos Garcia,2023-06-22,
+L00037,Andre Green,Cypress Global,VP Sales,Trade Show,Working,Inbound,Sarah Williams,2021-06-01,2021-07-12
+L00038,Claire Nelson,Northgate LLC,CFO,Event,Disqualified,Mid-Market,Chris Williams,2021-08-31,
+L00039,Elena Roberts,Apex Group,CEO,Webinar,Disqualified,Inbound,James Williams,2023-06-26,
+L00040,Eric Thompson,Eagle Global,Director IT,Webinar,Dead,Enterprise,Aisha Walker,2021-07-23,2021-10-11
+L00041,Priya Johnson,Northgate LLC,CEO,Event,Converted,SMB,Natalie Chen,2021-06-03,2021-09-11
+L00042,Chris Roberts,Solara Technologies,VP Sales,Cold Outreach,Nurturing,Outbound,Fiona Roberts,2022-08-03,
+L00043,Aisha Green,Crestview Global,CTO,Trade Show,New,Enterprise,Aisha Walker,2024-01-21,
+L00044,Dana Mitchell,Goldridge Global,CTO,Email Campaign,New,Partnerships,Sarah Williams,2024-05-03,
+L00045,Miguel Allen,Raven Dynamics,CEO,Referral,Disqualified,Enterprise,Omar Williams,2022-07-12,
+L00046,Thomas Johnson,Vortex Technologies,Director IT,Event,Disqualified,Enterprise,Kevin Thompson,2024-05-21,
+L00047,Zoe Young,Southshore Partners,CEO,Webinar,Working,Inbound,Omar Williams,2021-12-25,
+L00048,David Hall,Sirius Partners,CEO,Partner,Nurturing,Outbound,James Allen,2023-10-05,
+L00049,Natalie Baker,Raven Dynamics,CTO,LinkedIn,Disqualified,Enterprise,George Green,2022-11-07,2022-12-19
+L00050,Sarah Nelson,Prism Group,Analyst,Inbound Call,New,Outbound,Maria Adams,2022-10-25,
+L00051,Carlos Young,Vega Solutions,CFO,Email Campaign,Dead,Partnerships,James Williams,2021-04-22,2021-07-11
+L00052,Jess Lee,Crossroads Systems,Manager,Email Campaign,New,Enterprise,Chris Clark,2021-09-26,
+L00053,Claire Johnson,Orion Co,CEO,Referral,Working,Enterprise,George Green,2022-09-29,
+L00054,George Martinez,Raven Dynamics,Manager,Webinar,Disqualified,Outbound,Kevin Thompson,2024-08-19,
+L00055,Zoe Garcia,Solara Technologies,CFO,Trade Show,Converted,Mid-Market,Andre Thompson,2023-09-16,
+L00056,Hannah Williams,Dynamo Group,Analyst,LinkedIn,Nurturing,Inbound,Kevin Thompson,2021-10-07,
+L00057,Dana Lee,Helix Dynamics,CFO,Event,Dead,Partnerships,Claire Clark,2022-08-03,
+L00058,Yuki Taylor,Orion Co,Analyst,Inbound Call,Converted,Partnerships,Omar Patel,2023-09-19,
+L00059,Aisha Lewis,Stratos Inc,Director IT,LinkedIn,New,SMB,Sofia Turner,2024-11-29,
+L00060,Omar Adams,Plains Partners,Analyst,Trade Show,Converted,Enterprise,Ben Baker,2023-02-20,
+L00061,Marcus Roberts,Harbor Technologies,Analyst,Email Campaign,New,Inbound,George Green,2024-04-23,2024-05-21
+L00062,Hannah Green,Crestview Global,VP Sales,Email Campaign,Nurturing,SMB,Raj Allen,2023-04-20,
+L00063,Hannah Adams,Cedar Ventures,CFO,LinkedIn,Nurturing,Outbound,Hannah Robinson,2022-11-04,
+L00064,Sofia Williams,Midpoint Dynamics,Manager,Webinar,Working,Outbound,Miguel Scott,2021-03-15,
+L00065,Eric Green,Falcon Systems,Analyst,Referral,Converted,Mid-Market,Sarah Williams,2021-07-21,
+L00066,Marcus Carter,Highland LLC,CTO,Partner,Nurturing,Partnerships,Claire Clark,2021-04-05,2021-06-06
+L00067,Layla Carter,Redpoint Inc,Director IT,Trade Show,New,Inbound,Maria Hill,2024-03-05,
+L00068,Zoe Phillips,Apex Group,Director IT,Cold Outreach,Converted,Outbound,Marcus Anderson,2022-05-09,
+L00069,James Turner,Maple Group,CEO,Webinar,Dead,Inbound,Aisha Walker,2024-09-27,2024-11-20
+L00070,Elena Green,Bayview Corp,CEO,Webinar,Converted,SMB,Fiona Roberts,2024-04-18,
+L00071,Sarah Garcia,Stratos Inc,CFO,Partner,Disqualified,SMB,Eric Taylor,2023-09-17,2024-01-11
+L00072,Omar Anderson,Clearwater Ventures,CFO,Website,Disqualified,Outbound,Hannah Robinson,2024-09-10,
+L00073,Eric Carter,Zenith Global,CFO,Partner,Working,Outbound,Fiona Roberts,2022-08-10,
+L00074,Eric Hill,Meadows Technologies,Manager,Trade Show,Dead,Enterprise,Natalie Chen,2024-10-20,
+L00075,Maria Lewis,Vega Solutions,Manager,Trade Show,New,SMB,Omar Patel,2023-06-22,
+L00076,Carlos Martinez,Plains Partners,CFO,Partner,Disqualified,Inbound,Kevin Thompson,2021-12-26,
+L00077,Jess Mitchell,Meridian LLC,CEO,Webinar,Dead,SMB,Carlos Baker,2022-06-11,
+L00078,Kevin Nelson,Bayview Corp,Director IT,LinkedIn,Disqualified,SMB,Miguel Scott,2021-06-04,
+L00079,Thomas Allen,Pines Systems,CEO,Partner,Dead,Outbound,Marcus Anderson,2021-01-29,
+L00080,Yuki Patel,Cypress Global,Director IT,Email Campaign,New,Inbound,Omar Patel,2024-07-31,
+L00081,Ben Williams,Eagle Global,Analyst,Email Campaign,Dead,SMB,Sarah Phillips,2022-03-30,2022-04-14
+L00082,Elena Hall,Pines Systems,VP Sales,Cold Outreach,Disqualified,Mid-Market,Maria Hill,2021-03-18,
+L00083,Dana Baker,Meridian LLC,CFO,LinkedIn,Disqualified,Outbound,Claire Clark,2024-10-05,
+L00084,Sarah Mitchell,Raven Dynamics,CFO,LinkedIn,Nurturing,Enterprise,Thomas Carter,2024-09-03,2024-11-08
+L00085,Hannah Robinson,Harbor Technologies,Manager,Partner,Disqualified,Outbound,Yuki Scott,2022-04-29,2022-06-13
+L00086,Sarah Roberts,Bluestone Global,CEO,Referral,Dead,Mid-Market,David Lewis,2022-01-24,2022-03-17
+L00087,Kevin Carter,Goldridge Global,Director IT,Referral,Disqualified,Mid-Market,James Nelson,2022-05-14,
+L00088,Marcus Nelson,Crestview Global,Analyst,Event,New,SMB,Claire Clark,2022-04-23,
+L00089,Thomas Carter,Redpoint Inc,VP Sales,Website,Working,Enterprise,Yuki Scott,2024-01-12,
+L00090,Andre Taylor,Nexus Solutions,Director IT,Webinar,New,Mid-Market,Sarah Phillips,2022-05-03,
+L00091,Zoe Walker,Meadows Technologies,CTO,Inbound Call,Disqualified,Enterprise,Claire Lee,2021-05-11,
+L00092,Maria Hill,Plains Partners,Analyst,Inbound Call,Nurturing,Partnerships,David Lewis,2024-06-13,2024-08-23
+L00093,Natalie Adams,Harbor Technologies,CEO,Email Campaign,New,Enterprise,Omar Patel,2023-04-03,
+L00094,Kevin Anderson,Birch Co,Manager,Event,Disqualified,Outbound,Omar Patel,2021-05-15,
+L00095,Miguel Lee,Solara Technologies,CFO,Event,Converted,Enterprise,Carlos Baker,2024-05-08,
+L00096,Ivan Nelson,Orion Co,Manager,Cold Outreach,Converted,Partnerships,Fiona Kim,2024-08-26,
+L00097,Omar Clark,Silverline Co,VP Sales,Partner,Converted,SMB,Marcus Anderson,2023-07-18,
+L00098,Layla Phillips,Westfall Group,VP Sales,Referral,New,Enterprise,Omar Williams,2021-11-09,2022-02-21
+L00099,Fiona Martinez,Orion Co,VP Sales,Event,Disqualified,Inbound,Yuki Roberts,2023-02-03,
+L00100,Yuki Roberts,Willow Group,Analyst,LinkedIn,Dead,Enterprise,Eric Taylor,2023-04-22,
+L00101,Sarah Lewis,Rigel Co,Director IT,Trade Show,Dead,Partnerships,Fiona Kim,2022-12-22,
+L00102,Hannah Allen,Vega Solutions,VP Sales,Webinar,Disqualified,Mid-Market,Omar Williams,2022-12-19,
+L00103,Sofia Adams,Southshore Partners,CFO,Website,Disqualified,Outbound,Kevin Thompson,2024-06-27,2024-08-10
+L00104,Eric Lee,Canyon Global,CTO,Partner,New,Mid-Market,Claire Clark,2024-12-10,
+L00105,David Martinez,Riverside Corp,Manager,Website,New,Outbound,Chris Williams,2023-04-01,2023-06-03
+L00106,Marcus Kim,Vega Solutions,CTO,Partner,Disqualified,Inbound,Miguel Scott,2023-07-19,
+L00107,Priya Nelson,Birch Co,VP Sales,Referral,Nurturing,Partnerships,Omar Williams,2021-11-15,
+L00108,Natalie Anderson,Ironwood Solutions,Analyst,Inbound Call,New,SMB,Omar Williams,2023-06-25,2023-09-29
+L00109,Andre Hall,Oaks Solutions,Manager,Webinar,New,Mid-Market,Raj Allen,2024-10-21,
+L00110,James Thompson,Orbis Systems,Director IT,Trade Show,Nurturing,SMB,Omar Patel,2021-04-23,2021-07-05
+L00111,Priya Martinez,Stratos Inc,CFO,Cold Outreach,Disqualified,Inbound,Yuki Scott,2023-06-01,2023-09-29
+L00112,Natalie Johnson,Solara Technologies,VP Sales,Partner,Disqualified,Partnerships,Raj Allen,2021-03-28,
+L00113,Elena Patel,Prism Group,VP Sales,Partner,Working,Inbound,George Green,2023-05-06,
+L00114,David Clark,Cedar Ventures,VP Sales,Cold Outreach,Converted,Inbound,Raj Allen,2023-01-12,
+L00115,Hannah Lee,Riverside Corp,CTO,Cold Outreach,Nurturing,Mid-Market,Carlos Garcia,2023-03-22,
+L00116,Miguel Young,Valley Global,Analyst,Partner,Nurturing,Outbound,Claire Clark,2021-08-22,2021-09-19
+L00117,Carlos Kim,Summit Solutions,Director IT,Referral,Working,Outbound,Hannah Robinson,2022-06-09,
+L00118,Eric Lewis,Crossroads Systems,Manager,Event,Dead,Outbound,Omar Patel,2024-02-29,
+L00119,Marcus Martinez,Crossroads Systems,VP Sales,Email Campaign,Converted,Outbound,Sarah Williams,2024-07-08,
+L00120,Maria Robinson,Rigel Co,VP Sales,Webinar,Converted,Partnerships,Natalie Chen,2024-04-26,2024-08-20
+L00121,David Green,Ridge Group,Analyst,Referral,Disqualified,Inbound,Andre Thompson,2022-08-11,
+L00122,Claire Carter,Riverside Corp,VP Sales,Email Campaign,Disqualified,Outbound,Fiona Roberts,2024-04-03,
+L00123,Miguel Martinez,Bayview Corp,VP Sales,Email Campaign,New,SMB,Miguel Scott,2023-09-02,
+L00124,Maria Garcia,Falcon Systems,CEO,Email Campaign,Disqualified,Inbound,Aisha Walker,2021-12-20,
+L00125,Omar Clark,Meadows Technologies,CTO,Event,New,Outbound,Yuki Roberts,2022-08-03,2022-08-25
+L00126,Layla Harris,Aspen Technologies,CTO,Event,Working,SMB,Miguel Scott,2024-02-17,
+L00127,Jess Robinson,Orbis Systems,Manager,LinkedIn,Working,Inbound,Miguel Scott,2021-10-17,
+L00128,Ben Carter,Atlas Group,Analyst,Trade Show,Dead,Outbound,Chris Williams,2023-02-11,2023-05-17
+L00129,Miguel Robinson,Nexus Solutions,CTO,Webinar,Working,Mid-Market,Yuki Roberts,2023-05-18,
+L00130,Carlos Garcia,Brightfield Global,Director IT,Referral,Nurturing,Enterprise,Andre Thompson,2023-09-23,
+L00131,Maria Adams,Atlas Group,Analyst,Event,Working,Inbound,Maria Hill,2023-12-15,2024-01-17
+L00132,Eric Scott,Maple Group,Director IT,Email Campaign,New,Partnerships,Thomas Carter,2024-11-19,
+L00133,Raj Scott,Aspen Technologies,Analyst,Email Campaign,Working,Inbound,Chris Clark,2022-05-02,
+L00134,Ivan Mitchell,Valley Global,CTO,Event,Converted,Partnerships,Eric Taylor,2023-08-19,
+L00135,Miguel Clark,Bayview Corp,Director IT,Cold Outreach,Disqualified,Mid-Market,Marcus Anderson,2023-10-27,2024-01-06
+L00136,Claire Phillips,Harbor Technologies,Manager,Inbound Call,New,SMB,Miguel Scott,2023-01-31,
+L00137,Raj Turner,Rigel Co,Director IT,LinkedIn,New,Mid-Market,Claire Lee,2022-07-13,
+L00138,Natalie Chen,Prism Group,CFO,Partner,Working,Partnerships,Miguel Scott,2021-02-24,
+L00139,Marcus Phillips,Harbor Technologies,Analyst,Partner,Working,Mid-Market,Natalie Chen,2021-02-27,2021-06-23
+L00140,Chris Mitchell,Brightfield Global,Analyst,Email Campaign,Converted,Inbound,Ivan Allen,2023-08-26,
+L00141,Thomas Thompson,Helix Dynamics,Director IT,Inbound Call,Dead,Inbound,Chris Williams,2021-02-08,
+L00142,Aisha Lee,Pines Systems,VP Sales,Cold Outreach,Converted,Outbound,George Green,2022-08-14,2022-12-09
+L00143,Sofia Allen,Nexus Solutions,Manager,Inbound Call,Disqualified,Mid-Market,Claire Clark,2023-10-21,2023-10-31
+L00144,Yuki Garcia,Goldridge Global,CEO,Trade Show,Dead,Outbound,Miguel Scott,2024-06-13,
+L00145,David Young,Eastbrook Co,CFO,Inbound Call,Disqualified,Enterprise,Maria Hill,2023-01-09,
+L00146,Ben Harris,Vega Solutions,CTO,Website,Nurturing,Enterprise,Yuki Scott,2021-03-31,2021-07-03
+L00147,Sarah Nelson,Apex Group,Manager,Partner,Working,Enterprise,Yuki Scott,2024-07-10,
+L00148,Priya Mitchell,Meadows Technologies,Manager,Email Campaign,Dead,Partnerships,Andre Anderson,2024-08-09,
+L00149,Chris Nelson,Meridian LLC,CEO,Website,Nurturing,Mid-Market,Natalie Chen,2021-05-10,
+L00150,Marcus Phillips,Orbis Systems,CFO,LinkedIn,Disqualified,Partnerships,Marcus Anderson,2021-03-27,2021-06-27
+L00151,Elena Robinson,Ridge Group,Analyst,Website,Dead,SMB,Kevin Thompson,2022-01-27,2022-03-25
+L00152,Ivan Harris,Riverside Corp,CEO,LinkedIn,Nurturing,Mid-Market,Hannah Robinson,2023-06-14,
+L00153,Jess Carter,Oaks Solutions,CTO,Referral,Dead,Partnerships,Miguel Scott,2023-01-23,
+L00154,Claire Lee,Perseus Partners,VP Sales,Referral,Nurturing,Outbound,Eric Taylor,2022-01-05,
+L00155,Chris Clark,Elms Inc,Manager,Email Campaign,Nurturing,Partnerships,Natalie Chen,2024-05-19,
+L00156,Sofia Clark,Dynamo Group,Manager,Website,New,Outbound,Raj Allen,2022-12-24,
+L00157,Priya Johnson,Crestview Global,Analyst,Event,Dead,Partnerships,Natalie Chen,2024-10-23,2024-12-02
+L00158,Yuki Robinson,Stratos Inc,CFO,Website,Disqualified,Mid-Market,Claire Lee,2024-08-14,
+L00159,Raj Nelson,Lakeshore Group,CFO,Trade Show,Disqualified,SMB,Raj Allen,2023-02-01,
+L00160,Aisha Patel,Nexus Solutions,Manager,Trade Show,Converted,Inbound,Maria Hill,2022-07-25,
+L00161,Thomas Nelson,Quanta Solutions,Manager,Email Campaign,Working,Inbound,Eric Taylor,2021-08-30,
+L00162,Carlos Patel,Brightfield Global,Analyst,Referral,Converted,Mid-Market,Claire Lee,2023-10-03,
+L00163,Hannah Taylor,Willow Group,CTO,Referral,Disqualified,Inbound,Eric Taylor,2024-10-28,
+L00164,Chris Baker,Phoenix LLC,Manager,Trade Show,Nurturing,Inbound,Fiona Kim,2021-11-19,2021-12-24
+L00165,Aisha Carter,Raven Dynamics,VP Sales,Partner,Disqualified,Inbound,Thomas Carter,2021-10-12,
+L00166,Kevin Scott,Hawk Dynamics,VP Sales,Referral,Nurturing,Partnerships,Sofia Turner,2024-02-04,
+L00167,George Lewis,Lakeshore Group,Director IT,Partner,Dead,Enterprise,Claire Lee,2023-04-19,
+L00168,Yuki Martinez,Hawk Dynamics,Analyst,Inbound Call,Dead,Inbound,Andre Anderson,2023-11-26,
+L00169,Natalie Young,Canyon Global,Analyst,Website,New,Inbound,Claire Clark,2021-09-22,
+L00170,Marcus Phillips,Falcon Systems,Director IT,Partner,Disqualified,SMB,Miguel Scott,2021-11-28,2022-02-27
+L00171,Thomas Martinez,Eagle Global,CTO,Event,Disqualified,Enterprise,Andre Thompson,2024-02-03,
+L00172,Andre Martinez,Elms Inc,Manager,Event,Dead,Inbound,Yuki Roberts,2024-04-27,
+L00173,Maria Mitchell,Ridge Group,VP Sales,Referral,New,Outbound,Marcus Anderson,2024-02-29,
+L00174,Natalie Scott,Eagle Global,VP Sales,Email Campaign,Dead,Inbound,Eric Taylor,2024-03-17,
+L00175,Zoe Garcia,Maple Group,Analyst,LinkedIn,Nurturing,Partnerships,Carlos Garcia,2022-09-11,
+L00176,Raj Clark,Westfall Group,CEO,Cold Outreach,Nurturing,Inbound,Claire Clark,2021-11-20,
+L00177,Dana Roberts,Sirius Partners,CEO,Trade Show,Nurturing,Inbound,James Allen,2022-10-16,
+L00178,Sarah Anderson,Crossroads Systems,Director IT,Trade Show,New,Enterprise,Eric Taylor,2023-08-14,
+L00179,Natalie Garcia,Bayview Corp,Analyst,Trade Show,Nurturing,Inbound,Omar Patel,2024-06-14,2024-07-14
+L00180,Miguel Walker,Raven Dynamics,CTO,Email Campaign,New,Enterprise,Raj Allen,2023-10-18,
+L00181,Carlos Lewis,Sirius Partners,VP Sales,Website,Nurturing,Partnerships,Sofia Turner,2022-05-09,2022-05-20
+L00182,Natalie Martinez,Hawk Dynamics,CTO,Partner,Converted,SMB,Natalie Chen,2021-08-09,
+L00183,Claire Thompson,Vega Solutions,CFO,Webinar,New,Partnerships,Andre Thompson,2024-03-13,
+L00184,Thomas Mitchell,Birch Co,Manager,Event,New,Mid-Market,James Allen,2024-02-01,
+L00185,Claire Robinson,Pinnacle Technologies,Director IT,Cold Outreach,Disqualified,Inbound,Raj Allen,2022-11-26,
+L00186,Maria Martinez,Falcon Systems,CTO,Email Campaign,Disqualified,Partnerships,Claire Clark,2021-04-03,
+L00187,Kevin Taylor,Phoenix LLC,CFO,Partner,Working,Partnerships,Sarah Williams,2023-11-22,
+L00188,George Young,Eastbrook Co,CEO,Event,Nurturing,Partnerships,David Lewis,2023-11-05,
+L00189,Sarah Clark,Apex Group,CTO,Website,Disqualified,Partnerships,Marcus Anderson,2024-10-11,
+L00190,Andre Garcia,Silverline Co,VP Sales,Event,Converted,Mid-Market,Chris Williams,2024-03-30,
+L00191,Eric Mitchell,Stratos Inc,Director IT,Cold Outreach,New,Inbound,Carlos Baker,2024-06-23,2024-08-28
+L00192,Natalie Martinez,Northgate LLC,Manager,Cold Outreach,Converted,Inbound,Sofia Turner,2022-10-05,
+L00193,Chris Martinez,Oaks Solutions,Director IT,Inbound Call,Nurturing,Outbound,Sofia Turner,2021-05-08,
+L00194,Priya Walker,Canyon Global,CFO,Partner,Disqualified,SMB,Marcus Anderson,2022-10-05,
+L00195,Aisha Anderson,Orion Co,CTO,Cold Outreach,Nurturing,SMB,James Nelson,2022-01-29,
+L00196,Marcus Hall,Sirius Partners,CFO,Webinar,Nurturing,Enterprise,Maria Adams,2023-09-29,
+L00197,George Robinson,Bayview Corp,Analyst,Trade Show,Nurturing,Enterprise,Eric Taylor,2023-03-20,
+L00198,Yuki Phillips,Crossroads Systems,Manager,Webinar,Dead,Partnerships,James Nelson,2021-06-11,2021-08-28
+L00199,Jess Allen,Titan LLC,CTO,Trade Show,New,Inbound,Chris Clark,2022-07-10,2022-10-13
+L00200,Aisha Green,Zenith Global,VP Sales,Referral,Converted,SMB,Sofia Turner,2023-12-24,2024-04-10
+L00201,James Allen,Phoenix LLC,Director IT,LinkedIn,Dead,Partnerships,Sofia Turner,2021-10-09,
+L00202,Marcus Lee,Southshore Partners,VP Sales,Referral,Dead,Inbound,Fiona Kim,2022-08-12,
+L00203,Jess Phillips,Redpoint Inc,CEO,Trade Show,New,Partnerships,Hannah Robinson,2021-03-18,2021-07-01
+L00204,Ivan Chen,Clearwater Ventures,CTO,Event,Disqualified,Enterprise,Yuki Roberts,2022-08-16,2022-11-16
+L00205,Miguel Hall,Hawk Dynamics,Director IT,Inbound Call,Converted,SMB,Fiona Roberts,2024-01-18,
+L00206,Priya Hill,Solara Technologies,Manager,Webinar,Dead,Mid-Market,Ivan Allen,2022-11-09,
+L00207,Andre Adams,Pinnacle Technologies,Director IT,Trade Show,Disqualified,Outbound,Raj Allen,2022-08-28,
+L00208,Marcus Williams,Prism Group,Manager,Referral,Working,Mid-Market,Sofia Turner,2023-11-22,
+L00209,James Anderson,Stratos Inc,Director IT,Email Campaign,Nurturing,SMB,Sarah Williams,2022-05-24,
+L00210,James Anderson,Southshore Partners,CTO,Cold Outreach,New,Outbound,Carlos Baker,2024-03-19,
+L00211,Omar Adams,Rigel Co,Manager,Webinar,Dead,Enterprise,Eric Taylor,2021-11-24,
+L00212,Aisha Martinez,Westfall Group,Director IT,Email Campaign,Dead,Inbound,Thomas Carter,2022-03-29,
+L00213,Jess Hall,Pinnacle Technologies,CFO,Cold Outreach,Working,Outbound,Miguel Scott,2024-01-30,
+L00214,Chris Robinson,Lakeshore Group,CFO,Referral,New,Inbound,Andre Thompson,2023-12-18,2024-03-05
+L00215,Priya Taylor,Cedar Ventures,CFO,Email Campaign,New,Outbound,James Nelson,2021-11-03,
+L00216,David Turner,Rigel Co,CEO,Website,Converted,Mid-Market,Andre Thompson,2023-09-29,
+L00217,Maria Allen,Solara Technologies,Manager,Webinar,Dead,Enterprise,Raj Allen,2024-02-29,2024-03-10
+L00218,Andre Williams,Vertex Inc,CEO,Partner,Dead,Enterprise,Maria Adams,2022-03-23,
+L00219,Jess Hall,Vertex Inc,CTO,LinkedIn,Working,Mid-Market,Sarah Phillips,2021-05-22,
+L00220,Raj Roberts,Canyon Global,CEO,LinkedIn,New,Outbound,Maria Adams,2023-02-23,2023-06-23
+L00221,Sarah Kim,Eastbrook Co,CEO,Inbound Call,Working,Outbound,Fiona Kim,2022-12-14,
+L00222,Elena Walker,Cypress Global,Manager,Inbound Call,Converted,Inbound,Maria Hill,2021-02-16,
+L00223,Raj Robinson,Crestview Global,CTO,Cold Outreach,Dead,Enterprise,Natalie Chen,2022-05-22,
+L00224,Sofia Nelson,Phoenix LLC,VP Sales,Cold Outreach,Working,Enterprise,James Allen,2023-05-09,
+L00225,Sofia Adams,Falcon Systems,Analyst,Website,Working,Outbound,Natalie Chen,2023-07-04,
+L00226,Claire Thompson,Pinnacle Technologies,Analyst,Website,Working,Inbound,Eric Taylor,2022-04-25,2022-08-06
+L00227,Marcus Lewis,Summit Solutions,Analyst,Partner,Working,SMB,Claire Clark,2024-03-25,
+L00228,Aisha Clark,Orbis Systems,CTO,Website,Disqualified,Inbound,Andre Anderson,2023-12-04,
+L00229,Claire Hall,Highland LLC,CTO,LinkedIn,Disqualified,SMB,Sarah Phillips,2023-05-25,
+L00230,Omar Kim,Pinnacle Technologies,CFO,Email Campaign,Working,Mid-Market,Sarah Williams,2022-09-07,
+L00231,Fiona Walker,Canyon Global,VP Sales,Inbound Call,Converted,Partnerships,Chris Williams,2021-10-23,2021-12-03
+L00232,Carlos Taylor,Southshore Partners,VP Sales,Email Campaign,Nurturing,Enterprise,Maria Adams,2022-06-07,
+L00233,Maria Anderson,Stratos Inc,Manager,Event,Disqualified,Enterprise,Carlos Garcia,2022-01-26,2022-05-13
+L00234,Dana Adams,Orion Co,Director IT,Email Campaign,Working,SMB,Sarah Williams,2024-04-18,
+L00235,Carlos Phillips,Valley Global,Manager,Referral,Dead,Partnerships,Chris Clark,2021-02-01,
+L00236,Carlos Harris,Canyon Global,Director IT,Inbound Call,Nurturing,SMB,Maria Hill,2024-12-12,
+L00237,Yuki Lee,Quanta Solutions,CTO,Inbound Call,Converted,Partnerships,James Allen,2024-08-21,
+L00238,Eric Mitchell,Perseus Partners,Director IT,Partner,Nurturing,Partnerships,Natalie Chen,2023-08-20,
+L00239,Dana Martinez,Nexus Solutions,CTO,Inbound Call,Disqualified,Inbound,Sarah Phillips,2022-03-30,2022-05-04
+L00240,Aisha Harris,Goldridge Global,Analyst,Cold Outreach,Converted,Inbound,Yuki Roberts,2022-11-07,2023-03-02
+L00241,Dana Green,Riverside Corp,CEO,Email Campaign,Working,Outbound,Yuki Scott,2023-09-28,2024-01-08
+L00242,Zoe Kim,Canyon Global,CFO,Website,Disqualified,Enterprise,Carlos Garcia,2024-01-25,
+L00243,Maria Nelson,Clearwater Ventures,CEO,Trade Show,Dead,Mid-Market,Carlos Garcia,2024-09-30,
+L00244,Carlos Young,Solara Technologies,CTO,Website,Disqualified,Outbound,Sofia Turner,2021-01-19,
+L00245,James Allen,Orion Co,CEO,Website,New,Inbound,Kevin Thompson,2021-02-02,
+L00246,James Young,Bluestone Global,Manager,LinkedIn,Working,Enterprise,James Allen,2022-08-11,
+L00247,Carlos Scott,Oaks Solutions,CTO,Partner,Nurturing,Partnerships,Miguel Scott,2022-05-09,
+L00248,Raj Lewis,Midpoint Dynamics,Manager,Cold Outreach,Nurturing,Outbound,Miguel Scott,2023-04-12,
+L00249,Eric Chen,Vortex Technologies,CEO,LinkedIn,Converted,Inbound,Sofia Turner,2024-08-23,2024-09-03
+L00250,Priya Williams,Raven Dynamics,Analyst,LinkedIn,Dead,SMB,James Allen,2024-12-10,
+L00251,Aisha Thompson,Griffin Solutions,Analyst,Event,Converted,SMB,Natalie Chen,2021-03-29,
+L00252,Jess Anderson,Griffin Solutions,CFO,Event,Dead,Enterprise,Andre Anderson,2024-11-02,
+L00253,James Thompson,Apex Group,Director IT,LinkedIn,New,SMB,Aisha Walker,2022-10-07,
+L00254,George Roberts,Stratos Inc,Manager,Inbound Call,Nurturing,Partnerships,Ben Baker,2024-03-06,
+L00255,Dana Williams,Rigel Co,Manager,Partner,New,Enterprise,Omar Williams,2024-11-12,2024-12-01
+L00256,Sofia Nelson,Birch Co,CFO,LinkedIn,Nurturing,Enterprise,Kevin Thompson,2022-11-29,
+L00257,Zoe Garcia,Sirius Partners,CFO,LinkedIn,Converted,Mid-Market,Maria Hill,2023-07-12,2023-10-09
+L00258,Fiona Garcia,Falcon Systems,VP Sales,Referral,Nurturing,Mid-Market,Maria Hill,2022-08-28,
+L00259,Kevin Hill,Stratos Inc,CTO,Partner,New,Enterprise,Ivan Allen,2024-07-22,
+L00260,Yuki Nelson,Dynamo Group,VP Sales,Trade Show,New,Mid-Market,Omar Williams,2023-06-30,
+L00261,Miguel Clark,Harbor Technologies,VP Sales,Referral,Nurturing,Inbound,Miguel Scott,2024-02-11,
+L00262,Hannah Harris,Clearwater Ventures,CTO,LinkedIn,Converted,Enterprise,Chris Clark,2022-10-27,
+L00263,Layla Harris,Elms Inc,Director IT,Webinar,Nurturing,SMB,Hannah Robinson,2021-12-14,2022-01-14
+L00264,Thomas Clark,Orbis Systems,CEO,Referral,Nurturing,SMB,Chris Clark,2023-06-10,
+L00265,Sofia Scott,Valley Global,CEO,Referral,Working,SMB,Ivan Allen,2023-10-13,
+L00266,George Scott,Stratos Inc,Analyst,Partner,Converted,SMB,Omar Williams,2022-11-12,
+L00267,Sofia Martinez,Orbis Systems,CTO,Event,Dead,Mid-Market,Sofia Turner,2024-08-26,
+L00268,Marcus Lee,Riverside Corp,Manager,Email Campaign,Disqualified,Mid-Market,Omar Patel,2023-03-27,
+L00269,Yuki Patel,Phoenix LLC,CFO,Cold Outreach,Disqualified,Inbound,Andre Anderson,2023-03-16,
+L00270,James Hill,Solara Technologies,Manager,Cold Outreach,Converted,SMB,Carlos Garcia,2024-02-01,
+L00271,Layla Hall,Brightfield Global,Manager,Webinar,Working,SMB,Claire Clark,2023-04-18,
+L00272,David Walker,Summit Solutions,CEO,Event,Converted,Inbound,Andre Thompson,2023-02-12,
+L00273,Natalie Allen,Vertex Inc,Analyst,Partner,Dead,Inbound,Miguel Scott,2024-11-17,2024-12-28
+L00274,Layla Robinson,Elms Inc,Manager,Event,New,Inbound,Raj Allen,2024-09-08,
+L00275,Fiona Clark,Harbor Technologies,VP Sales,Referral,Nurturing,Mid-Market,Andre Thompson,2022-11-11,
+L00276,Andre Baker,Goldridge Global,Director IT,Email Campaign,Nurturing,Partnerships,George Green,2024-02-17,
+L00277,Chris Young,Crestview Global,CTO,Website,Converted,Enterprise,Eric Taylor,2024-04-20,
+L00278,Sarah Mitchell,Meridian LLC,Manager,Trade Show,Nurturing,SMB,Yuki Roberts,2021-06-25,
+L00279,Miguel Hall,Sirius Partners,CEO,Referral,Converted,Outbound,Claire Lee,2022-02-28,
+L00280,Maria Carter,Falcon Systems,VP Sales,Website,Nurturing,Outbound,James Allen,2022-09-07,
+L00281,Jess Hill,Midpoint Dynamics,CFO,Trade Show,Disqualified,Mid-Market,Yuki Roberts,2021-12-03,
+L00282,Aisha Carter,Prism Group,Manager,Trade Show,Working,Outbound,Omar Williams,2023-08-05,
+L00283,Ivan Thompson,Crossroads Systems,CFO,LinkedIn,Converted,Enterprise,James Nelson,2024-06-11,2024-09-25
+L00284,Fiona Carter,Lakeshore Group,CFO,Referral,Disqualified,Mid-Market,Thomas Carter,2024-12-12,
+L00285,Sarah Anderson,Willow Group,Analyst,Email Campaign,Disqualified,Outbound,Omar Patel,2023-07-27,
+L00286,Omar Lewis,Pines Systems,CTO,Partner,Converted,Inbound,Andre Anderson,2024-06-05,
+L00287,Fiona Lee,Canyon Global,CFO,Event,New,Outbound,Ben Baker,2024-12-16,
+L00288,Elena Patel,Redpoint Inc,CTO,Trade Show,Disqualified,Partnerships,Sarah Phillips,2022-05-04,
+L00289,Omar Clark,Redpoint Inc,CEO,Inbound Call,Dead,Outbound,Andre Anderson,2024-03-23,
+L00290,Elena Martinez,Redpoint Inc,CTO,Email Campaign,Disqualified,Enterprise,Yuki Scott,2023-09-30,
+L00291,Kevin Thompson,Bluestone Global,CEO,Inbound Call,Disqualified,Outbound,Hannah Robinson,2023-09-20,
+L00292,Natalie Baker,Helix Dynamics,CEO,Email Campaign,Working,Enterprise,David Lewis,2023-10-05,
+L00293,Elena Chen,Dynamo Group,Director IT,Inbound Call,Nurturing,Mid-Market,George Green,2022-03-28,
+L00294,Claire Young,Pines Systems,CFO,Referral,Nurturing,Inbound,Thomas Carter,2023-10-12,
+L00295,Eric Hill,Crossroads Systems,CFO,Cold Outreach,Converted,Enterprise,Chris Clark,2021-03-27,2021-04-10
+L00296,Thomas Robinson,Ridge Group,Analyst,Referral,Converted,Enterprise,Chris Clark,2023-07-11,2023-10-23
+L00297,Chris Robinson,Ridge Group,Manager,Event,Dead,Partnerships,Aisha Walker,2024-04-19,
+L00298,George Thompson,Maple Group,VP Sales,Event,Nurturing,Inbound,Kevin Thompson,2022-02-28,
+L00299,Marcus Baker,Aspen Technologies,CTO,Event,Nurturing,Inbound,James Allen,2021-12-11,2022-03-27
+L00300,Jess Chen,Dynamo Group,Analyst,Trade Show,Dead,Mid-Market,Chris Clark,2023-04-23,2023-06-13
+L00301,Eric Mitchell,Cypress Global,CEO,Email Campaign,Working,Inbound,Kevin Thompson,2022-05-22,
+L00302,Raj Williams,Eagle Global,Analyst,Referral,Converted,Inbound,Kevin Thompson,2023-02-08,
+L00303,Raj Hall,Perseus Partners,CFO,Website,Dead,Enterprise,George Green,2023-01-26,
+L00304,Yuki Roberts,Lakeshore Group,Analyst,Inbound Call,Converted,Mid-Market,Omar Williams,2024-11-29,
+L00305,Thomas Taylor,Helix Dynamics,CTO,Partner,Disqualified,Inbound,Ben Baker,2023-10-11,
+L00306,Fiona Taylor,Griffin Solutions,Manager,Website,New,Enterprise,George Green,2023-09-21,2024-01-18
+L00307,Raj Walker,Clearwater Ventures,CEO,Cold Outreach,Dead,Mid-Market,Sarah Williams,2021-11-20,2022-01-04
+L00308,Ben Robinson,Quanta Solutions,VP Sales,Partner,Dead,Outbound,Aisha Walker,2021-07-11,2021-10-09
+L00309,Dana Baker,Pinnacle Technologies,Director IT,LinkedIn,Dead,Enterprise,James Allen,2022-09-18,2022-11-28
+L00310,Kevin Lewis,Zenith Global,CFO,Email Campaign,New,Enterprise,Yuki Roberts,2021-06-09,
+L00311,Chris Martinez,Westfall Group,VP Sales,Cold Outreach,Converted,Enterprise,James Allen,2023-05-15,2023-07-11
+L00312,Kevin Harris,Meadows Technologies,Analyst,Trade Show,Dead,Outbound,Claire Clark,2022-09-05,2022-11-26
+L00313,Sofia Green,Elms Inc,CEO,Partner,Dead,Mid-Market,Claire Clark,2021-01-18,
+L00314,Layla Walker,Ridge Group,Director IT,Referral,New,Mid-Market,Carlos Baker,2024-06-15,
+L00315,Yuki Clark,Perseus Partners,Analyst,Trade Show,Working,SMB,Miguel Scott,2023-02-26,2023-05-23
+L00316,Dana Scott,Aspen Technologies,Analyst,Website,Dead,SMB,James Nelson,2024-05-13,
+L00317,Carlos Hill,Prism Group,CTO,Website,Working,Partnerships,Maria Hill,2023-11-10,2024-01-22
+L00318,Sofia Williams,Oaks Solutions,VP Sales,Partner,Nurturing,Mid-Market,Maria Hill,2024-07-30,
+L00319,Natalie Robinson,Eastbrook Co,Manager,Trade Show,Converted,Enterprise,David Lewis,2024-03-10,
+L00320,Thomas Thompson,Vertex Inc,VP Sales,LinkedIn,Disqualified,SMB,Andre Thompson,2021-01-29,
+L00321,Chris Harris,Vortex Technologies,Manager,Inbound Call,Disqualified,Inbound,Claire Clark,2023-05-18,2023-07-06
+L00322,Miguel Phillips,Ironwood Solutions,Analyst,Trade Show,Disqualified,SMB,Raj Allen,2021-06-11,
+L00323,Layla Green,Lakeshore Group,CTO,LinkedIn,Dead,Mid-Market,James Williams,2024-08-23,2024-10-27
+L00324,Raj Scott,Summit Solutions,VP Sales,Webinar,Dead,Outbound,Andre Anderson,2021-08-26,2021-12-04
+L00325,Chris Johnson,Elms Inc,CEO,Partner,Disqualified,Inbound,Marcus Anderson,2021-10-09,2021-11-04
+L00326,Dana Turner,Pines Systems,Analyst,Website,Nurturing,Partnerships,Kevin Thompson,2022-07-05,
+L00327,Chris Lewis,Eagle Global,VP Sales,Email Campaign,Converted,Inbound,Thomas Carter,2022-06-23,2022-10-20
+L00328,Priya Robinson,Elms Inc,CTO,Referral,Disqualified,Outbound,Carlos Baker,2024-03-06,2024-05-20
+L00329,Maria Roberts,Ridge Group,VP Sales,Cold Outreach,New,Partnerships,Thomas Carter,2021-01-06,
+L00330,Priya Phillips,Bayview Corp,Analyst,Website,Disqualified,Outbound,Sarah Phillips,2021-11-04,2021-12-15
+L00331,Jess Hill,Perseus Partners,CTO,Referral,Disqualified,SMB,Carlos Baker,2023-05-03,
+L00332,Priya Garcia,Maple Group,CFO,Website,Converted,Enterprise,George Green,2021-04-18,
+L00333,Marcus Williams,Orion Co,CEO,Website,Nurturing,Mid-Market,Eric Taylor,2022-09-29,
+L00334,Dana Scott,Midpoint Dynamics,CEO,Partner,Disqualified,Partnerships,Fiona Roberts,2022-09-15,
+L00335,Eric Carter,Midpoint Dynamics,Director IT,Website,Converted,Enterprise,Fiona Kim,2024-01-25,
+L00336,George Baker,Hawk Dynamics,VP Sales,Partner,New,Outbound,Maria Hill,2024-07-26,
+L00337,Sarah Thompson,Oaks Solutions,Director IT,LinkedIn,Converted,Enterprise,Claire Clark,2022-09-22,
+L00338,Maria Phillips,Zenith Global,Analyst,Inbound Call,Converted,Outbound,Thomas Carter,2021-07-10,
+L00339,Andre Patel,Rigel Co,Director IT,LinkedIn,New,Inbound,James Williams,2021-06-23,
+L00340,Aisha Lee,Quanta Solutions,Analyst,Partner,Converted,Outbound,Omar Patel,2021-09-25,
+L00341,Aisha Williams,Meridian LLC,Director IT,Trade Show,Disqualified,Enterprise,Claire Clark,2022-07-11,2022-09-16
+L00342,Marcus Clark,Pines Systems,CFO,Partner,Working,Partnerships,Sarah Williams,2023-08-13,
+L00343,David Kim,Maple Group,Manager,Webinar,Dead,Outbound,Natalie Chen,2021-09-03,2021-12-31
+L00344,Kevin Williams,Falcon Systems,Director IT,Partner,Converted,Inbound,James Williams,2022-11-03,
+L00345,George Kim,Nexus Solutions,CEO,Email Campaign,Disqualified,Outbound,Chris Clark,2022-06-17,2022-07-10
+L00346,Sarah Johnson,Highland LLC,Analyst,Cold Outreach,Working,Mid-Market,Raj Allen,2021-10-14,
+L00347,Ben Williams,Apex Group,CFO,Webinar,New,Enterprise,Carlos Garcia,2024-07-14,2024-10-14
+L00348,Fiona Martinez,Vortex Technologies,Analyst,Partner,New,Enterprise,George Green,2023-06-28,2023-09-19
+L00349,George Hill,Prism Group,CEO,Website,Converted,Outbound,Omar Williams,2023-06-07,2023-07-14
+L00350,Thomas Anderson,Crossroads Systems,Director IT,Website,Disqualified,Inbound,Chris Clark,2022-01-19,
+L00351,Natalie Turner,Orion Co,CEO,Website,New,SMB,Maria Hill,2023-10-19,2023-11-23
+L00352,Ivan Carter,Oaks Solutions,Director IT,Inbound Call,New,Partnerships,Yuki Scott,2024-08-09,
+L00353,Yuki Phillips,Goldridge Global,CFO,Partner,Converted,SMB,Andre Anderson,2023-09-20,2023-12-15
+L00354,James Turner,Maple Group,Analyst,Webinar,New,Partnerships,Chris Williams,2022-03-25,
+L00355,Aisha Kim,Harbor Technologies,Director IT,Cold Outreach,Nurturing,Inbound,James Williams,2024-04-11,
+L00356,Andre Roberts,Maple Group,CEO,Partner,Working,Mid-Market,Chris Clark,2022-03-26,
+L00357,Yuki Phillips,Apex Group,VP Sales,Partner,Disqualified,Inbound,Claire Clark,2024-11-29,
+L00358,George Carter,Hawk Dynamics,CEO,Inbound Call,Nurturing,Mid-Market,Hannah Robinson,2022-01-21,2022-02-07
+L00359,Sofia Garcia,Nexus Solutions,CFO,Email Campaign,New,SMB,Fiona Roberts,2022-04-22,
+L00360,Chris Kim,Canyon Global,Analyst,Partner,New,Enterprise,Claire Clark,2022-11-29,
+L00361,Eric Patel,Cedar Ventures,CFO,Partner,New,SMB,Raj Allen,2021-10-18,
+L00362,Elena Taylor,Brightfield Global,Director IT,LinkedIn,Dead,Partnerships,Omar Patel,2022-11-21,2023-02-10
+L00363,Ivan Phillips,Birch Co,Analyst,Partner,Working,Outbound,Andre Anderson,2024-11-21,
+L00364,Elena Martinez,Redpoint Inc,Manager,Website,Dead,Inbound,Raj Allen,2024-11-11,
+L00365,Maria Kim,Summit Solutions,CTO,Event,Working,Outbound,James Allen,2024-03-08,
+L00366,Marcus Hill,Lakeshore Group,Director IT,Partner,Nurturing,Mid-Market,Miguel Scott,2021-10-16,
+L00367,Ben Hill,Hawk Dynamics,CTO,Email Campaign,New,SMB,James Nelson,2024-10-04,2024-10-22
+L00368,Thomas Carter,Harbor Technologies,Manager,Website,New,Partnerships,Claire Lee,2022-12-19,
+L00369,Ivan Clark,Raven Dynamics,CEO,Partner,Disqualified,Partnerships,James Allen,2021-12-07,
+L00370,Ben Nelson,Cypress Global,Director IT,Trade Show,Converted,Enterprise,Natalie Chen,2024-03-29,2024-05-18
+L00371,Sarah Williams,Atlas Group,Director IT,LinkedIn,Working,Outbound,Carlos Garcia,2022-06-19,
+L00372,Marcus Scott,Birch Co,CEO,Website,Converted,Outbound,Aisha Walker,2021-07-10,
+L00373,Priya Chen,Harbor Technologies,CTO,Cold Outreach,Working,Partnerships,Maria Adams,2023-06-09,2023-07-25
+L00374,Aisha Patel,Highland LLC,CEO,Event,Disqualified,Partnerships,Claire Clark,2022-09-02,2022-09-12
+L00375,David Lee,Bluestone Global,Manager,Event,Converted,Mid-Market,James Allen,2023-05-26,2023-06-26
+L00376,Elena Williams,Westfall Group,Analyst,Referral,Nurturing,Partnerships,Sofia Turner,2024-07-31,
+L00377,Thomas Williams,Southshore Partners,CFO,LinkedIn,Working,SMB,Maria Hill,2024-09-15,
+L00378,Maria Anderson,Crossroads Systems,CEO,Webinar,Working,SMB,James Williams,2023-07-02,2023-10-09
+L00379,Sarah Williams,Willow Group,CTO,Inbound Call,Converted,Inbound,Fiona Kim,2024-09-28,
+L00380,George Young,Northgate LLC,CFO,Email Campaign,Disqualified,Mid-Market,Sofia Turner,2023-03-04,2023-05-03
+L00381,Miguel Lewis,Griffin Solutions,CFO,Event,Dead,Inbound,Claire Clark,2021-03-13,2021-06-27
+L00382,Priya Kim,Ironwood Solutions,Analyst,Cold Outreach,Working,Enterprise,Omar Williams,2023-07-09,2023-10-14
+L00383,Carlos Mitchell,Eagle Global,Director IT,Event,Nurturing,SMB,Carlos Garcia,2023-06-11,2023-08-31
+L00384,Claire Taylor,Cedar Ventures,CTO,Inbound Call,Converted,Enterprise,Chris Williams,2023-03-25,
+L00385,Natalie Martinez,Crestview Global,CFO,Event,Disqualified,Enterprise,James Allen,2021-08-19,
+L00386,Fiona Lee,Ridge Group,CFO,Partner,Converted,SMB,Maria Hill,2021-07-26,
+L00387,Sofia Hall,Vertex Inc,Director IT,Webinar,Converted,Mid-Market,Raj Allen,2024-03-17,2024-05-08
+L00388,Aisha Chen,Riverside Corp,CEO,Webinar,Nurturing,Enterprise,Yuki Roberts,2024-11-15,
+L00389,Elena Anderson,Helix Dynamics,CEO,Referral,Working,Mid-Market,Sarah Williams,2022-09-13,
+L00390,Eric Mitchell,Perseus Partners,CTO,LinkedIn,Disqualified,Outbound,Miguel Scott,2023-06-27,2023-08-03
+L00391,Dana Hall,Pinnacle Technologies,CFO,Partner,New,Inbound,Aisha Walker,2023-04-14,2023-07-23
+L00392,Omar Martinez,Meadows Technologies,Analyst,Inbound Call,Disqualified,Enterprise,Andre Anderson,2023-11-04,2024-02-28
+L00393,George Chen,Midpoint Dynamics,VP Sales,Email Campaign,New,SMB,Fiona Roberts,2022-02-16,2022-06-11
+L00394,Miguel Harris,Eagle Global,VP Sales,Website,Working,SMB,Hannah Robinson,2023-08-09,
+L00395,Hannah Hall,Apex Group,CFO,Partner,Nurturing,Mid-Market,Marcus Anderson,2021-12-30,
+L00396,David Lee,Nexus Solutions,CEO,Website,Working,Inbound,James Nelson,2024-11-11,
+L00397,Aisha Adams,Ironwood Solutions,CTO,LinkedIn,Disqualified,Enterprise,Ivan Allen,2024-08-18,
+L00398,Ben Kim,Summit Solutions,Analyst,Website,Working,SMB,Sarah Williams,2021-09-28,
+L00399,Ben Anderson,Coast Co,CEO,Partner,Converted,SMB,James Nelson,2024-12-23,
+L00400,Miguel Mitchell,Birch Co,CEO,Event,New,Enterprise,Andre Thompson,2024-10-18,
+L00401,Claire Green,Summit Solutions,CFO,Webinar,Nurturing,Outbound,James Allen,2023-02-06,
+L00402,Thomas Green,Perseus Partners,Analyst,Webinar,Nurturing,Outbound,Sarah Williams,2022-11-20,2023-02-04
+L00403,Ivan Chen,Maple Group,Analyst,Event,Converted,Outbound,Omar Patel,2022-05-08,
+L00404,Ben Hall,Aspen Technologies,CTO,LinkedIn,Converted,Partnerships,Natalie Chen,2021-02-22,
+L00405,George Thompson,Atlas Group,Manager,Cold Outreach,Dead,Inbound,Sofia Turner,2024-03-17,
+L00406,Yuki Young,Orbis Systems,Analyst,Trade Show,Dead,Inbound,Andre Anderson,2024-10-07,2024-12-16
+L00407,Dana Anderson,Silverline Co,Analyst,Inbound Call,Working,Outbound,Yuki Roberts,2021-09-20,
+L00408,Yuki Garcia,Riverside Corp,Analyst,Webinar,Converted,SMB,Thomas Carter,2022-04-01,2022-05-18
+L00409,Hannah Patel,Westfall Group,VP Sales,Event,Disqualified,Inbound,Carlos Garcia,2023-08-08,
+L00410,Miguel Patel,Ridge Group,Manager,LinkedIn,Disqualified,SMB,Sarah Phillips,2022-02-03,2022-06-02
+L00411,Kevin Thompson,Atlas Group,CEO,Event,Converted,Mid-Market,Omar Patel,2021-11-05,
+L00412,Eric Williams,Raven Dynamics,CTO,Trade Show,Nurturing,Outbound,James Williams,2022-01-05,2022-02-19
+L00413,Eric Nelson,Elms Inc,CFO,Trade Show,Converted,Enterprise,Ben Baker,2022-03-05,
+L00414,Natalie Harris,Coast Co,CEO,LinkedIn,New,Enterprise,Maria Adams,2024-07-21,2024-09-16
+L00415,Ivan Taylor,Pinnacle Technologies,Analyst,Inbound Call,Working,Enterprise,Ivan Allen,2021-01-29,
+L00416,Aisha Baker,Hawk Dynamics,CTO,Webinar,Working,Enterprise,Maria Hill,2022-05-25,
+L00417,Priya Williams,Bluestone Global,VP Sales,Webinar,Nurturing,Partnerships,Chris Williams,2022-09-19,
+L00418,Natalie Turner,Cypress Global,Director IT,Partner,Converted,SMB,Fiona Roberts,2022-11-23,2023-03-16
+L00419,James Garcia,Zenith Global,Manager,Trade Show,Working,Outbound,David Lewis,2023-04-07,
+L00420,Sarah Robinson,Falcon Systems,Manager,Website,Converted,Outbound,Marcus Anderson,2021-12-13,
+L00421,Maria Scott,Highland LLC,Manager,Referral,Dead,Enterprise,James Williams,2024-06-30,
+L00422,Raj Harris,Pines Systems,CFO,Webinar,Converted,Outbound,Claire Clark,2023-05-04,2023-08-09
+L00423,James Lee,Northgate LLC,Manager,Referral,Dead,Inbound,Kevin Thompson,2024-07-14,
+L00424,Kevin Clark,Helix Dynamics,VP Sales,Inbound Call,Dead,Inbound,Carlos Baker,2024-12-06,2025-03-26
+L00425,Zoe Thompson,Summit Solutions,Director IT,Webinar,Disqualified,Mid-Market,Yuki Scott,2021-08-06,
+L00426,Priya Chen,Orion Co,CEO,Cold Outreach,Dead,Partnerships,Yuki Roberts,2022-08-28,2022-09-08
+L00427,David Phillips,Pines Systems,Analyst,Event,Dead,Partnerships,Claire Clark,2024-10-07,
+L00428,David Hill,Silverline Co,VP Sales,Webinar,Dead,Mid-Market,George Green,2023-11-14,
+L00429,Thomas Walker,Highland LLC,VP Sales,Trade Show,New,SMB,Thomas Carter,2022-08-30,
+L00430,Natalie Hill,Pines Systems,VP Sales,Website,New,Mid-Market,Aisha Walker,2022-10-03,
+L00431,Sofia Anderson,Hawk Dynamics,Manager,Referral,Nurturing,SMB,Andre Anderson,2023-06-16,2023-08-16
+L00432,Thomas Mitchell,Stratos Inc,Manager,Email Campaign,Converted,Outbound,Aisha Walker,2023-07-24,2023-10-31
+L00433,Hannah Kim,Harbor Technologies,CEO,Event,Converted,Inbound,Claire Lee,2021-05-01,2021-06-28
+L00434,Sofia Johnson,Ridge Group,Manager,Trade Show,Converted,Partnerships,Carlos Baker,2023-01-05,
+L00435,Maria Williams,Quanta Solutions,Manager,Partner,New,Outbound,Chris Williams,2023-06-22,
+L00436,Dana Lewis,Zenith Global,Manager,Partner,Disqualified,Inbound,James Allen,2024-03-26,
+L00437,Zoe Robinson,Willow Group,Manager,LinkedIn,Working,Inbound,James Williams,2022-05-25,2022-06-24
+L00438,Hannah Hall,Cedar Ventures,CEO,Trade Show,New,Partnerships,Omar Patel,2023-11-02,2023-12-17
+L00439,Miguel Garcia,Orion Co,Manager,LinkedIn,Converted,Mid-Market,Miguel Scott,2021-04-14,
+L00440,Raj Williams,Cedar Ventures,CEO,Email Campaign,Nurturing,Enterprise,Hannah Robinson,2024-03-19,
+L00441,Sarah Harris,Northgate LLC,VP Sales,Inbound Call,Disqualified,Enterprise,Miguel Scott,2021-02-06,
+L00442,Ben Lee,Hawk Dynamics,CFO,Inbound Call,Working,Outbound,George Green,2024-06-21,
+L00443,George Chen,Bluestone Global,Director IT,Email Campaign,Nurturing,Inbound,Sofia Turner,2023-01-15,
+L00444,Chris Walker,Pines Systems,VP Sales,Cold Outreach,New,SMB,Yuki Scott,2023-01-15,
+L00445,Claire Young,Vega Solutions,Manager,Referral,New,Mid-Market,Hannah Robinson,2022-08-21,2022-11-30
+L00446,Sarah Anderson,Birch Co,Director IT,Cold Outreach,New,Partnerships,James Nelson,2023-04-19,
+L00447,Chris Taylor,Harbor Technologies,Analyst,LinkedIn,New,Outbound,Carlos Baker,2022-01-26,
+L00448,Raj Adams,Apex Group,CFO,Trade Show,Converted,Enterprise,Chris Williams,2023-07-12,
+L00449,Jess Clark,Helix Dynamics,CFO,Email Campaign,Disqualified,Mid-Market,Andre Anderson,2024-02-08,
+L00450,Sarah Harris,Willow Group,CFO,Event,Nurturing,Inbound,Maria Hill,2021-09-20,
+L00451,Jess Baker,Pinnacle Technologies,Director IT,Webinar,Converted,SMB,Eric Taylor,2024-06-01,
+L00452,Kevin Clark,Summit Solutions,Manager,Inbound Call,Nurturing,Outbound,Omar Patel,2021-10-01,
+L00453,Ben Thompson,Valley Global,Director IT,Event,Dead,SMB,Yuki Scott,2024-02-08,
+L00454,Chris Green,Bayview Corp,Director IT,Inbound Call,Disqualified,Outbound,Omar Patel,2021-09-29,
+L00455,Claire Hall,Apex Group,CFO,LinkedIn,Dead,Outbound,Maria Adams,2022-12-23,2023-04-20
+L00456,Fiona Johnson,Oaks Solutions,VP Sales,Website,Converted,Mid-Market,James Williams,2023-05-16,
+L00457,Thomas Nelson,Plains Partners,Director IT,Webinar,Dead,SMB,Claire Clark,2022-02-14,
+L00458,Fiona Lee,Ironwood Solutions,Analyst,Inbound Call,New,SMB,Claire Lee,2024-11-15,2025-02-19
+L00459,Hannah Garcia,Riverside Corp,Manager,Inbound Call,Converted,Mid-Market,Andre Thompson,2024-02-25,
+L00460,Elena Baker,Willow Group,VP Sales,LinkedIn,Converted,Partnerships,Omar Patel,2024-11-26,
+L00461,James Hill,Quanta Solutions,Director IT,Event,Converted,Mid-Market,Thomas Carter,2021-04-21,
+L00462,Dana Scott,Valley Global,Analyst,Cold Outreach,Nurturing,Partnerships,Andre Anderson,2024-01-25,
+L00463,Priya Kim,Riverside Corp,CFO,Referral,Converted,Enterprise,Omar Williams,2021-06-02,2021-07-15
+L00464,Priya Lewis,Cedar Ventures,CTO,Website,Nurturing,Partnerships,Claire Clark,2021-09-24,2021-11-14
+L00465,Maria Nelson,Phoenix LLC,Manager,Event,Dead,SMB,Hannah Robinson,2024-05-07,
+L00466,Yuki Williams,Plains Partners,Manager,Partner,Disqualified,Mid-Market,Andre Anderson,2024-02-01,
+L00467,Priya Clark,Eastbrook Co,CFO,LinkedIn,New,SMB,Fiona Kim,2023-11-01,
+L00468,Marcus Taylor,Vega Solutions,CTO,Cold Outreach,Disqualified,Inbound,Sofia Turner,2024-09-20,
+L00469,James Patel,Willow Group,CTO,Email Campaign,Working,Outbound,Chris Clark,2024-08-22,
+L00470,Ivan Taylor,Stratos Inc,Analyst,Referral,Converted,SMB,Maria Adams,2024-10-29,
+L00471,Jess Young,Bluestone Global,Analyst,Partner,Disqualified,Inbound,Claire Lee,2021-02-20,
+L00472,Ivan Green,Valley Global,CTO,Inbound Call,New,Enterprise,Aisha Walker,2022-08-31,
+L00473,Claire Johnson,Eagle Global,VP Sales,Cold Outreach,Dead,Outbound,James Nelson,2024-01-07,
+L00474,George Patel,Ironwood Solutions,CFO,LinkedIn,Dead,Enterprise,Claire Clark,2023-05-19,2023-08-28
+L00475,Maria Williams,Lakeshore Group,VP Sales,Trade Show,Nurturing,Inbound,Carlos Garcia,2022-11-11,
+L00476,Jess Anderson,Northgate LLC,CEO,Email Campaign,Dead,Partnerships,Omar Williams,2022-04-12,
+L00477,Layla Patel,Eastbrook Co,VP Sales,Event,New,Outbound,Natalie Chen,2023-03-09,
+L00478,Yuki Phillips,Rigel Co,VP Sales,Webinar,Dead,SMB,Miguel Scott,2021-05-29,2021-08-03
+L00479,Omar Mitchell,Willow Group,VP Sales,Email Campaign,Working,Inbound,Fiona Kim,2023-02-21,2023-04-22
+L00480,Elena Green,Crestview Global,CTO,Partner,New,Inbound,Claire Clark,2024-01-23,2024-02-02
+L00481,Sofia Harris,Eastbrook Co,CFO,Referral,Nurturing,Mid-Market,Yuki Scott,2024-03-18,2024-06-18
+L00482,Kevin Kim,Redpoint Inc,Director IT,Event,Nurturing,Mid-Market,Carlos Baker,2023-11-16,2024-03-07
+L00483,Hannah Chen,Cedar Ventures,Analyst,Inbound Call,Converted,Outbound,Carlos Garcia,2024-03-07,2024-03-25
+L00484,Sarah Thompson,Silverline Co,CFO,Email Campaign,Nurturing,SMB,Ben Baker,2022-05-29,
+L00485,Sarah Lee,Birch Co,VP Sales,Cold Outreach,Nurturing,Partnerships,Claire Lee,2022-04-26,
+L00486,Elena Baker,Apex Group,Director IT,Event,Disqualified,SMB,Omar Patel,2024-09-12,
+L00487,James Taylor,Midpoint Dynamics,Analyst,Cold Outreach,Dead,Outbound,Omar Williams,2021-12-12,2022-02-06
+L00488,Layla Hill,Atlas Group,CEO,Email Campaign,Converted,SMB,Sarah Williams,2021-10-03,
+L00489,Priya Green,Summit Solutions,VP Sales,Webinar,Working,Inbound,Fiona Roberts,2021-08-11,2021-11-09
+L00490,Dana Williams,Griffin Solutions,VP Sales,Inbound Call,Dead,Enterprise,Raj Allen,2021-06-06,
+L00491,Jess Chen,Orion Co,CTO,Inbound Call,Disqualified,Partnerships,Claire Clark,2022-03-12,
+L00492,Ivan Nelson,Apex Group,Manager,Webinar,Working,Partnerships,Andre Thompson,2022-04-03,
+L00493,Yuki Young,Clearwater Ventures,Manager,Cold Outreach,Disqualified,Outbound,Aisha Walker,2023-03-24,
+L00494,Raj Kim,Redpoint Inc,CFO,Event,Dead,Mid-Market,Sofia Turner,2021-10-15,
+L00495,Aisha Nelson,Raven Dynamics,Director IT,Referral,Nurturing,SMB,Fiona Kim,2021-03-24,2021-04-29
+L00496,Jess Carter,Vega Solutions,CEO,Email Campaign,Converted,Enterprise,Natalie Chen,2023-11-27,
+L00497,Sarah Baker,Bayview Corp,CFO,Webinar,Dead,SMB,Maria Adams,2022-10-26,
+L00498,Ben Harris,Vega Solutions,CFO,Referral,Disqualified,SMB,Maria Hill,2023-02-11,
+L00499,Miguel Harris,Sirius Partners,Analyst,Partner,Converted,Partnerships,Ivan Allen,2022-04-02,
+L00500,Raj Kim,Zenith Global,VP Sales,Inbound Call,Dead,SMB,James Nelson,2021-10-12,2021-11-11
+L00501,Sofia Baker,Bluestone Global,VP Sales,Cold Outreach,Converted,SMB,Carlos Baker,2023-01-12,
+L00502,Zoe Thompson,Apex Group,Director IT,LinkedIn,New,Mid-Market,Natalie Chen,2023-09-08,2023-12-02
+L00503,Kevin Green,Rigel Co,VP Sales,Event,Working,Enterprise,Aisha Walker,2021-11-26,2021-12-29
+L00504,Omar Scott,Goldridge Global,Manager,Website,Dead,Outbound,Eric Taylor,2023-11-25,
+L00505,Raj Scott,Westfall Group,Analyst,Email Campaign,Working,Mid-Market,Sarah Phillips,2022-03-20,
+L00506,George Nelson,Redpoint Inc,CFO,Inbound Call,Nurturing,Mid-Market,Yuki Roberts,2024-04-08,
+L00507,Andre Williams,Zenith Global,CEO,LinkedIn,Working,Enterprise,David Lewis,2024-05-06,2024-09-03
+L00508,Layla Clark,Bluestone Global,Director IT,Event,New,Mid-Market,Sofia Turner,2023-10-30,
+L00509,Maria Turner,Plains Partners,CFO,Inbound Call,New,Enterprise,Sofia Turner,2024-05-13,
+L00510,Claire Mitchell,Clearwater Ventures,Analyst,LinkedIn,Disqualified,Partnerships,Thomas Carter,2024-05-20,
+L00511,Miguel Clark,Zenith Global,Analyst,Email Campaign,Converted,SMB,James Allen,2024-11-29,
+L00512,Zoe Nelson,Zenith Global,Analyst,Referral,Nurturing,Inbound,Maria Adams,2022-06-06,
+L00513,James Baker,Riverside Corp,Analyst,Website,Disqualified,Inbound,Carlos Baker,2022-01-23,
+L00514,Ben Thompson,Titan LLC,Analyst,Partner,Converted,SMB,James Allen,2023-02-08,2023-05-12
+L00515,Thomas Anderson,Cedar Ventures,CFO,LinkedIn,Disqualified,SMB,Kevin Thompson,2024-04-13,
+L00516,Eric Thompson,Northgate LLC,CFO,Inbound Call,Converted,Mid-Market,Thomas Carter,2023-03-25,
+L00517,Thomas Lee,Goldridge Global,CTO,LinkedIn,Dead,Mid-Market,Carlos Baker,2023-09-18,
+L00518,Fiona Baker,Meridian LLC,Director IT,Referral,Working,Inbound,Raj Allen,2023-07-04,
+L00519,Sofia Baker,Cypress Global,Manager,Website,Working,Partnerships,Ivan Allen,2024-02-02,
+L00520,Zoe Phillips,Summit Solutions,CEO,Referral,New,SMB,Fiona Kim,2021-10-25,
+L00521,Maria Hill,Stratos Inc,CEO,Event,Dead,Inbound,Eric Taylor,2024-06-01,
+L00522,Maria Nelson,Bluestone Global,Director IT,Email Campaign,Converted,Enterprise,Fiona Roberts,2024-05-08,
+L00523,Elena Thompson,Vertex Inc,Analyst,Event,Disqualified,Inbound,Fiona Kim,2023-11-28,
+L00524,Maria Robinson,Midpoint Dynamics,Manager,Website,Working,Enterprise,Kevin Thompson,2024-10-12,
+L00525,Layla Harris,Prism Group,CFO,Cold Outreach,Disqualified,Enterprise,Carlos Garcia,2022-12-25,
+L00526,Elena Hill,Helix Dynamics,CFO,Event,Nurturing,SMB,Kevin Thompson,2024-01-31,2024-03-05
+L00527,Jess Harris,Goldridge Global,VP Sales,Webinar,Working,Partnerships,Andre Thompson,2023-07-21,2023-08-09
+L00528,Elena Taylor,Meridian LLC,VP Sales,Inbound Call,Nurturing,Inbound,Marcus Anderson,2023-10-28,
+L00529,Andre Hall,Meadows Technologies,Director IT,Partner,Converted,Outbound,George Green,2023-02-12,
+L00530,Zoe Patel,Quanta Solutions,VP Sales,LinkedIn,Dead,Mid-Market,Fiona Kim,2021-02-26,
+L00531,Yuki Young,Eastbrook Co,VP Sales,Webinar,Working,SMB,Miguel Scott,2023-04-25,
+L00532,David Allen,Phoenix LLC,Director IT,Email Campaign,Nurturing,SMB,James Nelson,2022-12-02,
+L00533,Priya Hill,Cypress Global,Director IT,Email Campaign,Dead,Mid-Market,Chris Clark,2022-07-06,
+L00534,Carlos Garcia,Valley Global,Analyst,Cold Outreach,Disqualified,SMB,Claire Clark,2022-06-28,
+L00535,Jess Williams,Cypress Global,Manager,Email Campaign,Disqualified,Enterprise,Maria Adams,2021-09-03,
+L00536,Yuki Scott,Perseus Partners,CEO,Event,Nurturing,Partnerships,Andre Anderson,2023-09-15,
+L00537,Thomas Harris,Zenith Global,Analyst,Event,Working,Enterprise,Chris Williams,2023-11-13,
+L00538,Claire Chen,Rigel Co,CTO,LinkedIn,Dead,Mid-Market,George Green,2023-09-07,
+L00539,Miguel Walker,Perseus Partners,Manager,Website,New,Outbound,James Nelson,2024-12-01,
+L00540,Marcus Robinson,Birch Co,Analyst,Webinar,Working,Inbound,Marcus Anderson,2021-07-26,2021-10-04
+L00541,Marcus Robinson,Redpoint Inc,CEO,LinkedIn,Working,Partnerships,Thomas Carter,2024-06-09,
+L00542,Thomas Walker,Redpoint Inc,CFO,Trade Show,Disqualified,Outbound,Fiona Kim,2023-04-01,
+L00543,Fiona Garcia,Orion Co,CEO,LinkedIn,Working,Mid-Market,Claire Clark,2022-07-07,
+L00544,Priya Clark,Raven Dynamics,Director IT,Inbound Call,Disqualified,Outbound,Omar Patel,2021-01-20,
+L00545,Thomas Allen,Cedar Ventures,CFO,Website,Converted,Enterprise,Aisha Walker,2022-09-07,2022-12-30
+L00546,Zoe Mitchell,Eagle Global,VP Sales,Email Campaign,Dead,SMB,Marcus Anderson,2022-06-05,
+L00547,Claire Phillips,Maple Group,CTO,Partner,New,Partnerships,Carlos Baker,2024-02-22,
+L00548,Sofia Thompson,Goldridge Global,CFO,Inbound Call,Working,SMB,Yuki Scott,2024-10-23,
+L00549,Zoe Nelson,Riverside Corp,CEO,Referral,Converted,Inbound,Eric Taylor,2023-11-12,
+L00550,Hannah Kim,Eagle Global,Analyst,Partner,Converted,Outbound,Raj Allen,2021-10-24,
+L00551,David Kim,Atlas Group,Director IT,Partner,Nurturing,Outbound,Eric Taylor,2021-05-27,
+L00552,Ben Harris,Dynamo Group,CEO,Partner,Dead,Inbound,Chris Williams,2024-05-24,
+L00553,Priya Kim,Cedar Ventures,VP Sales,Trade Show,Dead,Mid-Market,Marcus Anderson,2023-04-28,
+L00554,Dana Williams,Ironwood Solutions,Director IT,LinkedIn,New,Enterprise,Carlos Garcia,2024-12-06,
+L00555,Claire Chen,Nexus Solutions,Analyst,LinkedIn,Disqualified,Enterprise,James Allen,2023-08-28,2023-09-26
+L00556,Ben Phillips,Hawk Dynamics,CEO,Webinar,Working,Mid-Market,Eric Taylor,2021-06-22,
+L00557,Kevin Young,Helix Dynamics,Director IT,Website,New,Outbound,Yuki Scott,2021-09-16,
+L00558,Hannah Hall,Solara Technologies,Analyst,Inbound Call,Nurturing,Inbound,Claire Lee,2022-10-29,2023-02-05
+L00559,Priya Lewis,Summit Solutions,CEO,Event,Converted,Inbound,Maria Adams,2024-01-10,
+L00560,Zoe Allen,Zenith Global,Analyst,Referral,Converted,SMB,Thomas Carter,2022-12-13,
+L00561,Elena Johnson,Clearwater Ventures,CFO,Trade Show,Nurturing,SMB,Sofia Turner,2021-11-15,
+L00562,Jess Hall,Meridian LLC,Analyst,Email Campaign,Nurturing,Enterprise,Omar Williams,2024-11-09,
+L00563,Aisha Carter,Clearwater Ventures,CFO,Partner,Working,Partnerships,Omar Williams,2024-05-07,
+L00564,Chris Hill,Southshore Partners,CEO,LinkedIn,Working,SMB,Miguel Scott,2021-12-01,
+L00565,Miguel Nelson,Maple Group,CFO,Webinar,Nurturing,Outbound,Maria Adams,2022-05-06,
+L00566,Carlos Roberts,Lakeshore Group,Director IT,Trade Show,Nurturing,Enterprise,George Green,2023-04-26,
+L00567,Chris Scott,Raven Dynamics,Director IT,Partner,New,Mid-Market,James Williams,2022-07-12,
+L00568,Priya Patel,Aspen Technologies,CTO,Trade Show,Dead,Partnerships,Ivan Allen,2021-02-15,2021-03-16
+L00569,Zoe Thompson,Atlas Group,CEO,Webinar,Converted,SMB,George Green,2021-01-31,
+L00570,Marcus Williams,Helix Dynamics,Analyst,Trade Show,New,SMB,Raj Allen,2021-03-06,2021-05-15
+L00571,Carlos Turner,Helix Dynamics,CTO,LinkedIn,New,Enterprise,Chris Clark,2022-01-07,
+L00572,Aisha Hill,Vertex Inc,Director IT,Email Campaign,Dead,Enterprise,Chris Williams,2023-06-27,
+L00573,Zoe Harris,Cypress Global,CTO,Partner,Working,Outbound,Natalie Chen,2022-03-03,
+L00574,Miguel Patel,Quanta Solutions,CEO,Webinar,Working,SMB,James Williams,2024-01-31,
+L00575,Sarah Garcia,Eagle Global,CEO,Partner,New,Mid-Market,Kevin Thompson,2022-03-23,
+L00576,Fiona Garcia,Clearwater Ventures,VP Sales,Event,Dead,Partnerships,Claire Clark,2023-03-22,
+L00577,Aisha Kim,Raven Dynamics,VP Sales,Event,Nurturing,Outbound,James Williams,2021-07-03,2021-10-03
+L00578,Chris Allen,Plains Partners,VP Sales,Trade Show,Converted,Mid-Market,Omar Patel,2021-11-12,
+L00579,Eric Robinson,Maple Group,CEO,Cold Outreach,New,Outbound,Maria Hill,2024-08-13,
+L00580,Thomas Turner,Vertex Inc,CEO,Email Campaign,Disqualified,SMB,Maria Adams,2021-10-03,
+L00581,Andre Kim,Eastbrook Co,CTO,Partner,Dead,Partnerships,Kevin Thompson,2022-01-24,
+L00582,Jess Roberts,Orion Co,Director IT,Referral,Disqualified,Mid-Market,Claire Lee,2024-05-11,2024-06-23
+L00583,Yuki Walker,Clearwater Ventures,Analyst,Inbound Call,Converted,Outbound,Andre Anderson,2024-01-15,
+L00584,Hannah Robinson,Meadows Technologies,CFO,Cold Outreach,Nurturing,Outbound,Carlos Garcia,2024-06-23,
+L00585,George Harris,Valley Global,CFO,Email Campaign,Disqualified,Mid-Market,Eric Taylor,2024-01-09,
+L00586,Marcus Patel,Harbor Technologies,CFO,Referral,New,Mid-Market,Andre Anderson,2024-08-05,
+L00587,Sarah Hall,Valley Global,VP Sales,Website,Disqualified,Outbound,Maria Hill,2022-02-18,
+L00588,Sofia Baker,Apex Group,CTO,Website,Nurturing,Mid-Market,Carlos Garcia,2023-12-13,2024-01-18
+L00589,Zoe Phillips,Hawk Dynamics,Analyst,Referral,Converted,Outbound,James Williams,2024-09-04,
+L00590,George Robinson,Plains Partners,Manager,Website,Disqualified,SMB,Chris Williams,2023-05-02,2023-05-21
+L00591,David Thompson,Bayview Corp,CFO,Referral,New,Outbound,Fiona Kim,2022-09-15,
+L00592,Carlos Young,Willow Group,Director IT,Event,Dead,Mid-Market,Sarah Phillips,2022-01-24,
+L00593,Andre Robinson,Cypress Global,CEO,LinkedIn,New,Mid-Market,Andre Anderson,2024-07-31,
+L00594,Marcus Adams,Elms Inc,CFO,Event,Converted,SMB,Omar Patel,2023-10-31,
+L00595,Hannah Robinson,Northgate LLC,Analyst,LinkedIn,Dead,SMB,Chris Clark,2022-10-27,
+L00596,Omar Nelson,Orion Co,Manager,Webinar,Nurturing,Partnerships,Claire Lee,2022-03-15,
+L00597,Dana Chen,Aspen Technologies,CFO,Website,Disqualified,Mid-Market,Sarah Williams,2021-01-01,2021-02-08
+L00598,Hannah Taylor,Nexus Solutions,Analyst,Webinar,Disqualified,Inbound,Claire Clark,2022-03-16,2022-05-23
+L00599,Kevin Martinez,Quanta Solutions,CTO,Event,Working,Mid-Market,Marcus Anderson,2022-12-30,
+L00600,Andre Harris,Goldridge Global,Director IT,Referral,Dead,SMB,Sofia Turner,2021-07-08,2021-10-31
+L00601,Chris Lewis,Bluestone Global,VP Sales,Event,Dead,SMB,Natalie Chen,2024-11-13,
+L00602,Omar Williams,Meadows Technologies,VP Sales,Partner,Nurturing,Partnerships,Sarah Phillips,2024-03-26,
+L00603,Hannah Nelson,Zenith Global,Manager,Event,New,Outbound,Maria Hill,2021-09-04,2021-11-20
+L00604,Marcus Allen,Goldridge Global,Director IT,Partner,Disqualified,Outbound,Fiona Kim,2021-03-26,2021-06-30
+L00605,Raj Nelson,Summit Solutions,CFO,Inbound Call,New,Mid-Market,Omar Williams,2023-03-16,2023-05-15
+L00606,Kevin Taylor,Vortex Technologies,CEO,Event,Dead,Enterprise,Raj Allen,2021-10-31,2021-12-31
+L00607,Natalie Nelson,Titan LLC,Director IT,Trade Show,Converted,Inbound,Fiona Roberts,2023-10-25,
+L00608,Andre Thompson,Orion Co,CFO,Inbound Call,Working,Mid-Market,Carlos Garcia,2024-08-28,2024-11-01
+L00609,Layla Phillips,Goldridge Global,VP Sales,Referral,Dead,Partnerships,Omar Williams,2022-10-25,
+L00610,Marcus Robinson,Summit Solutions,Manager,Website,Nurturing,Mid-Market,Yuki Scott,2022-01-26,
+L00611,Sofia Martinez,Crossroads Systems,VP Sales,Cold Outreach,Working,Outbound,Thomas Carter,2023-06-25,2023-10-06
+L00612,Sarah Hill,Highland LLC,Director IT,Event,Working,SMB,Ivan Allen,2021-06-25,
+L00613,Elena Walker,Westfall Group,VP Sales,Partner,Working,Outbound,Maria Adams,2021-08-16,2021-11-03
+L00614,Eric Anderson,Orion Co,CEO,Event,Dead,Mid-Market,David Lewis,2023-12-08,
+L00615,Miguel Chen,Quanta Solutions,Director IT,Website,Nurturing,Mid-Market,Kevin Thompson,2024-09-20,2024-12-22
+L00616,David Harris,Willow Group,CTO,Partner,New,Enterprise,Eric Taylor,2021-01-18,
+L00617,Omar Garcia,Stratos Inc,CFO,Referral,Nurturing,Partnerships,Maria Adams,2024-08-22,2024-09-26
+L00618,Raj Allen,Phoenix LLC,Manager,Website,New,Mid-Market,Chris Williams,2023-10-23,
+L00619,Omar Hill,Elms Inc,VP Sales,Partner,Dead,SMB,Yuki Scott,2023-10-01,
+L00620,Miguel Anderson,Maple Group,VP Sales,Webinar,Converted,Enterprise,Kevin Thompson,2022-04-29,2022-06-21
+L00621,Layla Martinez,Vortex Technologies,Manager,LinkedIn,Disqualified,Outbound,Fiona Kim,2023-03-16,
+L00622,Kevin Clark,Orbis Systems,CFO,Partner,Converted,Inbound,Ben Baker,2024-03-19,2024-04-15
+L00623,Claire Adams,Maple Group,Director IT,Trade Show,Nurturing,Outbound,Chris Williams,2024-04-04,
+L00624,Jess Nelson,Crestview Global,Manager,Event,Working,SMB,Carlos Garcia,2023-05-31,
+L00625,Priya Taylor,Helix Dynamics,Director IT,Website,Nurturing,Partnerships,Sarah Phillips,2021-08-31,
+L00626,Jess Hill,Dynamo Group,Director IT,Cold Outreach,New,Mid-Market,Andre Anderson,2024-07-28,2024-10-24
+L00627,Thomas Scott,Goldridge Global,CFO,Cold Outreach,Disqualified,Mid-Market,Fiona Kim,2024-06-17,
+L00628,David Baker,Meadows Technologies,CEO,Trade Show,Disqualified,Inbound,Sofia Turner,2023-01-06,
+L00629,Priya Roberts,Stratos Inc,CEO,Email Campaign,Working,Mid-Market,Fiona Roberts,2023-02-05,2023-04-08
+L00630,Jess Anderson,Meridian LLC,CEO,Cold Outreach,Dead,Outbound,Fiona Roberts,2021-01-31,
+L00631,Priya Phillips,Bayview Corp,CEO,Event,Converted,Outbound,Omar Patel,2021-05-16,
+L00632,Natalie Harris,Meadows Technologies,VP Sales,Event,Dead,Partnerships,Omar Patel,2022-05-21,
+L00633,Sofia Allen,Oaks Solutions,Manager,Website,Disqualified,Enterprise,Claire Lee,2024-03-17,
+L00634,Ivan Garcia,Oaks Solutions,CFO,LinkedIn,Dead,Enterprise,Maria Hill,2021-03-28,
+L00635,Maria Thompson,Aspen Technologies,CEO,LinkedIn,Nurturing,SMB,George Green,2024-07-15,2024-08-31
+L00636,Jess Chen,Titan LLC,CFO,Trade Show,Converted,Outbound,Claire Lee,2024-06-09,2024-08-22
+L00637,Priya Nelson,Apex Group,Manager,Inbound Call,Working,Partnerships,Sarah Phillips,2021-08-20,
+L00638,Priya Walker,Apex Group,Manager,Cold Outreach,Converted,Enterprise,Marcus Anderson,2021-02-21,
+L00639,Jess Baker,Plains Partners,Director IT,Referral,New,Enterprise,Claire Lee,2024-08-21,
+L00640,Miguel Baker,Stratos Inc,Manager,Inbound Call,Disqualified,Mid-Market,Maria Hill,2021-06-24,
+L00641,Eric Kim,Canyon Global,CTO,Event,Dead,Mid-Market,Aisha Walker,2021-03-31,
+L00642,Eric Baker,Highland LLC,CEO,Webinar,Nurturing,Outbound,Claire Lee,2022-01-02,2022-02-04
+L00643,Ivan Martinez,Bayview Corp,Director IT,Website,Disqualified,SMB,Ivan Allen,2021-08-29,
+L00644,Claire Carter,Clearwater Ventures,CFO,Email Campaign,Working,Mid-Market,Sofia Turner,2023-10-19,
+L00645,David Scott,Summit Solutions,VP Sales,Cold Outreach,Disqualified,SMB,James Nelson,2023-06-24,2023-07-22
+L00646,Ben Robinson,Vertex Inc,Director IT,Website,Dead,Inbound,Sarah Williams,2021-04-23,
+L00647,Maria Patel,Northgate LLC,Director IT,Trade Show,Dead,SMB,Andre Anderson,2021-06-29,
+L00648,Yuki Phillips,Vertex Inc,VP Sales,Webinar,Nurturing,SMB,Maria Hill,2024-03-31,
+L00649,George Allen,Lakeshore Group,CTO,Email Campaign,Working,Enterprise,Kevin Thompson,2023-05-26,
+L00650,Miguel Thompson,Titan LLC,Director IT,Event,New,Enterprise,Chris Williams,2023-04-28,
+L00651,Dana Baker,Summit Solutions,Analyst,Webinar,Converted,Inbound,Omar Patel,2023-09-18,2023-12-10
+L00652,Yuki Phillips,Brightfield Global,CFO,Event,Converted,Inbound,Hannah Robinson,2024-06-30,
+L00653,Ivan Scott,Zenith Global,Manager,Webinar,Working,Enterprise,Carlos Baker,2022-01-04,2022-04-04
+L00654,Dana Roberts,Ironwood Solutions,Analyst,Event,Converted,Partnerships,Natalie Chen,2021-08-30,
+L00655,Fiona Green,Ironwood Solutions,VP Sales,Cold Outreach,Dead,SMB,Marcus Anderson,2024-02-22,
+L00656,Elena Young,Orion Co,CTO,Website,New,Outbound,Yuki Roberts,2022-09-23,
+L00657,Sofia Johnson,Helix Dynamics,Director IT,Cold Outreach,Nurturing,SMB,Sofia Turner,2024-03-11,
+L00658,Ben Martinez,Westfall Group,Director IT,Email Campaign,Disqualified,SMB,George Green,2021-03-14,
+L00659,Jess Hill,Highland LLC,Analyst,Inbound Call,Nurturing,Inbound,Omar Patel,2023-04-28,
+L00660,Carlos Lewis,Cypress Global,CTO,Partner,New,Mid-Market,Kevin Thompson,2021-02-08,
+L00661,Omar Green,Eastbrook Co,Analyst,Trade Show,Disqualified,Inbound,Maria Hill,2022-11-26,2022-12-20
+L00662,Chris Roberts,Perseus Partners,Manager,Website,Nurturing,Partnerships,Miguel Scott,2022-09-24,
+L00663,Yuki Walker,Helix Dynamics,CTO,Cold Outreach,Disqualified,SMB,Andre Anderson,2022-05-02,2022-08-20
+L00664,Eric Thompson,Canyon Global,VP Sales,Email Campaign,Disqualified,Enterprise,Sofia Turner,2021-03-18,
+L00665,Carlos Taylor,Phoenix LLC,CEO,Inbound Call,Nurturing,SMB,Claire Clark,2021-11-12,
+L00666,George Young,Cypress Global,Director IT,Cold Outreach,Dead,Enterprise,George Green,2021-07-21,
+L00667,Sarah Johnson,Orbis Systems,VP Sales,Event,New,SMB,George Green,2023-12-06,
+L00668,Miguel Nelson,Willow Group,Manager,Webinar,New,Inbound,Sarah Williams,2021-07-31,
+L00669,Marcus Thompson,Valley Global,CTO,Webinar,Disqualified,SMB,Claire Lee,2022-03-06,
+L00670,Kevin Kim,Dynamo Group,VP Sales,Website,Disqualified,Inbound,Andre Thompson,2022-07-13,2022-09-30
+L00671,Claire Taylor,Dynamo Group,Director IT,Webinar,Disqualified,Mid-Market,Aisha Walker,2022-12-19,2023-03-17
+L00672,Claire Walker,Highland LLC,Director IT,Website,Converted,Outbound,James Williams,2022-11-25,2022-12-11
+L00673,Natalie Harris,Redpoint Inc,Manager,Event,Disqualified,Outbound,Claire Lee,2021-06-26,
+L00674,Marcus Mitchell,Valley Global,Manager,Inbound Call,New,Partnerships,Ben Baker,2022-10-02,2023-01-22
+L00675,Raj Patel,Solara Technologies,CTO,Email Campaign,Converted,Mid-Market,Fiona Kim,2024-12-01,2025-02-27
+L00676,Jess Robinson,Prism Group,Director IT,Partner,Nurturing,Partnerships,Hannah Robinson,2022-06-13,2022-08-22
+L00677,Yuki Hall,Solara Technologies,Analyst,Trade Show,Nurturing,SMB,Ben Baker,2021-08-20,
+L00678,George Baker,Plains Partners,VP Sales,Partner,Disqualified,Outbound,Carlos Garcia,2023-04-11,
+L00679,Raj Harris,Apex Group,CEO,Cold Outreach,Disqualified,Mid-Market,Aisha Walker,2023-12-28,
+L00680,David Taylor,Ironwood Solutions,Analyst,Event,Converted,Partnerships,Yuki Roberts,2023-02-26,
+L00681,Priya Adams,Willow Group,VP Sales,Event,Converted,Enterprise,George Green,2022-04-29,
+L00682,George Walker,Redpoint Inc,CTO,LinkedIn,New,Inbound,James Allen,2021-07-19,
+L00683,Eric Mitchell,Stratos Inc,CTO,Email Campaign,Dead,Outbound,James Williams,2024-05-06,2024-08-28
+L00684,Ivan Lewis,Griffin Solutions,Analyst,Website,Working,Outbound,Claire Clark,2021-10-12,
+L00685,Omar Scott,Goldridge Global,CEO,Cold Outreach,Working,Outbound,Omar Patel,2022-08-20,2022-12-09
+L00686,Elena Phillips,Meridian LLC,CEO,Partner,New,Inbound,Ivan Allen,2024-10-23,
+L00687,Omar Roberts,Brightfield Global,Analyst,Webinar,New,SMB,James Williams,2023-11-12,2024-02-01
+L00688,Sarah Roberts,Aspen Technologies,Analyst,Website,Working,Partnerships,Raj Allen,2023-01-06,
+L00689,Omar Harris,Stratos Inc,CEO,Inbound Call,Working,Outbound,Andre Anderson,2024-12-28,
+L00690,Claire Harris,Helix Dynamics,CTO,LinkedIn,Working,SMB,Ben Baker,2022-01-21,2022-02-09
+L00691,James Martinez,Silverline Co,CEO,LinkedIn,Working,Enterprise,Ben Baker,2024-08-20,
+L00692,Hannah Walker,Griffin Solutions,Analyst,Event,Converted,Inbound,Andre Anderson,2023-05-02,
+L00693,Claire Mitchell,Crossroads Systems,CEO,Partner,Working,Mid-Market,Omar Williams,2023-05-19,
+L00694,Zoe Roberts,Silverline Co,Director IT,Inbound Call,Nurturing,Partnerships,Maria Adams,2024-03-29,
+L00695,Maria Lewis,Westfall Group,Manager,Partner,New,Inbound,Sofia Turner,2021-03-10,
+L00696,Kevin Hill,Silverline Co,CFO,Webinar,Converted,Inbound,Miguel Scott,2021-06-13,
+L00697,David Garcia,Westfall Group,Manager,Referral,Dead,Outbound,Maria Adams,2024-06-03,
+L00698,Sofia Chen,Griffin Solutions,CTO,Inbound Call,New,Partnerships,George Green,2022-10-02,
+L00699,Andre Hill,Atlas Group,CEO,Partner,Nurturing,SMB,Aisha Walker,2023-08-19,2023-11-13
+L00700,Dana Carter,Goldridge Global,CTO,Website,Dead,Partnerships,Aisha Walker,2022-09-15,
+L00701,Elena Carter,Riverside Corp,CFO,Website,Nurturing,Partnerships,Miguel Scott,2024-09-06,2024-09-25
+L00702,Thomas Martinez,Birch Co,CTO,Webinar,Nurturing,Enterprise,Carlos Baker,2022-07-24,
+L00703,Dana Martinez,Willow Group,CEO,Partner,Working,SMB,Chris Clark,2024-04-26,
+L00704,Hannah Chen,Atlas Group,VP Sales,Trade Show,Disqualified,Mid-Market,Hannah Robinson,2023-12-17,
+L00705,Eric Harris,Midpoint Dynamics,Manager,Email Campaign,Dead,Outbound,Aisha Walker,2023-04-26,2023-08-07
+L00706,Maria Green,Quanta Solutions,Analyst,Referral,New,Mid-Market,George Green,2022-12-08,
+L00707,Zoe Hill,Meridian LLC,Analyst,Inbound Call,Working,Partnerships,Maria Hill,2022-09-10,
+L00708,Miguel Roberts,Coast Co,VP Sales,Webinar,Converted,Partnerships,Omar Patel,2021-10-25,
+L00709,Maria Patel,Canyon Global,CFO,Partner,Converted,Inbound,Kevin Thompson,2024-10-30,
+L00710,Fiona Patel,Quanta Solutions,Manager,Event,Converted,Partnerships,Chris Clark,2022-07-01,
+L00711,Eric Thompson,Oaks Solutions,CTO,Trade Show,Nurturing,Inbound,Ivan Allen,2024-04-20,
+L00712,James Clark,Harbor Technologies,CFO,Referral,Dead,Partnerships,Yuki Scott,2021-05-20,2021-07-05
+L00713,Carlos Chen,Nexus Solutions,CFO,Referral,New,Inbound,James Nelson,2022-05-31,
+L00714,Sarah Baker,Bayview Corp,VP Sales,Referral,Disqualified,Mid-Market,Maria Hill,2024-07-30,
+L00715,Andre Carter,Bayview Corp,Director IT,Referral,Dead,Mid-Market,Marcus Anderson,2024-08-19,2024-11-21
+L00716,Ben Walker,Phoenix LLC,CTO,LinkedIn,Dead,Outbound,Omar Patel,2021-06-05,2021-09-22
+L00717,Thomas Nelson,Highland LLC,CEO,LinkedIn,Nurturing,Enterprise,Marcus Anderson,2021-06-01,
+L00718,Priya Walker,Lakeshore Group,CEO,Cold Outreach,Disqualified,Partnerships,Andre Anderson,2022-06-27,
+L00719,Kevin Allen,Meadows Technologies,CEO,Cold Outreach,Disqualified,Outbound,James Allen,2021-08-11,
+L00720,Sarah Chen,Lakeshore Group,VP Sales,Event,Dead,SMB,Claire Lee,2022-06-15,2022-08-27
+L00721,Ben Green,Clearwater Ventures,VP Sales,LinkedIn,Nurturing,Mid-Market,Yuki Roberts,2021-11-01,
+L00722,James Young,Falcon Systems,Analyst,Email Campaign,Converted,Partnerships,Raj Allen,2024-03-22,
+L00723,Claire Garcia,Clearwater Ventures,CEO,Email Campaign,New,Inbound,Maria Adams,2021-05-24,
+L00724,Marcus Adams,Orbis Systems,CEO,Website,Dead,Outbound,Miguel Scott,2023-01-06,
+L00725,David Mitchell,Solara Technologies,Analyst,Webinar,Dead,Mid-Market,Andre Anderson,2022-11-28,
+L00726,Layla Thompson,Orbis Systems,Manager,LinkedIn,New,Outbound,Yuki Scott,2023-02-26,
+L00727,Raj Hill,Valley Global,Director IT,Website,Working,Enterprise,Chris Clark,2024-07-19,
+L00728,Fiona Allen,Southshore Partners,CTO,Email Campaign,Disqualified,Partnerships,David Lewis,2021-05-10,2021-05-27
+L00729,Fiona Hill,Vertex Inc,CEO,Referral,Working,Outbound,Chris Williams,2022-11-23,
+L00730,Hannah Roberts,Eastbrook Co,Director IT,Event,Working,Enterprise,Natalie Chen,2024-10-20,
+L00731,Ben Johnson,Westfall Group,CFO,Website,Working,Outbound,Ben Baker,2023-09-29,2023-12-28
+L00732,Ivan Lee,Bluestone Global,Analyst,Referral,Converted,Inbound,Aisha Walker,2021-04-13,
+L00733,George Mitchell,Harbor Technologies,VP Sales,Email Campaign,Disqualified,Inbound,Fiona Kim,2021-05-11,2021-06-15
+L00734,Marcus Carter,Helix Dynamics,Manager,LinkedIn,Nurturing,Enterprise,Maria Adams,2023-05-23,2023-09-17
+L00735,Eric Chen,Apex Group,Director IT,Partner,New,Enterprise,Kevin Thompson,2022-03-13,2022-05-15
+L00736,Chris Robinson,Orion Co,Director IT,Email Campaign,Working,Inbound,Natalie Chen,2021-12-11,2022-04-01
+L00737,Sofia Harris,Meadows Technologies,Director IT,Website,Converted,Enterprise,Ivan Allen,2024-07-18,2024-08-08
+L00738,Ben Lewis,Hawk Dynamics,CTO,LinkedIn,Dead,Partnerships,Ben Baker,2024-12-18,2025-03-19
+L00739,Miguel Walker,Northgate LLC,Director IT,Trade Show,Disqualified,Outbound,Natalie Chen,2022-07-09,
+L00740,Sofia Williams,Eagle Global,Analyst,Webinar,Nurturing,Partnerships,Ivan Allen,2023-10-21,
+L00741,Sarah Young,Harbor Technologies,CFO,Partner,Disqualified,Inbound,Fiona Kim,2022-01-29,
+L00742,Layla Thompson,Dynamo Group,VP Sales,Cold Outreach,New,Mid-Market,Sofia Turner,2024-07-06,
+L00743,Layla Phillips,Vertex Inc,VP Sales,Partner,Nurturing,Mid-Market,Omar Williams,2021-11-24,2022-02-20
+L00744,Maria Patel,Riverside Corp,VP Sales,Inbound Call,Working,Mid-Market,David Lewis,2023-07-18,
+L00745,David Turner,Midpoint Dynamics,Manager,Email Campaign,Disqualified,Inbound,Omar Patel,2021-08-26,
+L00746,Ivan Taylor,Zenith Global,Analyst,Referral,Nurturing,Mid-Market,James Allen,2024-10-18,2024-12-19
+L00747,Omar Turner,Zenith Global,VP Sales,Email Campaign,Disqualified,Partnerships,James Williams,2022-02-14,
+L00748,Carlos Phillips,Birch Co,CEO,Trade Show,Converted,SMB,Ben Baker,2021-10-24,
+L00749,Ben Robinson,Dynamo Group,Director IT,Partner,Working,Enterprise,James Williams,2022-02-02,2022-02-26
+L00750,Raj Clark,Elms Inc,Analyst,Partner,Working,SMB,Aisha Walker,2023-08-12,
+L00751,Sofia Turner,Elms Inc,CFO,Inbound Call,Working,Enterprise,Sarah Phillips,2024-07-30,
+L00752,Hannah Thompson,Apex Group,CEO,Email Campaign,Nurturing,Enterprise,Omar Williams,2023-09-29,
+L00753,Aisha Taylor,Coast Co,CFO,Cold Outreach,Disqualified,Mid-Market,Ivan Allen,2022-05-21,
+L00754,Maria Hall,Silverline Co,Analyst,Inbound Call,New,Partnerships,Chris Williams,2021-04-01,
+L00755,George Patel,Crossroads Systems,CEO,Cold Outreach,New,Inbound,Ivan Allen,2024-11-27,
+L00756,Carlos Martinez,Sirius Partners,CTO,Cold Outreach,Dead,Enterprise,David Lewis,2023-04-13,
+L00757,Priya Baker,Solara Technologies,Analyst,Event,Dead,Inbound,David Lewis,2022-09-17,
+L00758,Eric Martinez,Ridge Group,Manager,LinkedIn,Working,SMB,George Green,2023-08-08,
+L00759,Hannah Green,Lakeshore Group,CEO,Partner,Disqualified,Enterprise,Eric Taylor,2021-01-03,
+L00760,Chris Scott,Eastbrook Co,CFO,Cold Outreach,Dead,Enterprise,Yuki Roberts,2022-07-07,
+L00761,Miguel Phillips,Cypress Global,CTO,Website,New,Partnerships,Thomas Carter,2021-04-23,
+L00762,Yuki Robinson,Redpoint Inc,Manager,Inbound Call,Dead,Enterprise,James Nelson,2021-03-25,2021-05-16
+L00763,Claire Patel,Southshore Partners,CEO,Event,Dead,Mid-Market,Fiona Kim,2022-05-04,
+L00764,Miguel Adams,Coast Co,CTO,Website,New,SMB,Yuki Scott,2022-07-02,
+L00765,Miguel Mitchell,Pines Systems,CEO,Inbound Call,Dead,Inbound,Eric Taylor,2023-10-24,
+L00766,Fiona Adams,Meridian LLC,Manager,Referral,Working,Partnerships,Miguel Scott,2023-01-24,2023-02-25
+L00767,David Patel,Elms Inc,CTO,Referral,Dead,Mid-Market,Hannah Robinson,2022-08-14,2022-09-19
+L00768,Ben Johnson,Aspen Technologies,CEO,Inbound Call,Working,Partnerships,Yuki Scott,2023-12-03,
+L00769,James Lee,Valley Global,VP Sales,Website,Working,Inbound,Yuki Roberts,2024-08-13,
+L00770,Ben Green,Plains Partners,CTO,Email Campaign,Disqualified,Outbound,Chris Williams,2022-12-04,
+L00771,Raj Lee,Goldridge Global,Director IT,Webinar,Working,SMB,Fiona Kim,2023-07-01,
+L00772,Eric Roberts,Highland LLC,Director IT,Partner,Nurturing,Partnerships,Aisha Walker,2022-08-14,
+L00773,Chris Allen,Aspen Technologies,Director IT,Trade Show,Dead,Outbound,Claire Clark,2021-11-26,2021-12-20
+L00774,Marcus Lewis,Brightfield Global,CEO,Webinar,Nurturing,Mid-Market,James Nelson,2021-03-26,
+L00775,Layla Taylor,Sirius Partners,Director IT,Partner,Converted,Inbound,Aisha Walker,2021-03-13,
+L00776,Jess Johnson,Prism Group,CEO,Trade Show,Converted,SMB,Claire Clark,2021-09-06,2021-12-19
+L00777,Miguel Taylor,Southshore Partners,Manager,Webinar,Converted,SMB,Claire Clark,2024-01-24,
+L00778,Marcus Baker,Pines Systems,Manager,Email Campaign,New,Mid-Market,Carlos Baker,2023-06-25,
+L00779,Sofia Mitchell,Zenith Global,CEO,Partner,New,SMB,James Williams,2023-04-03,
+L00780,Andre Young,Zenith Global,Analyst,Webinar,Working,Enterprise,Miguel Scott,2022-02-04,
+L00781,Layla Adams,Bayview Corp,VP Sales,Inbound Call,Converted,Mid-Market,Hannah Robinson,2023-07-02,
+L00782,Miguel Chen,Canyon Global,Manager,Partner,Converted,Mid-Market,Omar Williams,2024-05-24,
+L00783,James Lee,Sirius Partners,CTO,Webinar,Converted,Inbound,Miguel Scott,2023-02-03,2023-04-10
+L00784,Fiona Walker,Aspen Technologies,Director IT,LinkedIn,Dead,Partnerships,Ben Baker,2023-05-02,
+L00785,David Martinez,Ironwood Solutions,CTO,Email Campaign,Disqualified,SMB,Carlos Garcia,2024-05-09,
+L00786,Eric Harris,Vortex Technologies,VP Sales,LinkedIn,Dead,SMB,Sarah Phillips,2024-04-24,2024-07-02
+L00787,Andre Nelson,Canyon Global,Director IT,Cold Outreach,Working,Partnerships,Eric Taylor,2024-12-25,
+L00788,George Mitchell,Orbis Systems,Analyst,Event,Nurturing,Partnerships,George Green,2021-03-28,2021-07-17
+L00789,Kevin Anderson,Orbis Systems,Manager,Email Campaign,New,Outbound,Eric Taylor,2021-01-06,
+L00790,Jess Baker,Southshore Partners,Director IT,Website,New,SMB,Hannah Robinson,2023-10-05,
+L00791,Sofia Hill,Vega Solutions,CFO,Email Campaign,Disqualified,Partnerships,Marcus Anderson,2021-05-17,
+L00792,Chris Mitchell,Pines Systems,CTO,Inbound Call,Dead,Inbound,David Lewis,2023-09-02,
+L00793,Andre Chen,Crestview Global,CTO,Email Campaign,Dead,Mid-Market,Yuki Scott,2021-11-30,2022-01-13
+L00794,Natalie Green,Canyon Global,CTO,Website,Nurturing,SMB,Chris Williams,2023-01-10,
+L00795,Miguel Thompson,Meadows Technologies,Manager,Trade Show,New,Inbound,Aisha Walker,2021-06-07,
+L00796,George Roberts,Cypress Global,Analyst,Webinar,Nurturing,Outbound,Thomas Carter,2022-10-10,2023-01-02
+L00797,George Martinez,Clearwater Ventures,Director IT,Inbound Call,Nurturing,SMB,Hannah Robinson,2022-12-22,
+L00798,Sarah Thompson,Crestview Global,CFO,Cold Outreach,Working,Inbound,Chris Williams,2021-11-30,
+L00799,Claire Baker,Pinnacle Technologies,Analyst,Referral,Converted,Partnerships,Carlos Garcia,2024-12-30,2025-01-25
+L00800,Zoe Robinson,Orbis Systems,Manager,Partner,Working,Partnerships,Chris Williams,2021-02-05,
+L00801,Priya Baker,Orbis Systems,VP Sales,Referral,Working,Mid-Market,Claire Clark,2022-12-02,
+L00802,Kevin Thompson,Brightfield Global,VP Sales,LinkedIn,Dead,Enterprise,Carlos Garcia,2022-09-22,2022-12-02
+L00803,Maria Thompson,Harbor Technologies,VP Sales,Inbound Call,Disqualified,Enterprise,Sofia Turner,2023-06-03,2023-07-15
+L00804,David Lee,Willow Group,VP Sales,Referral,New,Inbound,James Nelson,2021-03-30,
+L00805,Priya Adams,Sirius Partners,VP Sales,Referral,Working,Outbound,Kevin Thompson,2022-02-14,
+L00806,Yuki Kim,Cedar Ventures,CFO,Event,Working,Inbound,Carlos Garcia,2022-12-14,2023-03-08
+L00807,Miguel Thompson,Falcon Systems,Director IT,Webinar,Working,Inbound,Ivan Allen,2021-01-29,
+L00808,Jess Thompson,Canyon Global,CFO,Email Campaign,Nurturing,Outbound,Andre Anderson,2021-07-22,
+L00809,Priya Mitchell,Sirius Partners,CEO,LinkedIn,Working,Inbound,Fiona Kim,2021-08-08,
+L00810,Sarah Walker,Pines Systems,CFO,Trade Show,Converted,SMB,Eric Taylor,2022-10-06,
+L00811,David Taylor,Raven Dynamics,VP Sales,LinkedIn,Nurturing,Partnerships,Sarah Williams,2021-03-25,
+L00812,Aisha Allen,Northgate LLC,CTO,LinkedIn,Working,Enterprise,Sofia Turner,2023-06-29,
+L00813,Priya Johnson,Cypress Global,CEO,Referral,Converted,Partnerships,Chris Williams,2023-01-23,
+L00814,Sarah Martinez,Prism Group,CEO,Event,New,Outbound,Aisha Walker,2021-06-24,2021-07-29
+L00815,Carlos Scott,Cedar Ventures,CEO,Referral,Working,Partnerships,Hannah Robinson,2022-11-25,2023-03-06
+L00816,Andre Anderson,Pinnacle Technologies,Analyst,LinkedIn,Nurturing,Partnerships,Raj Allen,2024-04-06,
+L00817,Thomas Martinez,Meadows Technologies,CEO,Referral,New,SMB,Hannah Robinson,2023-11-14,
+L00818,Kevin Johnson,Harbor Technologies,Manager,Website,New,Partnerships,David Lewis,2024-07-10,
+L00819,Sofia Adams,Perseus Partners,Director IT,Webinar,Disqualified,Inbound,James Allen,2023-02-23,
+L00820,Eric Young,Meadows Technologies,CEO,Email Campaign,Working,SMB,Hannah Robinson,2024-09-15,
+L00821,Claire Taylor,Maple Group,Analyst,Inbound Call,Disqualified,Enterprise,Natalie Chen,2022-06-20,
+L00822,Omar Walker,Perseus Partners,Analyst,LinkedIn,Converted,Partnerships,Natalie Chen,2021-09-01,2021-11-21
+L00823,Hannah Nelson,Orbis Systems,Manager,Trade Show,Converted,Partnerships,Ben Baker,2024-09-12,
+L00824,Zoe Nelson,Pines Systems,CFO,Email Campaign,Dead,Inbound,Maria Adams,2023-03-08,
+L00825,Claire Roberts,Elms Inc,CFO,Website,Converted,SMB,Hannah Robinson,2023-09-02,
+L00826,Sofia Adams,Sirius Partners,Analyst,Webinar,Nurturing,Enterprise,David Lewis,2023-02-13,
+L00827,George Robinson,Sirius Partners,Analyst,Event,New,Outbound,Yuki Roberts,2021-09-20,
+L00828,Yuki Robinson,Northgate LLC,CTO,Website,Dead,Mid-Market,Chris Clark,2023-05-27,2023-07-15
+L00829,David Phillips,Titan LLC,VP Sales,Webinar,New,SMB,Aisha Walker,2024-04-28,2024-06-18
+L00830,Raj Adams,Ridge Group,CEO,Event,Disqualified,Partnerships,Kevin Thompson,2021-03-18,2021-05-27
+L00831,James Taylor,Stratos Inc,CFO,LinkedIn,Nurturing,Inbound,James Allen,2024-04-19,
+L00832,Chris Adams,Ironwood Solutions,CTO,Email Campaign,Disqualified,Outbound,Yuki Roberts,2021-07-24,2021-09-10
+L00833,Natalie Thompson,Raven Dynamics,Manager,Referral,Disqualified,Mid-Market,Eric Taylor,2023-01-15,2023-03-04
+L00834,Omar Carter,Zenith Global,CFO,Referral,Dead,Inbound,James Allen,2024-03-20,
+L00835,David Lewis,Maple Group,CFO,Email Campaign,Converted,Mid-Market,Yuki Scott,2022-07-14,
+L00836,George Lee,Rigel Co,Analyst,Webinar,Converted,Outbound,Maria Adams,2024-08-27,
+L00837,Omar Anderson,Birch Co,CFO,Email Campaign,Dead,Inbound,Andre Anderson,2023-04-29,
+L00838,Chris Young,Ridge Group,Director IT,Event,Converted,Mid-Market,George Green,2024-07-09,2024-10-08
+L00839,Fiona Scott,Cedar Ventures,Analyst,LinkedIn,Disqualified,Outbound,James Williams,2023-12-28,
+L00840,Raj Martinez,Midpoint Dynamics,Director IT,Webinar,Converted,Partnerships,Omar Patel,2023-01-17,
+L00841,Ben Thompson,Cedar Ventures,CEO,Webinar,Nurturing,Outbound,Aisha Walker,2021-05-12,2021-08-06
+L00842,Omar Garcia,Pines Systems,Director IT,Cold Outreach,New,Mid-Market,Sarah Williams,2022-04-29,
+L00843,Natalie Clark,Southshore Partners,VP Sales,Cold Outreach,Working,SMB,Ben Baker,2024-02-21,2024-06-11
+L00844,Layla Allen,Redpoint Inc,Manager,Website,Dead,Partnerships,David Lewis,2022-07-23,2022-08-12
+L00845,Sofia Lee,Ridge Group,VP Sales,LinkedIn,Nurturing,Outbound,Miguel Scott,2022-10-05,
+L00846,Aisha Patel,Goldridge Global,Manager,Inbound Call,New,Inbound,Chris Williams,2021-10-15,2021-11-05
+L00847,Sofia Patel,Meadows Technologies,Analyst,Partner,Nurturing,Inbound,Maria Hill,2022-05-03,
+L00848,Jess Clark,Ironwood Solutions,Director IT,Referral,Working,Mid-Market,Kevin Thompson,2022-04-29,
+L00849,Hannah Lewis,Highland LLC,CEO,Inbound Call,Nurturing,Outbound,Carlos Baker,2022-06-05,
+L00850,Zoe Adams,Midpoint Dynamics,CTO,Trade Show,Nurturing,Partnerships,Thomas Carter,2023-05-18,
+L00851,Ben Turner,Summit Solutions,VP Sales,Website,Dead,Outbound,Chris Clark,2021-02-13,2021-04-13
+L00852,Ben Baker,Vega Solutions,Analyst,Referral,Disqualified,Mid-Market,Claire Lee,2022-09-26,
+L00853,Jess Phillips,Quanta Solutions,CTO,Referral,Working,SMB,James Nelson,2023-03-16,
+L00854,Jess Walker,Eagle Global,CTO,LinkedIn,New,SMB,Miguel Scott,2021-11-25,
+L00855,Zoe Hill,Northgate LLC,Analyst,Partner,Dead,Partnerships,James Allen,2023-10-04,
+L00856,Thomas Young,Lakeshore Group,CTO,LinkedIn,Disqualified,Outbound,Omar Patel,2024-12-01,
+L00857,Eric Chen,Southshore Partners,Manager,Trade Show,Dead,Partnerships,Ben Baker,2021-02-26,2021-04-02
+L00858,Elena Taylor,Goldridge Global,VP Sales,Referral,Working,Mid-Market,Chris Williams,2024-07-10,
+L00859,Eric Martinez,Cedar Ventures,CFO,LinkedIn,Nurturing,Partnerships,Sofia Turner,2024-08-22,
+L00860,Thomas Kim,Cypress Global,CFO,Partner,Nurturing,Mid-Market,Miguel Scott,2021-10-01,
+L00861,Omar Turner,Stratos Inc,Analyst,Event,Working,Enterprise,David Lewis,2022-01-08,
+L00862,Sofia Green,Zenith Global,VP Sales,Email Campaign,Working,SMB,Aisha Walker,2024-08-18,2024-11-15
+L00863,Sofia Anderson,Crestview Global,VP Sales,Partner,Working,Inbound,Carlos Baker,2023-05-29,2023-08-14
+L00864,Eric Phillips,Phoenix LLC,CEO,Email Campaign,New,Mid-Market,James Nelson,2023-06-11,2023-10-09
+L00865,Elena Hill,Raven Dynamics,CEO,Trade Show,Converted,Mid-Market,James Nelson,2022-06-30,
+L00866,Dana Adams,Valley Global,CEO,Trade Show,Converted,Mid-Market,David Lewis,2022-08-03,2022-09-15
+L00867,Sofia Walker,Canyon Global,Director IT,Partner,Disqualified,Outbound,George Green,2022-04-28,2022-07-07
+L00868,Hannah Taylor,Titan LLC,CEO,Cold Outreach,Dead,Partnerships,Omar Williams,2021-09-30,
+L00869,David Patel,Orion Co,VP Sales,Website,Nurturing,Mid-Market,Sofia Turner,2022-06-09,
+L00870,Layla Carter,Summit Solutions,Manager,Website,New,SMB,Andre Thompson,2024-05-26,
+L00871,Omar Adams,Vega Solutions,Director IT,Inbound Call,New,Inbound,Andre Anderson,2022-09-12,2022-11-25
+L00872,Jess Taylor,Hawk Dynamics,CEO,Trade Show,New,SMB,Chris Williams,2023-10-07,
+L00873,Sarah Taylor,Vertex Inc,Director IT,Email Campaign,Nurturing,Outbound,Thomas Carter,2022-06-18,
+L00874,Ivan Turner,Quanta Solutions,CFO,Webinar,Disqualified,SMB,Omar Williams,2022-08-03,
+L00875,Dana Hall,Pinnacle Technologies,Director IT,Inbound Call,Dead,Outbound,Claire Lee,2022-10-09,2022-11-07
+L00876,Aisha Kim,Vertex Inc,CEO,Webinar,Working,Outbound,George Green,2021-04-22,
+L00877,Maria Walker,Sirius Partners,Manager,Inbound Call,Converted,Partnerships,Hannah Robinson,2023-10-11,2024-01-21
+L00878,Sarah Robinson,Vortex Technologies,Director IT,Webinar,Working,Mid-Market,Andre Thompson,2021-10-31,
+L00879,Ivan Adams,Apex Group,Director IT,Event,New,Inbound,Andre Anderson,2024-02-28,
+L00880,Aisha Nelson,Raven Dynamics,Manager,Referral,Nurturing,Enterprise,Eric Taylor,2021-06-07,
+L00881,Sarah Harris,Vega Solutions,CFO,Referral,Nurturing,Mid-Market,David Lewis,2024-10-25,2025-02-18
+L00882,Layla Hall,Solara Technologies,Manager,Webinar,Disqualified,Outbound,Ivan Allen,2024-12-20,
+L00883,Ben Scott,Meridian LLC,CEO,Partner,Dead,Outbound,Ben Baker,2021-03-31,2021-04-16
+L00884,Elena Taylor,Maple Group,VP Sales,Referral,Disqualified,Inbound,Maria Hill,2024-08-11,2024-09-22
+L00885,Aisha Nelson,Ridge Group,CEO,Referral,New,Mid-Market,Aisha Walker,2021-12-31,
+L00886,Elena Green,Pinnacle Technologies,Manager,Trade Show,New,SMB,Hannah Robinson,2023-04-05,
+L00887,Ivan Adams,Summit Solutions,Director IT,Partner,Dead,Enterprise,Thomas Carter,2022-09-28,
+L00888,Raj Turner,Stratos Inc,CEO,Webinar,Disqualified,Inbound,Omar Williams,2023-09-30,2023-12-03
+L00889,Sofia Kim,Coast Co,Manager,LinkedIn,New,Enterprise,Andre Thompson,2023-01-25,
+L00890,Layla Garcia,Southshore Partners,Manager,Trade Show,Converted,Inbound,Chris Williams,2023-08-08,2023-10-16
+L00891,David Phillips,Maple Group,CEO,Webinar,Working,Mid-Market,Sarah Williams,2023-06-15,
+L00892,Natalie Lee,Goldridge Global,VP Sales,Inbound Call,New,Enterprise,Andre Thompson,2023-12-08,2024-02-10
+L00893,Sarah Walker,Willow Group,Manager,Event,Nurturing,SMB,Marcus Anderson,2023-04-26,
+L00894,James Patel,Riverside Corp,Manager,Email Campaign,Working,Mid-Market,Raj Allen,2023-10-29,2023-12-31
+L00895,Elena Taylor,Apex Group,Manager,Email Campaign,Dead,Partnerships,Marcus Anderson,2024-12-13,
+L00896,Carlos Kim,Vortex Technologies,Manager,Event,Nurturing,Outbound,James Allen,2022-01-19,
+L00897,James Harris,Pines Systems,VP Sales,Trade Show,Dead,Partnerships,George Green,2021-02-06,
+L00898,Dana Scott,Silverline Co,CEO,Webinar,Disqualified,Inbound,Thomas Carter,2024-09-09,
+L00899,Layla Harris,Maple Group,CTO,Referral,Working,Mid-Market,Ivan Allen,2024-11-14,2025-03-08
+L00900,Chris Thompson,Cedar Ventures,VP Sales,Cold Outreach,Converted,Outbound,Claire Clark,2021-02-02,
+L00901,George Green,Cedar Ventures,Analyst,Inbound Call,Working,Enterprise,Sarah Williams,2023-06-12,
+L00902,Zoe Clark,Nexus Solutions,VP Sales,Trade Show,Working,Outbound,Claire Lee,2021-10-31,
+L00903,James Roberts,Crossroads Systems,CFO,Cold Outreach,Working,SMB,Raj Allen,2023-08-24,2023-09-04
+L00904,Ben Roberts,Falcon Systems,CEO,LinkedIn,Converted,Outbound,Eric Taylor,2021-07-30,2021-09-29
+L00905,Miguel Lewis,Silverline Co,CFO,Email Campaign,Working,Outbound,James Williams,2023-09-23,
+L00906,Andre Taylor,Orion Co,VP Sales,Webinar,Dead,Partnerships,Sofia Turner,2023-05-15,2023-08-12
+L00907,Yuki Walker,Titan LLC,CEO,Website,Working,SMB,Fiona Roberts,2024-08-16,
+L00908,Aisha Young,Zenith Global,CFO,Partner,Disqualified,Outbound,George Green,2023-06-17,2023-08-03
+L00909,Omar Clark,Helix Dynamics,Manager,Partner,Converted,Mid-Market,James Nelson,2024-12-27,2025-04-11
+L00910,Layla Hall,Brightfield Global,Director IT,Cold Outreach,Working,Inbound,Hannah Robinson,2021-06-26,2021-08-28
+L00911,Elena Garcia,Ironwood Solutions,CFO,Website,New,SMB,Marcus Anderson,2023-10-09,
+L00912,Priya Mitchell,Ridge Group,CFO,Website,New,SMB,Omar Williams,2021-11-21,2021-12-30
+L00913,Claire Garcia,Raven Dynamics,CTO,Partner,Nurturing,Enterprise,Kevin Thompson,2021-09-05,
+L00914,Hannah Young,Summit Solutions,Manager,Referral,Dead,Enterprise,Claire Lee,2024-11-14,
+L00915,Sarah Carter,Birch Co,CFO,Referral,Disqualified,Enterprise,Andre Thompson,2021-08-16,2021-11-14
+L00916,Hannah Thompson,Canyon Global,CTO,Trade Show,Dead,SMB,Claire Lee,2021-08-30,
+L00917,Dana Roberts,Harbor Technologies,Director IT,Partner,Nurturing,Mid-Market,Carlos Baker,2023-10-18,
+L00918,Natalie Nelson,Meadows Technologies,VP Sales,Cold Outreach,Converted,SMB,Eric Taylor,2023-06-19,
+L00919,Thomas Robinson,Falcon Systems,Analyst,LinkedIn,Nurturing,Outbound,Chris Clark,2021-06-24,2021-10-08
+L00920,Natalie Carter,Zenith Global,Director IT,LinkedIn,Converted,Partnerships,George Green,2023-12-21,
+L00921,Fiona Adams,Vega Solutions,VP Sales,Email Campaign,Working,Enterprise,Chris Williams,2023-11-24,
+L00922,Marcus Taylor,Prism Group,Analyst,Trade Show,Converted,Enterprise,Raj Allen,2021-06-23,
+L00923,Jess Green,Crestview Global,CFO,Website,Dead,Outbound,Chris Williams,2024-09-14,
+L00924,Omar Turner,Cypress Global,Manager,Inbound Call,Nurturing,Outbound,Omar Patel,2023-05-09,
+L00925,George Anderson,Griffin Solutions,CFO,Event,Working,Outbound,Raj Allen,2021-01-17,
+L00926,Ivan Allen,Birch Co,Analyst,Event,Dead,Partnerships,Yuki Scott,2022-02-25,
+L00927,Omar Nelson,Valley Global,CTO,Referral,New,Inbound,Yuki Roberts,2024-08-21,
+L00928,Miguel Allen,Aspen Technologies,Director IT,Referral,Disqualified,Inbound,Sarah Williams,2021-09-16,
+L00929,Priya Johnson,Nexus Solutions,Analyst,Inbound Call,Disqualified,SMB,Chris Clark,2024-07-25,
+L00930,Dana Clark,Rigel Co,VP Sales,Website,Nurturing,SMB,Andre Thompson,2022-09-15,
+L00931,Eric Green,Meridian LLC,VP Sales,Email Campaign,Nurturing,Inbound,Ivan Allen,2021-04-08,
+L00932,Fiona Hill,Apex Group,CFO,Inbound Call,Disqualified,Mid-Market,Yuki Scott,2022-04-29,2022-08-02
+L00933,Layla Martinez,Falcon Systems,CEO,Inbound Call,Dead,Mid-Market,James Allen,2024-03-19,
+L00934,Carlos Mitchell,Meadows Technologies,CTO,Email Campaign,New,Mid-Market,Omar Williams,2024-04-07,
+L00935,David Chen,Coast Co,Director IT,Email Campaign,Working,Partnerships,Carlos Garcia,2021-06-17,
+L00936,Omar Lewis,Orion Co,CFO,LinkedIn,Nurturing,Inbound,Hannah Robinson,2023-12-14,
+L00937,Chris Phillips,Meridian LLC,CEO,LinkedIn,Working,Mid-Market,Andre Thompson,2023-06-21,2023-09-30
+L00938,Kevin Baker,Rigel Co,Analyst,Inbound Call,New,Outbound,James Nelson,2023-07-27,
+L00939,Dana Kim,Meridian LLC,CFO,Partner,New,Inbound,Sarah Phillips,2021-03-08,2021-05-04
+L00940,Elena Chen,Oaks Solutions,Director IT,Referral,Nurturing,SMB,Thomas Carter,2024-03-16,
+L00941,James Carter,Crestview Global,Director IT,Event,Converted,Enterprise,Sarah Williams,2023-09-23,
+L00942,Priya Mitchell,Riverside Corp,CEO,Website,New,Inbound,Yuki Scott,2022-03-18,2022-04-02
+L00943,Zoe Lewis,Orbis Systems,CFO,Email Campaign,Nurturing,Partnerships,Sofia Turner,2023-05-06,
+L00944,Kevin Nelson,Brightfield Global,CFO,Email Campaign,Converted,Outbound,Claire Lee,2024-05-25,2024-09-05
+L00945,David Carter,Birch Co,Manager,Event,Converted,Partnerships,Fiona Kim,2022-10-29,
+L00946,Claire Chen,Bayview Corp,Manager,Email Campaign,Dead,SMB,Miguel Scott,2022-11-26,
+L00947,James Lewis,Eagle Global,Analyst,Webinar,Disqualified,Outbound,Carlos Baker,2024-12-19,
+L00948,Carlos Scott,Eastbrook Co,CFO,Website,Disqualified,Inbound,Fiona Roberts,2021-06-24,
+L00949,Ivan Johnson,Pines Systems,Manager,Inbound Call,Working,Enterprise,Kevin Thompson,2023-10-27,
+L00950,George Baker,Helix Dynamics,CFO,Email Campaign,New,Inbound,Omar Patel,2022-05-18,
+L00951,Zoe Roberts,Phoenix LLC,VP Sales,Partner,Converted,Mid-Market,Sarah Phillips,2021-04-03,2021-06-19
+L00952,Omar Anderson,Vortex Technologies,VP Sales,Referral,Disqualified,Mid-Market,Eric Taylor,2022-10-12,2022-11-23
+L00953,Kevin Lee,Meridian LLC,CEO,Trade Show,New,Inbound,Omar Patel,2021-07-03,2021-10-12
+L00954,Elena Harris,Harbor Technologies,CTO,Trade Show,Converted,SMB,Marcus Anderson,2021-04-30,
+L00955,Maria Thompson,Midpoint Dynamics,Analyst,Event,Disqualified,Mid-Market,Hannah Robinson,2021-09-05,
+L00956,Omar Patel,Dynamo Group,VP Sales,Partner,Converted,Inbound,Sarah Phillips,2023-10-31,2023-11-13
+L00957,Ben Garcia,Canyon Global,VP Sales,Webinar,Disqualified,Inbound,James Allen,2023-04-15,2023-07-05
+L00958,Fiona Martinez,Orbis Systems,CFO,LinkedIn,Converted,Enterprise,Andre Thompson,2024-08-27,2024-09-24
+L00959,Claire Kim,Plains Partners,Director IT,Inbound Call,Converted,Inbound,Claire Lee,2023-02-04,2023-05-29
+L00960,George Scott,Aspen Technologies,Manager,Trade Show,New,Enterprise,Sofia Turner,2023-08-10,2023-09-21
+L00961,Omar Robinson,Helix Dynamics,Manager,Cold Outreach,Disqualified,Inbound,Eric Taylor,2024-10-24,2025-02-05
+L00962,Andre Williams,Orbis Systems,VP Sales,LinkedIn,Dead,Enterprise,Ben Baker,2023-12-30,
+L00963,Ivan Clark,Ironwood Solutions,CFO,Inbound Call,Nurturing,Outbound,Yuki Roberts,2022-07-27,
+L00964,Raj Anderson,Midpoint Dynamics,Manager,Partner,Nurturing,Mid-Market,George Green,2024-12-20,
+L00965,James Phillips,Titan LLC,Director IT,Website,Disqualified,Partnerships,Ivan Allen,2022-11-04,
+L00966,Priya Clark,Orion Co,Manager,Email Campaign,Converted,Inbound,Miguel Scott,2024-10-09,
+L00967,Ben Williams,Eastbrook Co,VP Sales,Email Campaign,Dead,Enterprise,Yuki Scott,2024-08-22,
+L00968,George Scott,Sirius Partners,CEO,Trade Show,Dead,Enterprise,Carlos Baker,2023-02-10,
+L00969,Raj Johnson,Zenith Global,Manager,Website,Nurturing,Outbound,Yuki Scott,2022-01-31,2022-05-25
+L00970,Ben Lee,Maple Group,Manager,Cold Outreach,Working,Partnerships,Thomas Carter,2024-06-10,2024-08-22
+L00971,Chris Scott,Ironwood Solutions,VP Sales,Cold Outreach,Dead,Partnerships,Carlos Baker,2024-12-12,
+L00972,Miguel Hall,Elms Inc,CFO,Cold Outreach,Dead,Outbound,Andre Anderson,2024-03-11,2024-04-06
+L00973,Kevin Anderson,Phoenix LLC,CFO,Cold Outreach,Disqualified,Outbound,Kevin Thompson,2021-05-14,2021-08-18
+L00974,Chris Adams,Eastbrook Co,CFO,Webinar,Dead,Inbound,George Green,2021-02-17,2021-04-22
+L00975,Layla Green,Highland LLC,Analyst,Partner,Converted,Partnerships,Kevin Thompson,2024-08-05,2024-10-20
+L00976,Zoe Robinson,Oaks Solutions,Analyst,Website,Dead,Mid-Market,James Williams,2023-08-14,2023-10-16
+L00977,Raj Taylor,Clearwater Ventures,CEO,Cold Outreach,Nurturing,Enterprise,David Lewis,2023-12-27,
+L00978,Chris Clark,Bayview Corp,VP Sales,Cold Outreach,Working,Mid-Market,Yuki Roberts,2022-04-08,
+L00979,Ben Patel,Nexus Solutions,CEO,LinkedIn,New,Inbound,Yuki Roberts,2024-07-06,
+L00980,Sarah Hall,Midpoint Dynamics,CTO,Website,Nurturing,Inbound,Chris Clark,2022-05-22,
+L00981,Sofia Walker,Pinnacle Technologies,VP Sales,Email Campaign,Disqualified,Enterprise,Miguel Scott,2024-05-13,
+L00982,Omar Taylor,Hawk Dynamics,Analyst,Referral,Working,Enterprise,Claire Lee,2021-03-10,2021-06-06
+L00983,Natalie Williams,Harbor Technologies,Manager,Website,Disqualified,Enterprise,Eric Taylor,2024-07-06,
+L00984,Sarah Scott,Pinnacle Technologies,CEO,Cold Outreach,Disqualified,Outbound,Ivan Allen,2023-04-03,
+L00985,Fiona Clark,Hawk Dynamics,CFO,Event,New,SMB,David Lewis,2023-08-09,
+L00986,Andre Thompson,Harbor Technologies,VP Sales,Website,Disqualified,Outbound,Carlos Garcia,2022-11-04,
+L00987,Ivan Lewis,Brightfield Global,Manager,Inbound Call,Nurturing,SMB,Sarah Phillips,2022-02-01,
+L00988,Raj Kim,Midpoint Dynamics,Director IT,Website,New,Mid-Market,Sarah Williams,2024-06-25,
+L00989,Ben Nelson,Sirius Partners,CTO,Event,Disqualified,Mid-Market,Claire Clark,2023-11-17,
+L00990,Marcus Lee,Vega Solutions,VP Sales,Inbound Call,Disqualified,Outbound,Claire Clark,2024-05-20,2024-08-02
+L00991,Hannah Chen,Coast Co,CTO,Cold Outreach,Working,Outbound,Fiona Roberts,2024-02-20,
+L00992,Carlos Adams,Westfall Group,Manager,Email Campaign,Disqualified,Outbound,Yuki Roberts,2022-12-01,
+L00993,Marcus Scott,Orbis Systems,CEO,Partner,Working,Enterprise,George Green,2024-03-05,
+L00994,Zoe Garcia,Canyon Global,VP Sales,Cold Outreach,Dead,Mid-Market,George Green,2021-03-28,
+L00995,Zoe Hill,Meadows Technologies,Analyst,Partner,Dead,Partnerships,James Nelson,2022-05-05,
+L00996,Yuki Johnson,Lakeshore Group,CTO,Website,Disqualified,Enterprise,Claire Clark,2021-01-14,2021-02-17
+L00997,Andre Phillips,Pinnacle Technologies,CTO,Website,New,Mid-Market,Fiona Roberts,2024-07-16,2024-08-23
+L00998,Dana Kim,Atlas Group,Analyst,Inbound Call,Working,Mid-Market,Fiona Roberts,2022-06-21,2022-10-16
+L00999,Jess Patel,Nexus Solutions,Analyst,Trade Show,Converted,Outbound,Carlos Baker,2022-06-21,
+L01000,Elena Walker,Midpoint Dynamics,CTO,Partner,Dead,Mid-Market,Chris Williams,2022-03-07,
+L01001,Ivan Clark,Hawk Dynamics,Manager,Referral,New,Mid-Market,Ben Baker,2024-06-30,
+L01002,Claire Harris,Titan LLC,CTO,Partner,Disqualified,Partnerships,Chris Clark,2022-01-28,
+L01003,Andre Thompson,Cedar Ventures,CFO,Webinar,Working,SMB,Chris Clark,2024-06-15,2024-10-04
+L01004,Hannah Martinez,Cedar Ventures,CFO,Event,Converted,Mid-Market,Miguel Scott,2022-07-28,
+L01005,Sofia Williams,Elms Inc,CFO,LinkedIn,Dead,Inbound,Thomas Carter,2024-09-20,
+L01006,Priya Taylor,Falcon Systems,CTO,Inbound Call,Dead,Partnerships,Hannah Robinson,2023-08-09,
+L01007,Omar Green,Canyon Global,Analyst,Event,Dead,Enterprise,James Nelson,2024-04-05,2024-05-10
+L01008,Hannah Garcia,Prism Group,Director IT,Webinar,Converted,Partnerships,Aisha Walker,2023-07-15,
+L01009,Thomas Allen,Vortex Technologies,Director IT,Referral,Nurturing,Partnerships,Chris Williams,2023-02-06,
+L01010,Maria Walker,Rigel Co,CFO,Partner,Converted,Partnerships,George Green,2024-04-10,
+L01011,Fiona Hall,Perseus Partners,CTO,LinkedIn,New,Mid-Market,Claire Lee,2023-01-23,2023-04-25
+L01012,Yuki Turner,Vortex Technologies,CTO,Inbound Call,Disqualified,Inbound,Miguel Scott,2021-06-05,
+L01013,Sarah Patel,Lakeshore Group,CTO,Website,Disqualified,Mid-Market,Yuki Roberts,2022-04-12,2022-06-03
+L01014,Elena Hill,Bluestone Global,Analyst,Webinar,Working,Outbound,Ben Baker,2022-05-28,
+L01015,Jess Anderson,Clearwater Ventures,Analyst,Webinar,Nurturing,SMB,Raj Allen,2024-01-18,
+L01016,Eric Green,Clearwater Ventures,CEO,Inbound Call,Working,Partnerships,Fiona Kim,2024-04-02,2024-07-16
+L01017,Zoe Garcia,Oaks Solutions,CFO,Inbound Call,Converted,Outbound,George Green,2022-03-06,
+L01018,Marcus Roberts,Valley Global,CEO,LinkedIn,Working,Partnerships,Claire Lee,2021-06-25,
+L01019,Yuki Martinez,Goldridge Global,Analyst,Trade Show,Nurturing,Outbound,Ivan Allen,2021-03-03,
+L01020,George Robinson,Atlas Group,Director IT,LinkedIn,Converted,Outbound,Raj Allen,2024-09-11,
+L01021,Claire Lee,Perseus Partners,CFO,Website,Disqualified,Enterprise,Ben Baker,2024-11-15,2025-01-06
+L01022,Ben Carter,Summit Solutions,CFO,Event,Converted,Partnerships,James Nelson,2024-03-09,
+L01023,Claire Harris,Valley Global,CEO,Referral,Nurturing,Inbound,Claire Lee,2021-05-11,
+L01024,David Kim,Harbor Technologies,Manager,Inbound Call,Working,Enterprise,Hannah Robinson,2022-09-16,2022-10-21
+L01025,Jess Harris,Aspen Technologies,Director IT,Cold Outreach,Nurturing,Outbound,Chris Williams,2021-05-23,2021-06-09
+L01026,Miguel Johnson,Elms Inc,CTO,LinkedIn,Converted,Mid-Market,Carlos Baker,2023-01-25,2023-03-29
+L01027,Dana Williams,Stratos Inc,Analyst,Cold Outreach,Working,Mid-Market,Sarah Williams,2023-09-07,
+L01028,Layla Hall,Elms Inc,CFO,Event,Nurturing,Inbound,Fiona Roberts,2024-12-24,
+L01029,Raj Anderson,Valley Global,VP Sales,Trade Show,Converted,Enterprise,Raj Allen,2024-11-03,
+L01030,Miguel Taylor,Canyon Global,CFO,Email Campaign,Converted,Partnerships,Natalie Chen,2022-05-21,
+L01031,Ben Turner,Canyon Global,CEO,Partner,Dead,Outbound,Sarah Williams,2022-08-13,
+L01032,Natalie Garcia,Redpoint Inc,CFO,LinkedIn,Converted,Partnerships,Andre Anderson,2021-12-25,
+L01033,Omar Baker,Meridian LLC,VP Sales,Cold Outreach,Working,SMB,Maria Adams,2021-07-15,2021-08-02
+L01034,Dana Hill,Griffin Solutions,Director IT,Email Campaign,Converted,Inbound,Carlos Baker,2024-11-30,
+L01035,Eric Patel,Rigel Co,Analyst,Partner,Converted,Partnerships,Aisha Walker,2021-06-06,2021-08-19
+L01036,Raj Johnson,Lakeshore Group,Manager,Email Campaign,Converted,SMB,Raj Allen,2021-04-02,
+L01037,Maria Johnson,Quanta Solutions,VP Sales,Trade Show,Nurturing,Outbound,George Green,2023-03-24,
+L01038,David Allen,Willow Group,Director IT,Email Campaign,Working,Partnerships,Kevin Thompson,2021-05-20,
+L01039,George Johnson,Summit Solutions,VP Sales,Trade Show,Nurturing,Enterprise,Maria Adams,2021-12-16,
+L01040,David Adams,Pinnacle Technologies,VP Sales,Webinar,Working,Partnerships,Yuki Scott,2021-12-11,2022-03-22
+L01041,Ivan Adams,Eastbrook Co,Director IT,Email Campaign,Dead,Enterprise,Chris Williams,2021-03-12,
+L01042,Ivan Patel,Stratos Inc,Manager,Webinar,Converted,Enterprise,Ivan Allen,2024-09-13,2024-11-10
+L01043,Jess Garcia,Vega Solutions,Director IT,Cold Outreach,New,Enterprise,Sarah Phillips,2022-02-18,2022-03-01
+L01044,George Thompson,Cypress Global,Manager,Referral,Working,Enterprise,Aisha Walker,2022-11-22,
+L01045,Natalie Young,Harbor Technologies,Analyst,Partner,Nurturing,Inbound,Fiona Roberts,2021-04-01,
+L01046,Omar Clark,Pines Systems,Director IT,Cold Outreach,New,SMB,Omar Patel,2024-01-15,2024-03-16
+L01047,Marcus Johnson,Stratos Inc,Director IT,Email Campaign,Working,Enterprise,Kevin Thompson,2024-09-01,
+L01048,Maria Williams,Hawk Dynamics,Director IT,LinkedIn,Nurturing,Inbound,Hannah Robinson,2023-01-26,
+L01049,Chris Allen,Plains Partners,Analyst,Event,Working,SMB,James Allen,2021-07-28,
+L01050,Chris Harris,Cypress Global,Analyst,Trade Show,Nurturing,Mid-Market,Omar Patel,2024-07-16,
+L01051,Zoe Williams,Atlas Group,VP Sales,Event,Disqualified,Partnerships,Maria Hill,2024-09-26,
+L01052,Miguel Lewis,Falcon Systems,VP Sales,Cold Outreach,New,Inbound,Carlos Baker,2022-04-22,
+L01053,Eric Garcia,Birch Co,VP Sales,Website,Working,SMB,Hannah Robinson,2023-05-28,2023-06-26
+L01054,Carlos Green,Vertex Inc,Director IT,Event,Converted,Outbound,Yuki Roberts,2023-02-09,2023-03-31
+L01055,Fiona Nelson,Vertex Inc,CFO,LinkedIn,Dead,SMB,David Lewis,2024-08-11,2024-11-22
+L01056,Marcus Garcia,Ironwood Solutions,CFO,Website,Dead,Mid-Market,Fiona Kim,2022-11-10,
+L01057,Miguel Taylor,Redpoint Inc,CEO,Website,New,Partnerships,Carlos Garcia,2023-02-21,
+L01058,Ben Martinez,Meridian LLC,Director IT,Trade Show,New,Mid-Market,James Nelson,2021-04-17,2021-05-07
+L01059,Dana Walker,Orbis Systems,Director IT,Cold Outreach,Working,Partnerships,Andre Anderson,2023-05-23,
+L01060,Elena Lewis,Crossroads Systems,Manager,Cold Outreach,Nurturing,Partnerships,Miguel Scott,2022-09-13,
+L01061,Omar Harris,Elms Inc,CEO,Email Campaign,Converted,Inbound,Omar Williams,2023-01-07,
+L01062,James Nelson,Stratos Inc,CEO,Referral,Nurturing,Inbound,Maria Adams,2023-09-15,2023-12-27
+L01063,Thomas Harris,Solara Technologies,CTO,Email Campaign,Nurturing,Partnerships,Sofia Turner,2021-12-26,2022-01-22
+L01064,Carlos Martinez,Canyon Global,Director IT,Website,New,Inbound,Thomas Carter,2023-08-20,
+L01065,Omar Hill,Vega Solutions,CEO,Email Campaign,Nurturing,Outbound,Carlos Garcia,2023-05-02,
+L01066,Jess Patel,Stratos Inc,CFO,Trade Show,Working,Partnerships,Marcus Anderson,2021-03-21,
+L01067,Miguel Baker,Raven Dynamics,Manager,Partner,Dead,Enterprise,Maria Hill,2022-12-15,
+L01068,Aisha Hall,Vertex Inc,Analyst,Partner,Dead,Outbound,David Lewis,2022-05-21,
+L01069,Kevin Anderson,Summit Solutions,CEO,Trade Show,Nurturing,Mid-Market,Aisha Walker,2024-08-14,2024-11-30
+L01070,Ben Baker,Canyon Global,CEO,LinkedIn,Dead,Inbound,Miguel Scott,2021-07-09,
+L01071,Ivan Clark,Elms Inc,Analyst,LinkedIn,Nurturing,Outbound,Sarah Williams,2022-01-22,
+L01072,Layla Turner,Stratos Inc,CFO,Webinar,Dead,Partnerships,Miguel Scott,2023-12-28,2024-03-20
+L01073,George Martinez,Dynamo Group,Manager,Cold Outreach,Dead,Partnerships,Sarah Williams,2022-12-07,2023-01-07
+L01074,James Patel,Lakeshore Group,Analyst,LinkedIn,Disqualified,Partnerships,Eric Taylor,2023-10-05,
+L01075,Priya Robinson,Redpoint Inc,Manager,Trade Show,Working,Partnerships,Andre Anderson,2021-12-16,
+L01076,Raj Lewis,Bluestone Global,Director IT,Trade Show,Working,Enterprise,Andre Anderson,2021-08-14,
+L01077,Thomas Turner,Ridge Group,CEO,Email Campaign,Dead,Inbound,James Allen,2022-01-28,
+L01078,David Lee,Vortex Technologies,CEO,Referral,Nurturing,Enterprise,Yuki Roberts,2021-12-07,2022-01-16
+L01079,Zoe Adams,Pinnacle Technologies,VP Sales,Website,New,SMB,Ivan Allen,2023-09-06,
+L01080,Sarah Thompson,Oaks Solutions,Analyst,Website,Converted,Inbound,Chris Williams,2021-03-27,
+L01081,Jess Hall,Westfall Group,Analyst,Partner,Disqualified,Partnerships,Yuki Roberts,2022-06-29,
+L01082,Marcus Mitchell,Midpoint Dynamics,CTO,LinkedIn,Converted,Inbound,James Williams,2022-12-04,
+L01083,Fiona Patel,Clearwater Ventures,CEO,LinkedIn,Dead,Mid-Market,David Lewis,2022-11-08,
+L01084,Thomas Baker,Pinnacle Technologies,Analyst,Cold Outreach,Nurturing,Partnerships,Sofia Turner,2023-12-23,
+L01085,Carlos Johnson,Eagle Global,Analyst,Partner,New,Outbound,Thomas Carter,2024-09-14,
+L01086,Layla Walker,Zenith Global,CFO,Email Campaign,Converted,Outbound,Miguel Scott,2022-10-29,
+L01087,Layla Roberts,Titan LLC,VP Sales,LinkedIn,Nurturing,Inbound,Fiona Roberts,2023-09-03,
+L01088,Ivan Lewis,Plains Partners,Analyst,Inbound Call,New,Mid-Market,Hannah Robinson,2023-12-02,
+L01089,George Adams,Orion Co,Analyst,Email Campaign,Working,Partnerships,Carlos Baker,2022-09-10,
+L01090,Aisha Garcia,Ironwood Solutions,Director IT,Referral,New,Partnerships,David Lewis,2024-01-13,2024-03-04
+L01091,Eric Anderson,Zenith Global,Manager,Webinar,Dead,Partnerships,Carlos Baker,2023-02-25,
+L01092,Ben Hill,Raven Dynamics,VP Sales,Partner,Working,Inbound,Carlos Garcia,2023-12-31,
+L01093,Jess Baker,Riverside Corp,Manager,LinkedIn,Dead,Outbound,Omar Williams,2023-02-12,
+L01094,Thomas Patel,Aspen Technologies,VP Sales,Referral,New,SMB,Fiona Roberts,2022-04-03,
+L01095,Andre Robinson,Brightfield Global,Analyst,Partner,Converted,Inbound,Ivan Allen,2021-08-26,
+L01096,Claire Thompson,Cedar Ventures,CEO,LinkedIn,Nurturing,SMB,Ben Baker,2024-04-23,
+L01097,Andre Garcia,Harbor Technologies,CEO,Website,Disqualified,Partnerships,Omar Patel,2024-05-17,2024-07-03
+L01098,Zoe Adams,Solara Technologies,Director IT,Event,Nurturing,Mid-Market,Natalie Chen,2022-03-25,
+L01099,Miguel Baker,Pines Systems,CTO,Event,Converted,Outbound,James Nelson,2022-09-25,
+L01100,Omar Chen,Maple Group,CTO,Trade Show,Dead,Mid-Market,Fiona Kim,2024-12-13,
+L01101,Jess Roberts,Meadows Technologies,Director IT,Email Campaign,Dead,Partnerships,Sarah Williams,2021-04-18,
+L01102,Jess Roberts,Elms Inc,VP Sales,Inbound Call,Converted,SMB,Omar Williams,2024-09-12,
+L01103,Eric Harris,Prism Group,VP Sales,Inbound Call,Dead,SMB,Eric Taylor,2022-12-15,
+L01104,Chris Roberts,Orion Co,CEO,Referral,Working,SMB,James Williams,2022-02-04,
+L01105,Elena Walker,Southshore Partners,Director IT,Event,Working,Partnerships,Sofia Turner,2024-12-24,2025-01-21
+L01106,Carlos Carter,Riverside Corp,Director IT,Website,Nurturing,Outbound,James Allen,2022-03-06,
+L01107,Omar Clark,Cypress Global,Analyst,Trade Show,New,Enterprise,Yuki Scott,2021-10-30,
+L01108,Maria Patel,Rigel Co,Manager,Partner,Disqualified,Partnerships,Claire Clark,2022-01-03,
+L01109,Aisha Chen,Pines Systems,Director IT,LinkedIn,Converted,SMB,Andre Anderson,2023-04-08,
+L01110,Eric Baker,Plains Partners,Manager,Referral,Converted,Outbound,Maria Hill,2023-02-08,2023-05-12
+L01111,Yuki Johnson,Pines Systems,VP Sales,Referral,New,Partnerships,Andre Thompson,2023-07-01,2023-09-24
+L01112,Andre Hall,Dynamo Group,Manager,Referral,Disqualified,Mid-Market,Maria Hill,2024-03-19,
+L01113,Chris Clark,Orbis Systems,CFO,Trade Show,New,SMB,Carlos Garcia,2024-08-13,
+L01114,Priya Harris,Bluestone Global,Manager,Website,Converted,Inbound,Maria Adams,2024-01-06,
+L01115,Zoe Williams,Oaks Solutions,Analyst,Event,Disqualified,Outbound,Carlos Baker,2023-12-22,
+L01116,Layla Turner,Pines Systems,Director IT,Event,Dead,Mid-Market,Ivan Allen,2022-03-01,
+L01117,Sarah Chen,Brightfield Global,CFO,Cold Outreach,Dead,Mid-Market,Miguel Scott,2022-10-06,
+L01118,David Patel,Rigel Co,CTO,Partner,Disqualified,Mid-Market,Omar Williams,2021-03-13,
+L01119,James Garcia,Orbis Systems,VP Sales,Inbound Call,Nurturing,Outbound,Maria Adams,2024-09-09,
+L01120,Zoe Baker,Perseus Partners,CFO,Partner,Disqualified,Inbound,Andre Thompson,2024-03-27,2024-04-18
+L01121,George Chen,Midpoint Dynamics,VP Sales,Cold Outreach,Working,SMB,James Nelson,2024-09-19,
+L01122,Claire Thompson,Apex Group,CTO,Webinar,Working,Outbound,Omar Williams,2024-05-18,2024-06-29
+L01123,Omar Green,Griffin Solutions,Director IT,LinkedIn,Converted,Enterprise,Marcus Anderson,2022-06-18,
+L01124,Kevin Allen,Ironwood Solutions,VP Sales,Webinar,Dead,Outbound,Fiona Roberts,2024-11-23,
+L01125,Layla Green,Bluestone Global,CFO,Event,Working,Partnerships,Claire Clark,2024-02-29,
+L01126,Omar Johnson,Bayview Corp,CFO,Cold Outreach,New,SMB,Carlos Baker,2023-06-08,
+L01127,Claire Clark,Lakeshore Group,CTO,Referral,Nurturing,SMB,Kevin Thompson,2024-11-01,2025-02-21
+L01128,Thomas Johnson,Harbor Technologies,CEO,Cold Outreach,Converted,Enterprise,Carlos Baker,2022-04-08,2022-07-20
+L01129,Andre Mitchell,Maple Group,CEO,Referral,Disqualified,SMB,Eric Taylor,2022-09-20,
+L01130,Sarah Turner,Highland LLC,Director IT,Partner,Converted,Mid-Market,Yuki Scott,2024-05-29,
+L01131,Fiona Allen,Orion Co,CFO,LinkedIn,Converted,Inbound,Ben Baker,2024-10-20,2025-01-25
+L01132,Chris Martinez,Willow Group,Director IT,Trade Show,Converted,Inbound,Kevin Thompson,2023-11-18,2024-02-28
+L01133,Yuki Baker,Meadows Technologies,Director IT,Event,Converted,Outbound,George Green,2024-08-02,2024-09-26
+L01134,Miguel Lee,Dynamo Group,CEO,Inbound Call,Dead,Mid-Market,Sarah Williams,2023-08-18,
+L01135,Elena Clark,Meadows Technologies,CTO,Referral,Dead,Enterprise,Carlos Garcia,2021-06-28,
+L01136,Priya Lewis,Highland LLC,VP Sales,Webinar,Disqualified,Partnerships,Ivan Allen,2021-07-11,
+L01137,Layla Young,Phoenix LLC,Manager,Trade Show,Converted,Partnerships,Andre Thompson,2023-05-19,
+L01138,Ivan Allen,Titan LLC,VP Sales,LinkedIn,New,Inbound,Fiona Roberts,2024-10-18,
+L01139,Chris Clark,Titan LLC,CFO,Partner,Working,Outbound,Chris Williams,2021-01-15,
+L01140,Sofia Walker,Bayview Corp,Director IT,Inbound Call,Working,Mid-Market,Carlos Garcia,2021-03-28,
+L01141,Miguel Robinson,Meridian LLC,VP Sales,LinkedIn,Converted,Partnerships,Aisha Walker,2021-10-01,
+L01142,Marcus Phillips,Cypress Global,Director IT,Inbound Call,New,SMB,Sarah Williams,2021-08-20,
+L01143,Carlos Johnson,Riverside Corp,Manager,Event,Converted,Mid-Market,Sarah Williams,2022-06-27,
+L01144,Miguel Mitchell,Griffin Solutions,VP Sales,Email Campaign,Disqualified,Partnerships,James Williams,2024-08-09,
+L01145,Raj Taylor,Orbis Systems,CTO,Referral,New,SMB,Andre Anderson,2024-06-14,
+L01146,Sarah Clark,Raven Dynamics,Director IT,Referral,Disqualified,Inbound,Claire Clark,2021-01-19,
+L01147,James Martinez,Meadows Technologies,Manager,Webinar,Working,Partnerships,Raj Allen,2023-09-26,
+L01148,Natalie Turner,Redpoint Inc,CFO,Webinar,New,Partnerships,Claire Lee,2023-01-17,2023-03-13
+L01149,James Robinson,Hawk Dynamics,Analyst,Cold Outreach,New,Mid-Market,Eric Taylor,2023-06-08,2023-08-07
+L01150,Dana Taylor,Griffin Solutions,VP Sales,Trade Show,Dead,Mid-Market,Sofia Turner,2023-05-13,
+L01151,Sarah Clark,Raven Dynamics,CFO,Email Campaign,Dead,Outbound,Ben Baker,2022-06-29,
+L01152,Miguel Hill,Phoenix LLC,Manager,LinkedIn,Working,Enterprise,James Allen,2023-03-30,
+L01153,Kevin Robinson,Rigel Co,VP Sales,Cold Outreach,New,Outbound,Yuki Roberts,2021-09-16,
+L01154,Dana Johnson,Coast Co,CEO,Webinar,Nurturing,Partnerships,Miguel Scott,2024-05-07,
+L01155,Sofia Martinez,Silverline Co,CFO,Trade Show,Working,SMB,Carlos Baker,2022-05-23,
+L01156,Aisha Adams,Bluestone Global,CEO,Cold Outreach,Converted,Outbound,James Allen,2024-12-06,
+L01157,Sofia Kim,Valley Global,Analyst,Event,Dead,Outbound,Claire Clark,2023-10-26,2023-11-21
+L01158,Maria Anderson,Valley Global,Director IT,LinkedIn,New,Inbound,Fiona Roberts,2023-04-02,2023-04-18
+L01159,Natalie Young,Orbis Systems,Manager,Cold Outreach,Working,SMB,Omar Williams,2023-02-18,
+L01160,Natalie Green,Highland LLC,CTO,Referral,Nurturing,SMB,Kevin Thompson,2023-11-11,
+L01161,Natalie Garcia,Perseus Partners,VP Sales,Trade Show,New,Enterprise,James Williams,2024-12-28,
+L01162,Carlos Lee,Westfall Group,CTO,Event,New,Partnerships,Andre Anderson,2022-10-21,2023-01-01
+L01163,Marcus Lee,Pines Systems,VP Sales,Website,Dead,Inbound,Ben Baker,2023-01-15,
+L01164,Dana Nelson,Apex Group,CFO,Event,Nurturing,Mid-Market,Kevin Thompson,2023-01-11,2023-03-11
+L01165,Ivan Patel,Brightfield Global,Manager,Event,New,Enterprise,Fiona Roberts,2021-06-28,2021-09-03
+L01166,David Allen,Birch Co,CTO,Webinar,Dead,Partnerships,Fiona Roberts,2021-07-22,
+L01167,Maria Martinez,Valley Global,CEO,Inbound Call,Dead,SMB,Yuki Scott,2021-11-11,
+L01168,Ben Baker,Pines Systems,CEO,Referral,Converted,Partnerships,Chris Williams,2023-07-08,
+L01169,Fiona Johnson,Elms Inc,CFO,Webinar,Dead,Mid-Market,Eric Taylor,2023-10-29,2024-01-19
+L01170,Fiona Baker,Valley Global,Manager,LinkedIn,Converted,Outbound,Maria Adams,2021-05-05,
+L01171,Priya Walker,Pinnacle Technologies,CFO,LinkedIn,Disqualified,Partnerships,Raj Allen,2021-06-03,
+L01172,Priya Johnson,Elms Inc,CFO,Cold Outreach,Disqualified,Outbound,Ivan Allen,2022-02-28,
+L01173,Raj Young,Falcon Systems,Manager,Inbound Call,Nurturing,SMB,Fiona Kim,2023-11-17,2023-12-31
+L01174,Sarah Kim,Zenith Global,VP Sales,Inbound Call,Working,SMB,Natalie Chen,2024-02-05,
+L01175,Jess Martinez,Dynamo Group,Analyst,Website,Dead,Mid-Market,James Nelson,2022-07-23,
+L01176,Ben Robinson,Eagle Global,CFO,Partner,Nurturing,Enterprise,Marcus Anderson,2021-01-03,
+L01177,Ivan Scott,Aspen Technologies,CTO,Website,Dead,Enterprise,Yuki Scott,2023-04-17,2023-06-01
+L01178,Thomas Johnson,Eastbrook Co,Manager,Event,New,Outbound,Maria Hill,2021-12-28,
+L01179,Hannah Green,Eagle Global,CFO,Inbound Call,Working,Partnerships,Fiona Kim,2022-06-12,
+L01180,Andre Green,Maple Group,Analyst,LinkedIn,Working,Partnerships,Fiona Kim,2022-02-22,
+L01181,Yuki Martinez,Griffin Solutions,CEO,Referral,Converted,Mid-Market,George Green,2023-06-08,2023-10-06
+L01182,Carlos Lewis,Raven Dynamics,Manager,Trade Show,Dead,SMB,David Lewis,2021-12-27,
+L01183,George Harris,Cypress Global,CFO,Cold Outreach,New,Mid-Market,Carlos Garcia,2021-12-30,
+L01184,Jess Green,Prism Group,VP Sales,Inbound Call,Working,Outbound,Ivan Allen,2023-07-21,
+L01185,Omar Johnson,Pines Systems,Analyst,Website,Dead,Enterprise,Ben Baker,2023-02-13,2023-03-05
+L01186,Kevin Green,Summit Solutions,VP Sales,Website,New,Inbound,Yuki Roberts,2022-07-03,
+L01187,Carlos Martinez,Westfall Group,Analyst,Event,Converted,Mid-Market,Sarah Williams,2021-06-24,
+L01188,Aisha Chen,Eastbrook Co,Manager,Webinar,Dead,Inbound,Carlos Baker,2021-11-13,2021-11-28
+L01189,Claire Lee,Harbor Technologies,CFO,LinkedIn,Working,Enterprise,Fiona Kim,2021-07-30,2021-10-02
+L01190,Kevin Robinson,Southshore Partners,CTO,Cold Outreach,Dead,Partnerships,Carlos Baker,2023-03-01,
+L01191,Aisha Patel,Bayview Corp,CTO,Partner,New,Inbound,Yuki Roberts,2021-08-14,2021-09-03
+L01192,Sofia Martinez,Redpoint Inc,CEO,Inbound Call,Nurturing,Inbound,Andre Anderson,2021-03-30,
+L01193,Ivan Adams,Cypress Global,CTO,Event,Nurturing,SMB,James Allen,2021-11-04,2022-01-16
+L01194,Yuki Phillips,Quanta Solutions,Analyst,Referral,New,Mid-Market,Claire Clark,2024-09-17,
+L01195,Raj Hill,Plains Partners,Analyst,Email Campaign,New,Enterprise,Omar Williams,2023-03-11,
+L01196,Kevin Williams,Perseus Partners,Director IT,Trade Show,Converted,SMB,Omar Patel,2022-07-25,
+L01197,Chris Clark,Summit Solutions,Analyst,Partner,Working,Outbound,Chris Clark,2023-09-13,
+L01198,Zoe Allen,Eastbrook Co,CEO,Inbound Call,Disqualified,Mid-Market,Maria Hill,2024-01-31,2024-05-11
+L01199,Miguel Lewis,Meadows Technologies,Manager,Cold Outreach,Dead,Enterprise,Chris Clark,2023-05-14,
+L01200,Hannah Johnson,Vega Solutions,CFO,Email Campaign,Working,Enterprise,James Williams,2022-02-21,
+L01201,Hannah Roberts,Ridge Group,Analyst,Trade Show,Nurturing,Partnerships,Claire Clark,2023-01-10,
+L01202,Jess Phillips,Northgate LLC,Director IT,Cold Outreach,Working,Enterprise,Ben Baker,2024-02-04,2024-05-13
+L01203,Kevin Harris,Silverline Co,VP Sales,LinkedIn,Nurturing,Enterprise,James Allen,2024-12-12,
+L01204,Zoe Mitchell,Summit Solutions,Analyst,Trade Show,New,Mid-Market,Thomas Carter,2021-06-01,2021-07-12
+L01205,James Lewis,Helix Dynamics,Analyst,LinkedIn,Working,Mid-Market,Sofia Turner,2021-06-07,
+L01206,Chris Lee,Westfall Group,CEO,Partner,Converted,Outbound,Ivan Allen,2023-12-17,2024-01-15
+L01207,Ivan Green,Vertex Inc,CFO,Trade Show,Disqualified,Mid-Market,Ivan Allen,2021-05-03,
+L01208,Layla Turner,Solara Technologies,CFO,Webinar,Disqualified,Inbound,Sarah Williams,2023-05-18,
+L01209,Jess Kim,Dynamo Group,VP Sales,Inbound Call,Converted,Mid-Market,James Nelson,2023-05-18,
+L01210,Aisha Harris,Redpoint Inc,Analyst,Inbound Call,Disqualified,Enterprise,George Green,2021-04-25,
+L01211,Ben Harris,Bluestone Global,CEO,Trade Show,New,SMB,Omar Williams,2024-08-29,2024-09-21
+L01212,David Robinson,Summit Solutions,Analyst,Partner,New,Mid-Market,Eric Taylor,2021-08-02,2021-08-25
+L01213,Carlos Scott,Clearwater Ventures,Analyst,Webinar,Working,Inbound,Fiona Roberts,2021-05-14,
+L01214,Aisha Anderson,Vortex Technologies,CFO,Event,New,Inbound,Sofia Turner,2021-03-08,2021-04-27
+L01215,Elena Johnson,Sirius Partners,Analyst,Webinar,Converted,Inbound,Fiona Roberts,2021-07-10,
+L01216,Dana Robinson,Brightfield Global,Manager,Referral,Nurturing,Partnerships,Andre Thompson,2023-03-12,2023-07-03
+L01217,James Lewis,Plains Partners,CEO,Email Campaign,Disqualified,Enterprise,Eric Taylor,2021-11-04,2022-02-09
+L01218,David Turner,Eagle Global,VP Sales,Cold Outreach,Working,Outbound,Claire Clark,2023-08-07,
+L01219,Miguel Young,Silverline Co,CFO,Inbound Call,Nurturing,Partnerships,Ben Baker,2021-11-26,
+L01220,Sofia Roberts,Meridian LLC,CEO,Website,Dead,Outbound,Maria Hill,2023-01-08,2023-04-06
+L01221,David Martinez,Goldridge Global,Manager,Email Campaign,New,Enterprise,Claire Clark,2024-05-27,
+L01222,Claire Roberts,Maple Group,Analyst,Referral,Converted,Enterprise,George Green,2022-09-26,
+L01223,Priya Williams,Dynamo Group,CFO,Partner,Nurturing,Enterprise,Carlos Garcia,2022-08-29,2022-12-15
+L01224,Thomas Hall,Quanta Solutions,Analyst,Email Campaign,Dead,Mid-Market,Carlos Baker,2023-08-02,
+L01225,Maria Robinson,Cedar Ventures,CTO,LinkedIn,Converted,Inbound,Ben Baker,2023-09-27,
+L01226,Hannah Scott,Meridian LLC,CTO,Partner,New,Outbound,Sarah Phillips,2023-11-16,
+L01227,Ivan Turner,Cypress Global,VP Sales,Event,Dead,Enterprise,Chris Clark,2022-06-23,
+L01228,James Martinez,Cedar Ventures,VP Sales,Webinar,Converted,Mid-Market,Raj Allen,2024-02-23,
+L01229,Omar Roberts,Solara Technologies,Manager,Referral,Nurturing,Partnerships,George Green,2022-04-02,
+L01230,Sarah Williams,Redpoint Inc,Manager,Referral,Converted,Partnerships,Fiona Roberts,2023-08-11,
+L01231,Marcus Taylor,Summit Solutions,CEO,Cold Outreach,Dead,Outbound,Sofia Turner,2021-05-13,2021-07-20
+L01232,Claire Martinez,Meridian LLC,CEO,Trade Show,Dead,Mid-Market,Omar Patel,2021-03-20,
+L01233,Eric Harris,Highland LLC,Analyst,Partner,Converted,Partnerships,James Nelson,2024-05-16,2024-05-28
+L01234,Natalie Anderson,Quanta Solutions,Manager,Trade Show,New,Mid-Market,Carlos Garcia,2024-11-01,2024-11-21
+L01235,Hannah Baker,Crossroads Systems,Analyst,LinkedIn,Disqualified,Mid-Market,Marcus Anderson,2022-09-03,2022-09-19
+L01236,Ivan Turner,Coast Co,CTO,Webinar,Working,Mid-Market,Yuki Scott,2021-07-09,
+L01237,Zoe Allen,Titan LLC,Analyst,Trade Show,Dead,Partnerships,Yuki Scott,2023-09-14,
+L01238,Omar Mitchell,Clearwater Ventures,CFO,Event,Working,Enterprise,Claire Clark,2024-03-14,
+L01239,James Martinez,Griffin Solutions,CEO,Trade Show,Converted,SMB,Carlos Baker,2022-10-11,
+L01240,Natalie Anderson,Oaks Solutions,Manager,Website,Converted,Mid-Market,Claire Lee,2024-10-12,
+L01241,Sarah Chen,Ironwood Solutions,Manager,Cold Outreach,Converted,Outbound,Maria Adams,2024-03-30,
+L01242,Omar Thompson,Sirius Partners,Director IT,Cold Outreach,Dead,Inbound,Ivan Allen,2024-05-15,
+L01243,James Lee,Griffin Solutions,CTO,Inbound Call,New,Outbound,Hannah Robinson,2023-01-16,
+L01244,Natalie Clark,Sirius Partners,CTO,Inbound Call,Converted,Inbound,Yuki Roberts,2023-07-23,2023-08-24
+L01245,Natalie Robinson,Redpoint Inc,CFO,Event,Working,Inbound,Omar Williams,2023-07-29,
+L01246,Chris Adams,Coast Co,Manager,Webinar,Dead,Inbound,James Allen,2024-09-12,
+L01247,David Green,Nexus Solutions,CFO,LinkedIn,New,Partnerships,Maria Adams,2021-08-01,2021-10-06
+L01248,Andre Carter,Vertex Inc,Manager,Webinar,Converted,Mid-Market,Fiona Kim,2023-10-28,
+L01249,Omar Patel,Valley Global,Analyst,Email Campaign,New,SMB,George Green,2024-02-04,
+L01250,Chris Carter,Riverside Corp,CEO,Website,Nurturing,Mid-Market,Andre Thompson,2024-08-13,2024-11-15
+L01251,Elena Mitchell,Griffin Solutions,Analyst,LinkedIn,Dead,Mid-Market,Ivan Allen,2022-06-26,
+L01252,Maria Johnson,Nexus Solutions,Director IT,Partner,Disqualified,Outbound,Omar Patel,2023-04-30,
+L01253,Natalie Garcia,Orion Co,CEO,Cold Outreach,Disqualified,Outbound,Raj Allen,2024-03-17,
+L01254,Natalie Martinez,Meridian LLC,Manager,LinkedIn,Dead,Mid-Market,Raj Allen,2024-03-29,
+L01255,Priya Clark,Zenith Global,VP Sales,Trade Show,Disqualified,Enterprise,Raj Allen,2023-11-26,
+L01256,Jess Anderson,Helix Dynamics,CFO,Trade Show,Nurturing,Mid-Market,Miguel Scott,2024-07-08,2024-09-11
+L01257,Ben Nelson,Apex Group,Director IT,Website,Disqualified,Outbound,Maria Adams,2021-01-24,
+L01258,Andre Harris,Nexus Solutions,Manager,Trade Show,Converted,Outbound,Yuki Scott,2021-06-11,2021-09-12
+L01259,Elena Thompson,Eastbrook Co,Analyst,Cold Outreach,Dead,Partnerships,Marcus Anderson,2022-03-31,
+L01260,David Phillips,Crestview Global,Manager,Website,Dead,Inbound,James Allen,2022-07-18,2022-10-12
+L01261,Sarah Martinez,Aspen Technologies,CTO,Trade Show,New,Enterprise,Hannah Robinson,2021-09-09,
+L01262,Omar Patel,Raven Dynamics,Analyst,Website,Converted,Enterprise,Hannah Robinson,2022-03-02,
+L01263,Carlos Adams,Northgate LLC,CEO,Partner,Dead,Partnerships,Aisha Walker,2021-06-06,2021-06-17
+L01264,Layla Lewis,Eagle Global,CFO,Website,New,SMB,Yuki Scott,2022-01-01,
+L01265,Sofia Allen,Clearwater Ventures,Director IT,Inbound Call,Dead,SMB,Carlos Baker,2024-06-11,2024-06-24
+L01266,James Young,Rigel Co,Analyst,Trade Show,Working,SMB,Carlos Baker,2024-01-03,
+L01267,Marcus Martinez,Zenith Global,VP Sales,Trade Show,Nurturing,SMB,Sofia Turner,2021-03-02,2021-03-23
+L01268,Chris Allen,Southshore Partners,CTO,Email Campaign,Dead,Partnerships,Omar Williams,2022-12-15,
+L01269,Jess Thompson,Quanta Solutions,Director IT,Cold Outreach,Dead,Outbound,Kevin Thompson,2023-03-31,
+L01270,Andre Carter,Meadows Technologies,CFO,Webinar,Working,Mid-Market,Hannah Robinson,2021-07-30,
+L01271,Natalie Scott,Riverside Corp,CTO,Partner,Disqualified,Enterprise,Maria Hill,2023-07-03,
+L01272,Yuki Robinson,Griffin Solutions,Manager,Referral,Converted,Mid-Market,Natalie Chen,2024-03-07,
+L01273,Andre Clark,Aspen Technologies,CFO,Inbound Call,Nurturing,Partnerships,David Lewis,2022-06-03,2022-09-24
+L01274,Natalie Carter,Redpoint Inc,CTO,Cold Outreach,New,Mid-Market,Thomas Carter,2022-10-23,
+L01275,Sarah Johnson,Perseus Partners,Manager,Website,Dead,SMB,James Nelson,2022-10-06,
+L01276,Ivan Garcia,Orion Co,VP Sales,LinkedIn,Nurturing,Inbound,James Nelson,2022-10-21,
+L01277,Claire Anderson,Falcon Systems,CFO,Referral,Disqualified,Outbound,Sarah Phillips,2021-07-30,
+L01278,Marcus Mitchell,Perseus Partners,Director IT,Cold Outreach,New,Partnerships,Hannah Robinson,2023-06-11,2023-07-26
+L01279,Sarah Patel,Crossroads Systems,Director IT,Event,Nurturing,Inbound,Maria Hill,2023-05-13,2023-05-25
+L01280,James Green,Plains Partners,Analyst,Event,New,Partnerships,Eric Taylor,2022-08-07,2022-10-07
+L01281,Ivan Allen,Canyon Global,CFO,Website,Nurturing,Outbound,David Lewis,2021-03-17,2021-04-08
+L01282,Dana Lee,Dynamo Group,CTO,Partner,Converted,Enterprise,Omar Patel,2023-05-01,
+L01283,Omar Lee,Titan LLC,CEO,Email Campaign,Dead,Enterprise,Thomas Carter,2021-04-07,
+L01284,James Garcia,Highland LLC,Analyst,Website,Working,Enterprise,Omar Patel,2021-07-30,
+L01285,Aisha Kim,Vortex Technologies,Director IT,Partner,Disqualified,Enterprise,James Williams,2023-06-12,2023-09-30
+L01286,Sarah Chen,Meridian LLC,CTO,Referral,Nurturing,SMB,Maria Hill,2021-03-30,2021-04-30
+L01287,Andre Walker,Pines Systems,Director IT,Partner,Working,Inbound,Sarah Phillips,2021-10-10,
+L01288,Sarah Young,Oaks Solutions,Director IT,Event,Converted,Outbound,Hannah Robinson,2024-09-30,
+L01289,Eric Hill,Westfall Group,Director IT,Referral,Nurturing,SMB,Miguel Scott,2022-10-22,
+L01290,Layla Green,Riverside Corp,Analyst,Cold Outreach,Dead,Enterprise,Carlos Garcia,2022-05-12,
+L01291,Carlos Johnson,Willow Group,Director IT,Email Campaign,Converted,Mid-Market,Hannah Robinson,2021-05-04,2021-06-09
+L01292,Eric Young,Rigel Co,Analyst,Partner,Nurturing,Outbound,George Green,2024-04-24,
+L01293,Sarah Phillips,Brightfield Global,Director IT,Partner,Converted,Partnerships,Andre Thompson,2023-10-31,2023-12-31
+L01294,David Anderson,Coast Co,Director IT,Webinar,Disqualified,Outbound,James Allen,2022-01-20,2022-02-12
+L01295,Aisha Johnson,Griffin Solutions,CEO,Trade Show,Nurturing,Enterprise,Sofia Turner,2021-08-14,
+L01296,Yuki Anderson,Pines Systems,CFO,Referral,Nurturing,Partnerships,James Nelson,2023-07-17,2023-09-29
+L01297,Miguel Taylor,Highland LLC,CEO,Webinar,Nurturing,Enterprise,James Williams,2023-06-02,
+L01298,Carlos Lee,Valley Global,CEO,Trade Show,Disqualified,SMB,Chris Williams,2023-05-16,
+L01299,Natalie Patel,Cypress Global,VP Sales,Cold Outreach,New,Mid-Market,Carlos Baker,2023-11-29,2023-12-13
+L01300,Thomas Garcia,Lakeshore Group,CFO,Referral,Nurturing,Mid-Market,Raj Allen,2024-03-24,
+L01301,Aisha Hill,Bluestone Global,Manager,Webinar,Converted,Mid-Market,Aisha Walker,2021-07-27,
+L01302,Ben Lee,Falcon Systems,CFO,Webinar,Dead,Enterprise,James Allen,2022-12-13,2023-03-22
+L01303,Zoe Hill,Orbis Systems,Analyst,Cold Outreach,Working,SMB,Carlos Garcia,2024-06-28,2024-08-19
+L01304,Kevin Johnson,Willow Group,CEO,LinkedIn,Nurturing,Enterprise,Andre Anderson,2023-07-22,
+L01305,Priya Adams,Pinnacle Technologies,Analyst,Website,Disqualified,SMB,Sofia Turner,2021-06-07,
+L01306,Hannah Garcia,Westfall Group,VP Sales,Website,New,Inbound,Eric Taylor,2023-09-28,
+L01307,Miguel Kim,Pinnacle Technologies,Director IT,Referral,New,SMB,Yuki Roberts,2023-12-12,
+L01308,Claire Anderson,Willow Group,CEO,Webinar,Nurturing,Partnerships,Ivan Allen,2022-12-20,
+L01309,Chris Taylor,Griffin Solutions,CFO,Event,Converted,Enterprise,Kevin Thompson,2022-09-09,
+L01310,James Martinez,Northgate LLC,Analyst,Cold Outreach,Dead,Mid-Market,Yuki Scott,2024-08-03,
+L01311,Andre Hill,Titan LLC,CEO,Partner,Working,Outbound,Miguel Scott,2022-05-16,2022-07-13
+L01312,Sarah Anderson,Hawk Dynamics,Manager,Inbound Call,Converted,Inbound,Andre Anderson,2024-08-01,2024-11-05
+L01313,Ivan Taylor,Prism Group,CFO,LinkedIn,Nurturing,SMB,Fiona Roberts,2022-12-16,2023-03-02
+L01314,Marcus Mitchell,Birch Co,VP Sales,LinkedIn,Converted,Inbound,Yuki Scott,2024-12-08,2024-12-19
+L01315,Jess Adams,Crestview Global,CEO,Trade Show,Disqualified,SMB,Aisha Walker,2023-10-19,
+L01316,David Carter,Aspen Technologies,VP Sales,Email Campaign,New,Mid-Market,Eric Taylor,2022-08-14,
+L01317,Maria Hall,Orbis Systems,VP Sales,LinkedIn,Nurturing,Outbound,Ivan Allen,2021-09-10,2021-10-07
+L01318,Ivan Lee,Plains Partners,Analyst,Inbound Call,Dead,Inbound,Claire Clark,2022-12-19,
+L01319,Kevin Hill,Valley Global,CEO,Event,New,SMB,Fiona Kim,2022-07-09,2022-09-02
+L01320,Fiona Adams,Eagle Global,CEO,LinkedIn,Converted,Enterprise,Marcus Anderson,2022-05-25,
+L01321,Elena Kim,Goldridge Global,CEO,Partner,Disqualified,Mid-Market,Fiona Roberts,2024-05-07,2024-07-09
+L01322,Carlos Lee,Orbis Systems,VP Sales,Webinar,Disqualified,Outbound,George Green,2024-02-10,
+L01323,Fiona Turner,Helix Dynamics,CEO,Referral,Working,Inbound,Claire Lee,2023-02-09,
+L01324,Jess Adams,Falcon Systems,CTO,Email Campaign,Nurturing,Partnerships,George Green,2023-10-29,
+L01325,Raj Johnson,Canyon Global,CFO,Website,Converted,Enterprise,Ben Baker,2023-04-21,
+L01326,Fiona Garcia,Apex Group,CFO,Partner,Working,Inbound,Maria Adams,2022-09-12,
+L01327,Maria Nelson,Cedar Ventures,CEO,Trade Show,Converted,Outbound,Ivan Allen,2022-08-24,
+L01328,Raj Mitchell,Highland LLC,VP Sales,Website,Nurturing,Outbound,James Allen,2023-11-27,
+L01329,George Lee,Goldridge Global,CEO,Partner,New,Enterprise,Andre Thompson,2021-07-19,
+L01330,Chris Thompson,Oaks Solutions,Director IT,Inbound Call,Dead,Partnerships,Ben Baker,2021-04-19,2021-07-24
+L01331,Hannah Martinez,Orbis Systems,Manager,Webinar,Dead,Enterprise,Hannah Robinson,2024-08-03,
+L01332,Sarah Williams,Clearwater Ventures,Director IT,Event,New,Inbound,James Allen,2022-02-16,2022-03-11
+L01333,James Mitchell,Rigel Co,CEO,LinkedIn,New,Enterprise,Sarah Williams,2023-08-29,
+L01334,George Garcia,Helix Dynamics,Analyst,Inbound Call,Nurturing,Inbound,Claire Lee,2022-01-12,
+L01335,Sarah Clark,Crestview Global,Manager,Website,Working,Mid-Market,Chris Clark,2024-06-17,2024-09-29
+L01336,Claire Thompson,Westfall Group,CEO,Webinar,Nurturing,Outbound,James Allen,2024-12-03,
+L01337,Yuki Adams,Dynamo Group,CEO,LinkedIn,Dead,Enterprise,George Green,2023-10-07,
+L01338,Kevin Johnson,Aspen Technologies,CEO,Referral,Disqualified,Partnerships,Ivan Allen,2023-05-21,
+L01339,Ben Green,Griffin Solutions,Manager,Event,Converted,Enterprise,Yuki Scott,2021-03-11,
+L01340,Ivan Hill,Solara Technologies,CTO,Website,Working,SMB,Andre Thompson,2023-08-17,
+L01341,Carlos Robinson,Griffin Solutions,Manager,Inbound Call,Converted,Inbound,Carlos Garcia,2023-10-28,2023-11-26
+L01342,Ben Hill,Goldridge Global,CTO,Email Campaign,Dead,Mid-Market,Kevin Thompson,2022-12-22,
+L01343,Elena Phillips,Prism Group,VP Sales,Email Campaign,Converted,Partnerships,Andre Anderson,2024-09-10,
+L01344,Eric Adams,Oaks Solutions,CTO,Trade Show,Dead,SMB,Yuki Scott,2023-11-05,
+L01345,David Chen,Nexus Solutions,Analyst,Trade Show,Working,Enterprise,James Allen,2023-04-07,
+L01346,Zoe Taylor,Pinnacle Technologies,Director IT,Cold Outreach,New,Mid-Market,Maria Hill,2024-10-23,
+L01347,Jess Williams,Highland LLC,CFO,Webinar,New,Enterprise,Carlos Garcia,2023-05-11,
+L01348,Sofia Green,Helix Dynamics,VP Sales,Trade Show,Nurturing,Enterprise,Claire Lee,2023-02-06,
+L01349,Andre Allen,Valley Global,Director IT,Webinar,Converted,Partnerships,Eric Taylor,2024-07-29,2024-11-10
+L01350,Natalie Mitchell,Oaks Solutions,Analyst,Cold Outreach,New,Inbound,David Lewis,2021-11-28,
+L01351,Sarah Thompson,Vertex Inc,Analyst,Trade Show,New,SMB,Sarah Phillips,2024-10-01,
+L01352,Marcus Kim,Cypress Global,Manager,Inbound Call,Converted,Mid-Market,James Nelson,2021-05-28,
+L01353,Miguel Robinson,Sirius Partners,CFO,Inbound Call,Working,Enterprise,Claire Lee,2023-08-29,
+L01354,Hannah Williams,Goldridge Global,VP Sales,Trade Show,Disqualified,SMB,James Allen,2023-02-10,2023-03-21
+L01355,Sofia Allen,Atlas Group,VP Sales,Cold Outreach,Nurturing,SMB,Maria Hill,2021-04-16,
+L01356,Hannah Roberts,Elms Inc,CTO,Referral,Disqualified,Inbound,Chris Clark,2021-05-20,
+L01357,Miguel Lee,Prism Group,CFO,Website,Disqualified,Outbound,Carlos Baker,2024-06-05,
+L01358,Ben Johnson,Vertex Inc,CTO,LinkedIn,Nurturing,Mid-Market,Yuki Roberts,2022-06-23,
+L01359,Kevin Thompson,Orion Co,Analyst,Partner,Dead,Enterprise,Chris Clark,2021-05-02,
+L01360,Ivan Scott,Titan LLC,Analyst,Website,Nurturing,Enterprise,Sarah Phillips,2024-02-29,
+L01361,Jess Williams,Hawk Dynamics,CFO,Email Campaign,Working,SMB,Natalie Chen,2024-06-08,2024-08-20
+L01362,Aisha Green,Sirius Partners,CEO,Email Campaign,Nurturing,Mid-Market,David Lewis,2023-11-06,
+L01363,Eric Carter,Maple Group,Director IT,Inbound Call,Disqualified,Partnerships,David Lewis,2021-02-23,
+L01364,Omar Nelson,Stratos Inc,Manager,Trade Show,Converted,Outbound,Omar Williams,2021-04-17,
+L01365,Raj Patel,Griffin Solutions,CFO,Partner,Nurturing,Mid-Market,Yuki Roberts,2021-08-25,
+L01366,Aisha Garcia,Vortex Technologies,CFO,Website,Working,Partnerships,Maria Adams,2021-04-29,
+L01367,Hannah Hill,Midpoint Dynamics,Analyst,Website,New,Enterprise,Ben Baker,2021-01-31,
+L01368,Maria Taylor,Sirius Partners,CFO,Cold Outreach,Nurturing,Mid-Market,Raj Allen,2022-08-02,
+L01369,Layla Williams,Lakeshore Group,CTO,Inbound Call,Working,Partnerships,Yuki Scott,2021-09-08,
+L01370,Raj Baker,Orbis Systems,CTO,Inbound Call,Nurturing,Outbound,Chris Clark,2022-03-28,
+L01371,Marcus Baker,Eastbrook Co,CFO,Referral,New,SMB,Sarah Phillips,2022-07-02,
+L01372,Zoe Anderson,Vortex Technologies,Director IT,Trade Show,Disqualified,Mid-Market,Sarah Williams,2024-06-27,
+L01373,Sarah Robinson,Silverline Co,Analyst,Trade Show,New,Mid-Market,Claire Lee,2022-03-08,
+L01374,Sarah Johnson,Raven Dynamics,Analyst,Website,Nurturing,SMB,Maria Hill,2023-07-19,
+L01375,Maria Anderson,Cedar Ventures,CFO,LinkedIn,Converted,Enterprise,Maria Hill,2021-06-23,
+L01376,Aisha Thompson,Stratos Inc,Director IT,LinkedIn,Disqualified,Enterprise,Sarah Williams,2021-04-01,2021-07-17
+L01377,Jess Johnson,Canyon Global,CFO,Partner,Nurturing,Inbound,James Nelson,2022-12-14,
+L01378,Dana Mitchell,Birch Co,CEO,LinkedIn,Dead,Outbound,James Williams,2022-11-30,
+L01379,Omar Hill,Phoenix LLC,Manager,Webinar,Disqualified,Partnerships,Omar Williams,2024-02-08,
+L01380,Eric Young,Quanta Solutions,Director IT,LinkedIn,Converted,Outbound,Chris Clark,2024-03-09,2024-03-20
+L01381,Fiona Adams,Meridian LLC,CTO,Referral,Working,Inbound,Eric Taylor,2022-07-29,
+L01382,Maria Scott,Dynamo Group,CTO,Webinar,Dead,SMB,Ivan Allen,2023-03-20,2023-06-10
+L01383,Marcus Mitchell,Quanta Solutions,Analyst,Trade Show,Converted,Partnerships,David Lewis,2024-09-15,
+L01384,Maria Robinson,Westfall Group,Manager,Inbound Call,Working,Partnerships,James Williams,2023-08-14,
+L01385,Thomas Turner,Birch Co,CFO,Partner,New,Partnerships,Andre Anderson,2021-06-12,2021-09-30
+L01386,Thomas Roberts,Raven Dynamics,Director IT,Cold Outreach,Dead,Mid-Market,Claire Clark,2022-07-20,
+L01387,Maria Garcia,Pines Systems,Manager,Website,Working,Outbound,Andre Thompson,2024-09-05,
+L01388,Marcus Chen,Orion Co,Manager,Cold Outreach,New,Outbound,Marcus Anderson,2024-04-02,
+L01389,Layla Roberts,Cedar Ventures,Analyst,Partner,Disqualified,Outbound,Natalie Chen,2021-02-03,
+L01390,Sarah Williams,Rigel Co,CEO,Referral,Disqualified,Enterprise,Chris Clark,2022-12-18,2023-03-11
+L01391,George Mitchell,Cypress Global,CEO,Referral,Dead,Partnerships,Eric Taylor,2023-01-31,2023-03-23
+L01392,Fiona Robinson,Atlas Group,CEO,Partner,Converted,SMB,David Lewis,2024-05-28,2024-06-12
+L01393,Jess Martinez,Canyon Global,CFO,Website,New,Inbound,James Nelson,2022-08-19,
+L01394,Chris Nelson,Riverside Corp,CFO,Event,Dead,SMB,James Nelson,2023-11-13,
+L01395,Maria Adams,Silverline Co,Director IT,LinkedIn,Dead,Enterprise,Carlos Garcia,2024-04-08,
+L01396,Andre Young,Goldridge Global,Manager,Inbound Call,Dead,Partnerships,Maria Adams,2022-04-05,
+L01397,Fiona Chen,Summit Solutions,CEO,Inbound Call,Disqualified,Partnerships,Omar Patel,2023-12-17,2024-04-12
+L01398,Elena Phillips,Midpoint Dynamics,CTO,Cold Outreach,Nurturing,Mid-Market,George Green,2024-03-24,
+L01399,Chris Garcia,Crossroads Systems,Manager,LinkedIn,Nurturing,Enterprise,Yuki Scott,2021-08-25,
+L01400,Jess Robinson,Southshore Partners,CEO,Event,Working,Partnerships,Sarah Phillips,2021-06-06,2021-09-29
+L01401,Jess Allen,Midpoint Dynamics,Analyst,LinkedIn,Dead,Inbound,Ben Baker,2021-09-14,
+L01402,Marcus Taylor,Pines Systems,VP Sales,LinkedIn,Converted,Inbound,Claire Clark,2022-08-11,
+L01403,Ivan Nelson,Valley Global,Director IT,Email Campaign,New,Mid-Market,Carlos Baker,2024-07-19,
+L01404,Chris Phillips,Westfall Group,Manager,Referral,Working,Enterprise,Omar Williams,2024-02-10,2024-03-12
+L01405,Kevin Young,Ridge Group,CFO,LinkedIn,Converted,SMB,Ben Baker,2021-05-30,
+L01406,Aisha Baker,Aspen Technologies,VP Sales,Partner,Nurturing,Inbound,James Allen,2024-02-15,
+L01407,David Hill,Canyon Global,CTO,Email Campaign,Converted,Outbound,Claire Lee,2021-04-03,
+L01408,Elena Nelson,Westfall Group,Manager,Trade Show,Dead,Mid-Market,Andre Thompson,2023-06-12,2023-06-22
+L01409,Andre Robinson,Cypress Global,Manager,Email Campaign,Converted,SMB,Claire Lee,2024-04-30,2024-08-10
+L01410,Thomas Nelson,Harbor Technologies,Director IT,Webinar,Converted,SMB,James Williams,2024-04-19,
+L01411,Andre Young,Cedar Ventures,CEO,Webinar,Nurturing,Partnerships,Omar Patel,2023-12-12,
+L01412,Maria Mitchell,Meridian LLC,Manager,Cold Outreach,Converted,Inbound,Kevin Thompson,2021-10-21,
+L01413,Marcus Patel,Sirius Partners,CTO,Trade Show,New,SMB,Kevin Thompson,2024-06-14,
+L01414,Ivan Kim,Aspen Technologies,CTO,Event,New,Mid-Market,Kevin Thompson,2022-04-04,2022-05-10
+L01415,George Young,Pinnacle Technologies,Director IT,Website,Disqualified,Enterprise,Maria Adams,2024-02-05,
+L01416,James Hall,Helix Dynamics,Analyst,Website,Nurturing,Mid-Market,Eric Taylor,2022-02-04,
+L01417,Natalie Hill,Crossroads Systems,CFO,Trade Show,Converted,SMB,Carlos Baker,2024-03-15,
+L01418,Raj Turner,Coast Co,CEO,Webinar,New,Mid-Market,Kevin Thompson,2021-09-03,
+L01419,Yuki Carter,Vortex Technologies,Manager,Cold Outreach,Dead,Enterprise,Omar Patel,2021-08-27,2021-10-18
+L01420,Raj Green,Riverside Corp,CFO,Referral,Dead,Outbound,Omar Patel,2022-07-20,
+L01421,Natalie Patel,Phoenix LLC,Manager,Inbound Call,Nurturing,Mid-Market,Natalie Chen,2021-03-20,
+L01422,James Garcia,Brightfield Global,CFO,LinkedIn,Working,Outbound,Fiona Roberts,2024-07-08,2024-08-06
+L01423,George Kim,Silverline Co,CEO,Webinar,Working,Mid-Market,Miguel Scott,2023-09-20,
+L01424,James Clark,Lakeshore Group,CEO,Inbound Call,Disqualified,Mid-Market,Andre Anderson,2022-03-15,2022-06-21
+L01425,Sofia Harris,Eagle Global,CFO,Cold Outreach,Dead,SMB,Sofia Turner,2022-06-23,
+L01426,Ivan Lee,Helix Dynamics,Director IT,Webinar,Dead,Partnerships,Hannah Robinson,2022-01-04,
+L01427,Sofia Robinson,Eastbrook Co,CEO,Webinar,New,Mid-Market,Carlos Baker,2023-03-15,
+L01428,Natalie Walker,Perseus Partners,Director IT,LinkedIn,New,Mid-Market,George Green,2022-08-12,
+L01429,Sarah Robinson,Titan LLC,CEO,Trade Show,Converted,Partnerships,Sarah Phillips,2024-09-14,
+L01430,Elena Anderson,Rigel Co,Director IT,LinkedIn,New,Inbound,Omar Patel,2021-03-01,2021-04-20
+L01431,Omar Carter,Crossroads Systems,CEO,LinkedIn,Nurturing,Enterprise,Kevin Thompson,2023-04-23,
+L01432,Marcus Green,Bluestone Global,VP Sales,Webinar,Converted,Partnerships,Fiona Kim,2022-03-25,
+L01433,Claire Thompson,Meadows Technologies,Manager,Referral,Disqualified,Inbound,Yuki Roberts,2021-12-08,2022-02-25
+L01434,Dana Johnson,Maple Group,CEO,Referral,Dead,SMB,Yuki Scott,2021-02-10,
+L01435,David Green,Highland LLC,CFO,Cold Outreach,Nurturing,Inbound,Fiona Roberts,2024-02-07,
+L01436,Omar Roberts,Falcon Systems,Director IT,Webinar,Working,SMB,Yuki Roberts,2024-01-03,
+L01437,Dana Garcia,Meridian LLC,VP Sales,Website,New,Inbound,James Allen,2024-02-07,
+L01438,Maria Kim,Aspen Technologies,CTO,Website,Working,Outbound,Chris Clark,2023-09-21,2024-01-04
+L01439,George Carter,Stratos Inc,Manager,LinkedIn,Working,Outbound,Kevin Thompson,2021-09-11,
+L01440,David Young,Silverline Co,Manager,LinkedIn,New,Enterprise,Maria Adams,2021-06-06,
+L01441,Sarah Hill,Apex Group,Analyst,LinkedIn,Working,Inbound,Sarah Williams,2021-11-07,
+L01442,Miguel Hill,Nexus Solutions,CTO,Webinar,Converted,Mid-Market,James Allen,2023-05-21,2023-08-22
+L01443,Zoe Harris,Aspen Technologies,CEO,Referral,Working,Partnerships,Kevin Thompson,2024-03-26,
+L01444,Claire Young,Midpoint Dynamics,CEO,Website,Converted,Outbound,Raj Allen,2024-12-10,
+L01445,Chris Patel,Crossroads Systems,Director IT,Event,New,Partnerships,Fiona Kim,2024-01-25,
+L01446,Andre Patel,Southshore Partners,CTO,Partner,Working,Outbound,Miguel Scott,2023-09-04,2023-10-05
+L01447,Hannah Hall,Apex Group,Director IT,Referral,Working,Partnerships,Sofia Turner,2022-03-02,
+L01448,Eric Garcia,Highland LLC,Analyst,Email Campaign,Nurturing,Partnerships,Sarah Williams,2024-03-06,
+L01449,Maria Taylor,Titan LLC,CFO,Event,Converted,Enterprise,Kevin Thompson,2021-11-05,
+L01450,Fiona Hall,Eastbrook Co,CEO,Partner,Dead,Mid-Market,Omar Patel,2024-02-26,
+L01451,Miguel Allen,Cedar Ventures,Manager,Referral,New,Partnerships,Carlos Garcia,2023-09-17,
+L01452,Priya Young,Riverside Corp,VP Sales,Trade Show,Working,Partnerships,Carlos Baker,2021-01-28,2021-04-02
+L01453,Priya Green,Maple Group,CFO,Email Campaign,Working,Outbound,Sarah Phillips,2023-10-12,
+L01454,Sarah Clark,Aspen Technologies,Manager,Webinar,Disqualified,SMB,Thomas Carter,2022-08-31,
+L01455,Kevin Lee,Oaks Solutions,Manager,Cold Outreach,Disqualified,Outbound,Thomas Carter,2021-12-06,
+L01456,Zoe Walker,Ironwood Solutions,CTO,Trade Show,Working,Inbound,Sofia Turner,2022-05-30,2022-08-01
+L01457,Kevin Hall,Lakeshore Group,VP Sales,Webinar,Dead,Mid-Market,Fiona Roberts,2022-01-03,
+L01458,Raj Taylor,Harbor Technologies,VP Sales,Event,Converted,Inbound,Aisha Walker,2024-01-07,2024-04-07
+L01459,Ivan Garcia,Sirius Partners,Manager,Website,Working,SMB,Eric Taylor,2024-02-20,
+L01460,Andre Hill,Orbis Systems,CTO,Event,Converted,SMB,Maria Adams,2023-05-23,
+L01461,David Lewis,Crestview Global,VP Sales,Cold Outreach,Nurturing,Mid-Market,Marcus Anderson,2022-02-19,
+L01462,Fiona Young,Apex Group,Manager,LinkedIn,Nurturing,Inbound,Kevin Thompson,2021-09-17,
+L01463,Layla Phillips,Westfall Group,Director IT,Trade Show,New,Mid-Market,James Nelson,2024-06-15,2024-10-05
+L01464,Kevin Martinez,Elms Inc,CEO,Website,Nurturing,Enterprise,James Williams,2024-06-13,2024-10-04
+L01465,Natalie Adams,Westfall Group,CTO,Webinar,Disqualified,Enterprise,Chris Clark,2023-06-20,
+L01466,Eric Harris,Falcon Systems,CEO,Partner,Nurturing,Inbound,Omar Patel,2023-02-12,
+L01467,George Thompson,Bayview Corp,Director IT,Webinar,Dead,Mid-Market,Omar Williams,2024-05-24,
+L01468,Chris Carter,Quanta Solutions,Manager,Referral,Disqualified,Partnerships,Yuki Scott,2023-10-01,2024-01-29
+L01469,Hannah Walker,Meadows Technologies,Manager,Partner,Dead,Partnerships,James Nelson,2023-01-19,
+L01470,Omar Robinson,Redpoint Inc,Manager,Website,Working,Partnerships,Thomas Carter,2022-01-27,
+L01471,Andre Lee,Atlas Group,VP Sales,Partner,Nurturing,Inbound,Ivan Allen,2021-01-12,
+L01472,Ben Anderson,Southshore Partners,CEO,LinkedIn,New,Outbound,Marcus Anderson,2021-03-10,2021-03-27
+L01473,George Johnson,Ridge Group,Manager,Email Campaign,Disqualified,Outbound,George Green,2024-03-17,
+L01474,Dana Roberts,Southshore Partners,Analyst,Inbound Call,New,Enterprise,Thomas Carter,2023-08-28,2023-12-07
+L01475,Chris Hill,Redpoint Inc,Analyst,Trade Show,New,Partnerships,Carlos Baker,2021-11-10,2022-02-09
+L01476,Maria Taylor,Harbor Technologies,Analyst,Inbound Call,Nurturing,Mid-Market,David Lewis,2024-12-26,
+L01477,Hannah Turner,Perseus Partners,Manager,Trade Show,Disqualified,Outbound,Thomas Carter,2024-10-08,
+L01478,Omar Clark,Helix Dynamics,Manager,Website,New,Mid-Market,Andre Thompson,2024-09-22,2024-11-05
+L01479,Priya Walker,Vertex Inc,CTO,Event,Working,Outbound,Andre Thompson,2021-06-21,
+L01480,Dana Mitchell,Helix Dynamics,VP Sales,Webinar,Nurturing,Inbound,Yuki Scott,2024-07-25,2024-10-02
+L01481,George Baker,Vortex Technologies,CFO,Email Campaign,New,Enterprise,Miguel Scott,2024-03-09,2024-03-30
+L01482,Marcus Lewis,Eagle Global,VP Sales,Trade Show,New,Mid-Market,Thomas Carter,2022-01-16,
+L01483,Elena Mitchell,Cypress Global,Manager,Cold Outreach,Dead,Outbound,Ben Baker,2022-05-21,
+L01484,Chris Lee,Redpoint Inc,CTO,Trade Show,Disqualified,SMB,Sarah Phillips,2023-02-16,2023-03-22
+L01485,Ivan Thompson,Redpoint Inc,CTO,Webinar,Dead,Partnerships,Marcus Anderson,2022-07-13,2022-09-06
+L01486,Yuki Robinson,Meadows Technologies,Manager,Inbound Call,Converted,Outbound,Aisha Walker,2024-03-31,2024-07-25
+L01487,Omar Martinez,Eastbrook Co,CFO,Cold Outreach,Dead,Partnerships,Yuki Scott,2024-04-13,
+L01488,Fiona Lee,Ironwood Solutions,CTO,Inbound Call,Disqualified,Outbound,Kevin Thompson,2024-10-28,2025-02-13
+L01489,Thomas Thompson,Solara Technologies,CTO,Website,New,Inbound,Andre Anderson,2022-03-08,
+L01490,Andre Taylor,Vega Solutions,CFO,LinkedIn,Dead,Inbound,Natalie Chen,2023-08-15,
+L01491,Ben Robinson,Ridge Group,VP Sales,Trade Show,Converted,Partnerships,Yuki Roberts,2021-08-03,
+L01492,Priya Phillips,Sirius Partners,CTO,Trade Show,Converted,Inbound,Andre Anderson,2021-07-25,
+L01493,Fiona Scott,Solara Technologies,CFO,Event,Dead,Partnerships,Raj Allen,2023-06-19,
+L01494,Thomas Hill,Vega Solutions,CFO,Partner,Converted,Outbound,Raj Allen,2022-05-14,
+L01495,Eric Phillips,Griffin Solutions,CFO,Referral,Converted,Partnerships,Kevin Thompson,2022-04-25,
+L01496,Andre Johnson,Elms Inc,CFO,Trade Show,Nurturing,Inbound,Chris Williams,2023-04-01,2023-06-22
+L01497,Kevin Adams,Atlas Group,Analyst,Website,New,SMB,Claire Clark,2021-10-13,
+L01498,Omar Kim,Solara Technologies,VP Sales,Trade Show,Working,Mid-Market,Sarah Williams,2023-07-29,
+L01499,Aisha Roberts,Ironwood Solutions,CEO,Referral,Dead,Mid-Market,Claire Clark,2022-01-14,
+L01500,James Hall,Elms Inc,CTO,Referral,Converted,Inbound,Raj Allen,2023-02-06,
